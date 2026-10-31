@@ -12,6 +12,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 RAW = "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/main/"
 
 GUIDE = "https://nnwa.in/protein"
+# Hrito, 31 Oct: nnwa.in/protein is not live yet, schedule without it. While False, guide CTAs carry no URL,
+# Instagram keeps "link in bio" (update the bio when the page is live) and the 09:00 link-sticker Stories are held.
+GUIDE_LIVE = False
 COURSES = "https://nnwa.in/courses"  # course page slugs to be confirmed once nnwa.in is reachable
 
 
@@ -322,6 +325,62 @@ post(d="2026-11-30", slug="make-it-your-work", fmt="Display statement", hook="Ma
      src=[], tags=["#NNWA", "#NutritionCourse", "#CareerInNutrition", "#OnlineLearning"])
 
 
+
+# ---- Week 1 captions, copied from the lead-magnet plan (7-day-plan-lead-magnet.md, 31 Oct 2026) ----
+W1_CAPTIONS = {
+ "guide-launch": dict(ig=("How much protein do you need, and where does it come from on an Indian plate?\n\n"
+     "We wrote a free guide to answer that properly. Protein, decoded has 34 pages and seven short chapters. It includes a 60-second check, your number from ICMR-NIN's 0.83 g per kg, a table of everyday Indian foods, eight easy wins, a weekly tracker and a fridge sheet you can print.\n\n"
+     "Every fact in it comes from Indian government sources: ICMR-NIN and FSSAI. It's general information for healthy adults, not medical advice."),
+     cta_line="Get it free from the link in bio.", tags=["#ProteinDecoded", "#NNWA", "#IndianNutrition", "#ProteinBasics"],
+     alt="Slide 1, forest green slide reading 'A free guide: Protein, decoded' above the guide's cover. Slide 2, 'Seven short chapters' above the contents page. Slide 3, 'Start with a 60-second check'. Slide 4, 'Everyday Indian foods, real numbers'. Slide 5, 'A fridge sheet you can print'. Slide 6, NNWA seal: 'Get it free from the link in bio', nnwa.in/protein."),
+ "fibre": dict(ig=("Most of the fibre on an Indian plate comes from four everyday places.\n\n"
+     "Whole grains like atta, brown rice, millets and oats. Pulses: dal, rajma, chana, moong. Vegetables, especially with the skin on where it is edible. Whole fruit rather than juice.\n\n"
+     "Dal, rajma and chana bring fibre and protein together. Chapter 03 of our free guide, Protein, decoded, shows how much protein each one gives."),
+     cta_line="Get it from the link in bio.", tags=["#ProteinDecoded", "#NNWA", "#NutritionBasics", "#IndianNutrition"],
+     alt="Forest green poster with the word 'fibre' set vertically beside a bowl of rajma in a dashed ring. Note: 'Four everyday sources: whole grains, pulses, vegetables and fruit.' Footer: Free guide: nnwa.in/protein."),
+ "protein": dict(ig=("How much protein do you actually need in a day? One number does most of the work.\n\n"
+     "Healthy adults need about 0.83 g of protein per kg of body weight a day. At 60 kg that is about 50 g. Slides 2 to 4 show how to work out yours, how to spread it across meals and which everyday foods to mix.\n\n"
+     "Needs are different in pregnancy, older age, kidney disease and heavy training, so check with a qualified expert if any of those apply to you.\n\n"
+     "The full guide has the calculator, a table of everyday Indian foods and a weekly tracker."),
+     cta_line="It's free from the link in bio.", tags=["#ProteinDecoded", "#NNWA", "#ProteinBasics", "#IndianNutrition"],
+     li=("Clients ask \"how much protein?\" more than almost anything else. ICMR-NIN's 2020 Nutrient Requirements for Indians give a clean starting point for healthy adults: 0.83 g per kg of body weight per day.\n\n"
+         "The five slides cover the calculation, meal distribution and mixed sources. We've put the full reference into a free 34-page guide: requirements by life stage, an Indian food table and FSSAI label rules, all from government sources."),
+     alt="Five-slide carousel. Slide 1: '0.83 g/kg of protein per kg of body weight a day, for healthy adults'. Slides 2 to 4: working out your number, spreading it across meals, mixing foods. Slide 5: NNWA seal, 'Get the full guide, free. nnwa.in/protein'."),
+ "salt-check": dict(ig=("Not more than 5 g of salt a day. That's one teaspoon, and it includes the salt already in your food.\n\n"
+     "Pickles, papads, namkeen and sauces add up quickly. Taste before you add salt at the table, and check the sodium line on labels.\n\n"
+     "Labels hide more than salt. Our free guide, Protein, decoded, shows how to read an Indian food label, including protein claims."),
+     cta_line="Link in bio.", tags=["#ProteinDecoded", "#NNWA", "#SaltCheck", "#NutritionBasics"],
+     li=("Three reference numbers that come up in almost every nutrition conversation, all from ICMR-NIN: protein 0.83 g/kg/day for healthy adults (2020), salt not more than 5 g a day, and 400 g of vegetables plus 100 g of fruit a day on a 2,000 kcal plate (Dietary Guidelines for Indians, 2024).\n\n"
+         "They're starting points, not prescriptions. The protein one is unpacked in our free guide."),
+     li_asset="2026-11-05-linkedin-numbers.png", li_alt="Paper card titled 'Three numbers worth knowing': 0.83 g/kg protein, 5 g salt, 400 g vegetables plus 100 g fruit, each under a brass rule.",
+     alt="Off-white poster. Headline 'Not more than 5 g of salt a day. That is one teaspoon.' Wooden spoon of salt in a circle with a dashed ring. Notes: 'ICMR-NIN advice: not more than 5 g of salt a day, from all foods' and 'Hidden salt: pickles, papads, namkeen and sauces count too'. Footer: Free guide: nnwa.in/protein."),
+ "half-your-plate": dict(ig=("Half your plate: vegetables and fruit.\n\n"
+     "ICMR-NIN's Dietary Guidelines for Indians (2024) have vegetables, fruits, greens, tubers and roots forming about half the plate, with the rest shared between cereals, pulses or other protein, and dairy.\n\n"
+     "What goes on the other half? Our free guide builds four example Indian days."),
+     cta_line="Get it from the link in bio.", tags=["#ProteinDecoded", "#NNWA", "#MyPlate", "#IndianNutrition"], src=["DGI-plate"],
+     alt="Photo of a vegetable plate with a frosted glass card: 'Half your plate: vegetables and fruit.' Body: ICMR-NIN's Dietary Guidelines for Indians (2024) suggest filling about half the plate with vegetables, greens and fruit. Footer: Free guide: nnwa.in/protein."),
+ "eat-the-colours": dict(ig=("Four colours for this week's shopping list.\n\n"
+     "Greens like spinach, methi and lettuce. Reds like tomato, capsicum and beetroot. Yellow and orange like lemon, pumpkin and papaya. Purples like brinjal, jamun and red cabbage. Variety matters more than any single food.\n\n"
+     "Add one protein to that list. Our free guide has a one-page fridge sheet to help."),
+     cta_line="Link in bio.", tags=["#ProteinDecoded", "#NNWA", "#EatTheRainbow", "#IndianFood"],
+     alt="Off-white poster 'Four colours for this week's shopping list' with four photo tiles: greens, reds, yellow and orange, purples, each naming everyday Indian vegetables and fruit. Footer: Free guide: nnwa.in/protein."),
+ "learn-apply": dict(),
+ "reel-500g": dict(ig=("What does 500 g of vegetables and fruit a day look like?\n\n"
+     "ICMR-NIN's Dietary Guidelines for Indians (2024) use 400 g of vegetables and 100 g of fruit a day for a 2,000 kcal plate. Vegetables are half the plate. The other half needs protein, and our free guide shows how to build it."),
+     cta_line="Link in bio.", tags=["#ProteinDecoded", "#NNWA", "#EatMoreVeg", "#IndianNutrition"],
+     alt="Reel. Scene 1: 'What does 500 g look like?'. Scene 2: '400 g of vegetables, and 100 g of fruit, for a 2,000 kcal day'. Scene 3: 'Two katoris of sabzi, plus a bowl of salad and a plate of greens'. Scene 4: 'One whole fruit'. Scene 5: 'The other half needs protein'. End card: 'Get the free guide. nnwa.in/protein'."),
+}
+for _p in P:
+    _w = W1_CAPTIONS.get(_p["slug"])
+    if _w:
+        for _k, _v in _w.items():
+            if _k == "li" and _p.get("li") and not str(_p["li"]).startswith("see"):
+                continue
+            if _k == "src":
+                _p["src"] = sorted(set(_p.get("src", []) + _v))
+                continue
+            _p.setdefault(_k, _v) if _k != "li" else _p.__setitem__("li", _v)
+
 # ---------------------------------------------------------------------------
 # Timings (IST). General benchmarks for Indian audiences; refine after week 2 with Buffer analytics.
 # ---------------------------------------------------------------------------
@@ -359,9 +418,10 @@ def build():
         day = [p for p in P if p["d"] == d]
         # morning story: link frame (guide), rotated; course frame on course days
         course_day = any(p.get("cta") == "course" for p in day if not p.get("li_only"))
-        frame = "stories/course-story-link.jpg" if course_day else STORY_LINK_FRAMES[i % 4]
-        dest = "course" if course_day else "guide"
-        items.append(dict(date=d, time="09:00", channel="instagram", type="story", asset=frame,
+        if GUIDE_LIVE:
+          frame = "stories/course-story-link.jpg" if course_day else STORY_LINK_FRAMES[i % 4]
+          dest = "course" if course_day else "guide"
+          items.append(dict(date=d, time="09:00", channel="instagram", type="story", asset=frame,
                           link=link(dest, "instagram", "story", f"{d}-am"), note="Link sticker"))
         for p in day:
             if p.get("li_only"):
@@ -481,6 +541,11 @@ def captions(p):
     fc_ig = (("Link in bio: " + ("nnwa.in/courses" if course else "nnwa.in/protein")) +
              ("\nSources: " + "; ".join(src) if src else "") + ("\n" + DISCLAIMER if src else ""))
     fc_fb = what + link(dest, "facebook", "social", f"{p['d']}-{p['slug']}") + ("\nSources: " + "; ".join(src) if src else "")
+    if not course and not GUIDE_LIVE:
+        fb_cta = "" if p.get("soft") else "Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first."
+        fb = p["ig"] + ("\n\n" + fb_cta if fb_cta else "") + ("\n\nSource: " + "; ".join(src) if src else "")
+        fc_ig = "Free guide, Protein, decoded: link in bio." + ("\nSources: " + "; ".join(src) if src else "") + ("\n" + DISCLAIMER if src else "")
+        fc_fb = "Free guide, Protein, decoded: coming soon to this page." + ("\nSources: " + "; ".join(src) if src else "")
     return ig, fb, fc_ig, fc_fb
 
 
@@ -488,11 +553,15 @@ def li_caption(p):
     src = sources(p)
     course = p.get("cta") == "course"
     tail = ("Courses are linked in the first comment." if course else "The free guide, Protein, decoded, is linked in the first comment.")
+    if not course and not GUIDE_LIVE:
+        tail = "Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first."
     if p.get("soft"):
         tail = ""
     li = p["li"] + ("\n\n" + tail if tail else "") + "\n\n#Nutrition #NutritionEducation #PublicHealth"
     dest = "course" if course else "guide"
     fc = ("Courses: " if course else "Free guide: ") + link(dest, "linkedin", "social", f"{p['d']}-{p['slug']}") + ("\nSources: " + "; ".join(src) if src else "")
+    if not course and not GUIDE_LIVE:
+        fc = "Free guide, Protein, decoded: coming soon." + ("\nSources: " + "; ".join(src) if src else "")
     return li, fc
 
 

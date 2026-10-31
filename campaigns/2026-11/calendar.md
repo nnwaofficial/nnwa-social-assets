@@ -4,7 +4,7 @@ Playbooks used: social-calendar-builder, social-creative-builder, ig-caption-wri
 
 Status: draft for Hrito's approval, week by week. Nothing is scheduled until a week is approved. All times IST.
 
-Totals: 188 Buffer posts (98 Instagram, 68 Facebook, 22 LinkedIn), about 6.3 a day.
+Totals: 158 Buffer posts (68 Instagram, 68 Facebook, 22 LinkedIn), about 5.3 a day.
 
 ## Daily rhythm
 
@@ -106,8 +106,103 @@ Why these times: Instagram evenings and weekend late mornings, Facebook lunchtim
 
 Week 1 feed captions (1 to 7 Nov) are in the lead-magnet plan (/mnt/project-files/lead-magnet-funnel/7-day-plan-lead-magnet.md). Everything else is below. Facebook uses the Instagram caption with the link in place of 'link in bio'. Every post has a first comment carrying the link and the sources.
 
+### Sun 01 Nov: A free guide: Protein, decoded
+Format: Carousel, 6 slides.
+
+**Instagram**
+
+```
+How much protein do you need, and where does it come from on an Indian plate?
+
+We wrote a free guide to answer that properly. Protein, decoded has 34 pages and seven short chapters. It includes a 60-second check, your number from ICMR-NIN's 0.83 g per kg, a table of everyday Indian foods, eight easy wins, a weekly tracker and a fridge sheet you can print.
+
+Every fact in it comes from Indian government sources: ICMR-NIN and FSSAI. It's general information for healthy adults, not medical advice.
+
+Get it free from the link in bio.
+
+Source: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020
+
+#ProteinDecoded #NNWA #IndianNutrition #ProteinBasics
+```
+
+First comment (Instagram):
+
+```
+Free guide, Protein, decoded: link in bio.
+Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020
+General information for healthy adults, not medical advice.
+```
+
+**Facebook**
+
+```
+How much protein do you need, and where does it come from on an Indian plate?
+
+We wrote a free guide to answer that properly. Protein, decoded has 34 pages and seven short chapters. It includes a 60-second check, your number from ICMR-NIN's 0.83 g per kg, a table of everyday Indian foods, eight easy wins, a weekly tracker and a fridge sheet you can print.
+
+Every fact in it comes from Indian government sources: ICMR-NIN and FSSAI. It's general information for healthy adults, not medical advice.
+
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+
+Source: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020
+```
+
+First comment (Facebook):
+
+```
+Free guide, Protein, decoded: coming soon to this page.
+Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020
+```
+
+Alt text: Slide 1, forest green slide reading 'A free guide: Protein, decoded' above the guide's cover. Slide 2, 'Seven short chapters' above the contents page. Slide 3, 'Start with a 60-second check'. Slide 4, 'Everyday Indian foods, real numbers'. Slide 5, 'A fridge sheet you can print'. Slide 6, NNWA seal: 'Get it free from the link in bio', nnwa.in/protein.
+
 ### Mon 02 Nov: Where does your fibre come from?
 Format: Static, vertical word.
+
+**Instagram**
+
+```
+Most of the fibre on an Indian plate comes from four everyday places.
+
+Whole grains like atta, brown rice, millets and oats. Pulses: dal, rajma, chana, moong. Vegetables, especially with the skin on where it is edible. Whole fruit rather than juice.
+
+Dal, rajma and chana bring fibre and protein together. Chapter 03 of our free guide, Protein, decoded, shows how much protein each one gives.
+
+Get it from the link in bio.
+
+Source: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020
+
+#ProteinDecoded #NNWA #NutritionBasics #IndianNutrition
+```
+
+First comment (Instagram):
+
+```
+Free guide, Protein, decoded: link in bio.
+Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020
+General information for healthy adults, not medical advice.
+```
+
+**Facebook**
+
+```
+Most of the fibre on an Indian plate comes from four everyday places.
+
+Whole grains like atta, brown rice, millets and oats. Pulses: dal, rajma, chana, moong. Vegetables, especially with the skin on where it is edible. Whole fruit rather than juice.
+
+Dal, rajma and chana bring fibre and protein together. Chapter 03 of our free guide, Protein, decoded, shows how much protein each one gives.
+
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+
+Source: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020
+```
+
+First comment (Facebook):
+
+```
+Free guide, Protein, decoded: coming soon to this page.
+Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020
+```
 
 **LinkedIn**
 
@@ -120,7 +215,7 @@ Every number in it comes from Indian government sources: ICMR-NIN's Nutrient Req
 
 It includes a 60-second self-check, an Indian food table, eight easy wins and a weekly tracker.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -128,14 +223,130 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-02-fibre
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020
 ```
 
+Alt text: Forest green poster with the word 'fibre' set vertically beside a bowl of rajma in a dashed ring. Note: 'Four everyday sources: whole grains, pulses, vegetables and fruit.' Footer: Free guide: nnwa.in/protein.
+
 LinkedIn image alt text: Forest green slide reading 'A free guide: Protein, decoded' above the guide's cover.
+
+### Tue 03 Nov: How much protein you need, in one number
+Format: Carousel, 5 slides (LinkedIn: document).
+
+**Instagram**
+
+```
+How much protein do you actually need in a day? One number does most of the work.
+
+Healthy adults need about 0.83 g of protein per kg of body weight a day. At 60 kg that is about 50 g. Slides 2 to 4 show how to work out yours, how to spread it across meals and which everyday foods to mix.
+
+Needs are different in pregnancy, older age, kidney disease and heavy training, so check with a qualified expert if any of those apply to you.
+
+The full guide has the calculator, a table of everyday Indian foods and a weekly tracker.
+
+It's free from the link in bio.
+
+Source: ICMR-NIN, Nutrient Requirements for Indians, 2020
+
+#ProteinDecoded #NNWA #ProteinBasics #IndianNutrition
+```
+
+First comment (Instagram):
+
+```
+Free guide, Protein, decoded: link in bio.
+Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020
+General information for healthy adults, not medical advice.
+```
+
+**Facebook**
+
+```
+How much protein do you actually need in a day? One number does most of the work.
+
+Healthy adults need about 0.83 g of protein per kg of body weight a day. At 60 kg that is about 50 g. Slides 2 to 4 show how to work out yours, how to spread it across meals and which everyday foods to mix.
+
+Needs are different in pregnancy, older age, kidney disease and heavy training, so check with a qualified expert if any of those apply to you.
+
+The full guide has the calculator, a table of everyday Indian foods and a weekly tracker.
+
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+
+Source: ICMR-NIN, Nutrient Requirements for Indians, 2020
+```
+
+First comment (Facebook):
+
+```
+Free guide, Protein, decoded: coming soon to this page.
+Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020
+```
+
+**LinkedIn**
+
+```
+Clients ask "how much protein?" more than almost anything else. ICMR-NIN's 2020 Nutrient Requirements for Indians give a clean starting point for healthy adults: 0.83 g per kg of body weight per day.
+
+The five slides cover the calculation, meal distribution and mixed sources. We've put the full reference into a free 34-page guide: requirements by life stage, an Indian food table and FSSAI label rules, all from government sources.
+
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
+
+#Nutrition #NutritionEducation #PublicHealth
+```
+
+First comment (LinkedIn):
+
+```
+Free guide, Protein, decoded: coming soon.
+Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020
+```
+
+Alt text: Five-slide carousel. Slide 1: '0.83 g/kg of protein per kg of body weight a day, for healthy adults'. Slides 2 to 4: working out your number, spreading it across meals, mixing foods. Slide 5: NNWA seal, 'Get the full guide, free. nnwa.in/protein'.
 
 ### Wed 04 Nov: What 500 g of vegetables and fruit looks like
 Format: Reel 20 s (motion, new).
+
+**Instagram**
+
+```
+What does 500 g of vegetables and fruit a day look like?
+
+ICMR-NIN's Dietary Guidelines for Indians (2024) use 400 g of vegetables and 100 g of fruit a day for a 2,000 kcal plate. Vegetables are half the plate. The other half needs protein, and our free guide shows how to build it.
+
+Link in bio.
+
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
+
+#ProteinDecoded #NNWA #EatMoreVeg #IndianNutrition
+```
+
+First comment (Instagram):
+
+```
+Free guide, Protein, decoded: link in bio.
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
+General information for healthy adults, not medical advice.
+```
+
+**Facebook**
+
+```
+What does 500 g of vegetables and fruit a day look like?
+
+ICMR-NIN's Dietary Guidelines for Indians (2024) use 400 g of vegetables and 100 g of fruit a day for a 2,000 kcal plate. Vegetables are half the plate. The other half needs protein, and our free guide shows how to build it.
+
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
+```
+
+First comment (Facebook):
+
+```
+Free guide, Protein, decoded: coming soon to this page.
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
+```
 
 **LinkedIn**
 
@@ -146,7 +357,7 @@ In counselling, the number lands better when people can see it. Two katoris of s
 
 The other half of the plate is where protein comes in, and that's what our free guide covers.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -154,14 +365,132 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-04-reel-500g
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
+Alt text: Reel. Scene 1: 'What does 500 g look like?'. Scene 2: '400 g of vegetables, and 100 g of fruit, for a 2,000 kcal day'. Scene 3: 'Two katoris of sabzi, plus a bowl of salad and a plate of greens'. Scene 4: 'One whole fruit'. Scene 5: 'The other half needs protein'. End card: 'Get the free guide. nnwa.in/protein'.
+
 LinkedIn image alt text: Reel cover: a glass card over a vegetable photo reading '500 g of vegetables and fruit a day. Here is what that looks like.'
+
+### Thu 05 Nov: Not more than 5 g of salt a day
+Format: Static, annotated.
+
+**Instagram**
+
+```
+Not more than 5 g of salt a day. That's one teaspoon, and it includes the salt already in your food.
+
+Pickles, papads, namkeen and sauces add up quickly. Taste before you add salt at the table, and check the sodium line on labels.
+
+Labels hide more than salt. Our free guide, Protein, decoded, shows how to read an Indian food label, including protein claims.
+
+Link in bio.
+
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
+
+#ProteinDecoded #NNWA #SaltCheck #NutritionBasics
+```
+
+First comment (Instagram):
+
+```
+Free guide, Protein, decoded: link in bio.
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
+General information for healthy adults, not medical advice.
+```
+
+**Facebook**
+
+```
+Not more than 5 g of salt a day. That's one teaspoon, and it includes the salt already in your food.
+
+Pickles, papads, namkeen and sauces add up quickly. Taste before you add salt at the table, and check the sodium line on labels.
+
+Labels hide more than salt. Our free guide, Protein, decoded, shows how to read an Indian food label, including protein claims.
+
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
+```
+
+First comment (Facebook):
+
+```
+Free guide, Protein, decoded: coming soon to this page.
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
+```
+
+**LinkedIn**
+
+```
+Three reference numbers that come up in almost every nutrition conversation, all from ICMR-NIN: protein 0.83 g/kg/day for healthy adults (2020), salt not more than 5 g a day, and 400 g of vegetables plus 100 g of fruit a day on a 2,000 kcal plate (Dietary Guidelines for Indians, 2024).
+
+They're starting points, not prescriptions. The protein one is unpacked in our free guide.
+
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
+
+#Nutrition #NutritionEducation #PublicHealth
+```
+
+First comment (LinkedIn):
+
+```
+Free guide, Protein, decoded: coming soon.
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
+```
+
+Alt text: Off-white poster. Headline 'Not more than 5 g of salt a day. That is one teaspoon.' Wooden spoon of salt in a circle with a dashed ring. Notes: 'ICMR-NIN advice: not more than 5 g of salt a day, from all foods' and 'Hidden salt: pickles, papads, namkeen and sauces count too'. Footer: Free guide: nnwa.in/protein.
+
+LinkedIn image alt text: Paper card titled 'Three numbers worth knowing': 0.83 g/kg protein, 5 g salt, 400 g vegetables plus 100 g fruit, each under a brass rule.
 
 ### Fri 06 Nov: Half your plate: vegetables and fruit
 Format: Glass over photo.
+
+**Instagram**
+
+```
+Half your plate: vegetables and fruit.
+
+ICMR-NIN's Dietary Guidelines for Indians (2024) have vegetables, fruits, greens, tubers and roots forming about half the plate, with the rest shared between cereals, pulses or other protein, and dairy.
+
+What goes on the other half? Our free guide builds four example Indian days.
+
+Get it from the link in bio.
+
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
+
+#ProteinDecoded #NNWA #MyPlate #IndianNutrition
+```
+
+First comment (Instagram):
+
+```
+Free guide, Protein, decoded: link in bio.
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
+General information for healthy adults, not medical advice.
+```
+
+**Facebook**
+
+```
+Half your plate: vegetables and fruit.
+
+ICMR-NIN's Dietary Guidelines for Indians (2024) have vegetables, fruits, greens, tubers and roots forming about half the plate, with the rest shared between cereals, pulses or other protein, and dairy.
+
+What goes on the other half? Our free guide builds four example Indian days.
+
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
+```
+
+First comment (Facebook):
+
+```
+Free guide, Protein, decoded: coming soon to this page.
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
+```
 
 **LinkedIn**
 
@@ -172,7 +501,7 @@ ICMR-NIN's Dietary Guidelines for Indians (2024) estimate that 56.4% of the tota
 
 That's why we think nutrition literacy is worth investing in, for professionals and for families. Our free guide is a practical place to start.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -180,11 +509,56 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-06-half-your-plate
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
+Alt text: Photo of a vegetable plate with a frosted glass card: 'Half your plate: vegetables and fruit.' Body: ICMR-NIN's Dietary Guidelines for Indians (2024) suggest filling about half the plate with vegetables, greens and fruit. Footer: Free guide: nnwa.in/protein.
+
 LinkedIn image alt text: Paper card with a large '56.4%' and the line 'of India's total disease burden is due to unhealthy diets'. Source: ICMR-NIN, Dietary Guidelines for Indians, 2024.
+
+### Sat 07 Nov: Four colours for this week's shopping list
+Format: 4 tiles.
+
+**Instagram**
+
+```
+Four colours for this week's shopping list.
+
+Greens like spinach, methi and lettuce. Reds like tomato, capsicum and beetroot. Yellow and orange like lemon, pumpkin and papaya. Purples like brinjal, jamun and red cabbage. Variety matters more than any single food.
+
+Add one protein to that list. Our free guide has a one-page fridge sheet to help.
+
+Link in bio.
+
+#ProteinDecoded #NNWA #EatTheRainbow #IndianFood
+```
+
+First comment (Instagram):
+
+```
+Free guide, Protein, decoded: link in bio.
+```
+
+**Facebook**
+
+```
+Four colours for this week's shopping list.
+
+Greens like spinach, methi and lettuce. Reds like tomato, capsicum and beetroot. Yellow and orange like lemon, pumpkin and papaya. Purples like brinjal, jamun and red cabbage. Variety matters more than any single food.
+
+Add one protein to that list. Our free guide has a one-page fridge sheet to help.
+
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+```
+
+First comment (Facebook):
+
+```
+Free guide, Protein, decoded: coming soon to this page.
+```
+
+Alt text: Off-white poster 'Four colours for this week's shopping list' with four photo tiles: greens, reds, yellow and orange, purples, each naming everyday Indian vegetables and fruit. Footer: Free guide: nnwa.in/protein.
 
 ### Sun 08 Nov: Happy Diwali from all of us at NNWA
 Format: Static greeting, glass over photo (new).
@@ -210,7 +584,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -226,7 +600,7 @@ Enjoy all of it. If you're frying at home, one tip from ICMR-NIN's Dietary Guide
 
 May your home be bright and your table be shared.
 
-For the days after the festival, our free guide is in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -234,7 +608,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-08-diwali
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -247,7 +621,7 @@ One practical note for the season, from ICMR-NIN's Dietary Guidelines for Indian
 
 Wishing you and your families a bright and healthy festival.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -255,7 +629,7 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-08-diwali
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -350,7 +724,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -368,7 +742,7 @@ Slide 4: one home-cooked meal, with half the plate vegetables and fruit.
 
 Habits last longer than sweets do.
 
-Our free guide has eight easy wins you can share with them. Link in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -376,7 +750,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-10-bhai-dooj
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -394,7 +768,7 @@ For many clients, that's a single piece of mithai plus sugar in two cups of tea.
 
 Our free guide uses the same approach for protein: one clear number and what it looks like on an Indian plate.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -402,7 +776,7 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-10-li-sugar
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -499,7 +873,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -513,7 +887,7 @@ ICMR-NIN's Dietary Guidelines for Indians (2024) are clear on this. Heating oil 
 
 The guidelines also suggest 25 to 30 g of cooking oil a day in total, which is about five to six teaspoons.
 
-More practical kitchen numbers are in our free guide. Link in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -521,7 +895,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-12-reel-oil
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -534,7 +908,7 @@ ICMR-NIN's Dietary Guidelines for Indians (2024) note that repeatedly heated oil
 
 It's a simple message that families can act on the same evening.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -542,7 +916,7 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-12-reel-oil
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -568,7 +942,7 @@ Our free guide is in the link in bio whenever you need it.
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 ```
 
 **Facebook**
@@ -580,13 +954,13 @@ Four days of devotion, discipline and gratitude to Surya and Chhathi Maiya. Fami
 
 To everyone observing Chhath, from all of us at NNWA: may your prayers be answered and your families be well.
 
-Our free guide is in the first comment whenever you need it.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 ```
 
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-13-chhath
+Free guide, Protein, decoded: coming soon to this page.
 ```
 
 **LinkedIn**
@@ -596,7 +970,7 @@ Chhath Puja begins today. To everyone observing it, from all of us at NNWA: may 
 
 If you or someone in your family is fasting and has diabetes, a heart condition or is pregnant, please speak to your doctor before the fast.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -604,7 +978,7 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-13-chhath
+Free guide, Protein, decoded: coming soon.
 ```
 
 Alt text: Photo of the sun rising over a river. A glass card reads 'Chhath Puja. Gratitude to the sun, from all of us at NNWA.'
@@ -768,7 +1142,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -782,7 +1156,7 @@ ICMR-NIN's Dietary Guidelines for Indians (2024) advise adults to avoid added su
 
 No guilt about the festival. Just a number to come back to this week.
 
-Our free guide has eight easy wins for the week. Link in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -790,7 +1164,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-15-sugar
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -966,7 +1340,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -982,7 +1356,7 @@ Try it: the Dietary Guidelines for Indians (2024) are a free PDF on ICMR-NIN's w
 
 Our free guide follows the same rule, with a full source list at the back.
 
-Get it from the link in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -990,7 +1364,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-18-reel-sources
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1001,7 +1375,7 @@ A note on how we write. Every number NNWA publishes, on social media, in our fre
 
 It means saying less than we could, and leaving out claims we can't trace. We think that's what trust in health education requires.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -1009,7 +1383,7 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-18-reel-sources
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1039,7 +1413,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, 
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1055,7 +1429,7 @@ Two things from the same guidelines that help: not more than 5 g of salt a day, 
 
 If someone you love hasn't had his blood pressure checked in a while, today's a good day to suggest it.
 
-Our free guide is in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -1063,7 +1437,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, 
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-19-mens-day
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1074,7 +1448,7 @@ International Men's Day. NFHS-5 (2021) data, reported in ICMR-NIN's Dietary Guid
 
 Most of the levers are everyday ones: salt under 5 g a day and 30 to 60 minutes of moderate activity on most days. Workplace wellness programmes can make both easier.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -1082,7 +1456,7 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-19-mens-day
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1112,7 +1486,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1128,7 +1502,7 @@ In practice, that could be a bajra or jowar roti at one meal, ragi in your dosa 
 
 Pair millets with dal and you get a better protein mix too. That's covered in chapter 4 of our free guide.
 
-Link in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -1136,7 +1510,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-20-millets
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1147,7 +1521,7 @@ A practical target from ICMR-NIN's Dietary Guidelines for Indians (2024): 20% to
 
 It's easier to act on than 'eat more millets'. Swapping one roti or one rice meal a day gets most households close.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -1155,7 +1529,7 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-20-millets
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1185,7 +1559,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requi
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020
 General information for healthy adults, not medical advice.
 ```
@@ -1201,7 +1575,7 @@ Dal with rice or roti, milk and curd, eggs, paneer, fish and chicken can cover a
 
 If you have a medical condition, follow your doctor's advice.
 
-Our free guide shows how to reach your number with food. Link in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020
 ```
@@ -1209,7 +1583,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requi
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-21-supplements-myth
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020
 ```
 
@@ -1239,7 +1613,7 @@ Source: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requi
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020
 General information for healthy adults, not medical advice.
 ```
@@ -1255,7 +1629,7 @@ Three everyday Indian breakfasts, with the protein counted from ICMR-NIN's India
 
 For a 60 kg adult, the daily need is about 50 g (0.83 g per kg), so breakfast can carry a good share.
 
-Our free guide has the full food table. Link in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020
 ```
@@ -1263,7 +1637,7 @@ Source: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requi
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-22-reel-breakfasts
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020
 ```
 
@@ -1291,7 +1665,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1305,7 +1679,7 @@ ICMR-NIN's Dietary Guidelines for Indians (2024) say a normal healthy person nee
 
 Keep a bottle where you can see it, and have a glass with every meal.
 
-More everyday numbers in our free guide. Link in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -1313,7 +1687,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-23-water
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1324,7 +1698,7 @@ A small reminder for winter: ICMR-NIN's Dietary Guidelines for Indians (2024) pu
 
 In offices with heating and long meetings, it's often the first habit to slip.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -1332,7 +1706,7 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-23-water
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1354,7 +1728,7 @@ Service, sharing and gratitude. Wishing you and your family a blessed Gurpurab.
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 ```
 
 **Facebook**
@@ -1368,7 +1742,7 @@ Service, sharing and gratitude. Wishing you and your family a blessed Gurpurab.
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-24-gurpurab
+Free guide, Protein, decoded: coming soon to this page.
 ```
 
 **LinkedIn**
@@ -1384,7 +1758,7 @@ The langar's idea of serving everyone the same meal, side by side, is one that a
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-24-gurpurab
+Free guide, Protein, decoded: coming soon.
 ```
 
 Alt text: Warm photo of a langar meal served in steel plates. Glass card: 'Guru Nanak Jayanti. Everyone sits together. Everyone is fed.'
@@ -1411,7 +1785,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1425,7 +1799,7 @@ The Dietary Guidelines for Indians (2024) recommend that adults do 30 to 60 minu
 
 A brisk walk counts. So do climbing the stairs, cycling, dancing at a wedding and playing with the kids.
 
-Pair it with the right food: our free guide is in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -1433,7 +1807,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-25-reel-move
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1444,7 +1818,7 @@ ICMR-NIN's Dietary Guidelines for Indians (2024): 30 to 60 minutes of moderate a
 
 It's one of the few health targets that needs no equipment. A brisk walk counts.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -1452,7 +1826,7 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-25-reel-move
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1480,7 +1854,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1494,7 +1868,7 @@ ICMR-NIN's My Plate for the Day includes 300 ml of milk or curd, which gives abo
 
 If you're vegetarian, milk and curd are among the easiest ways to improve the quality of your protein.
 
-Our free guide shows the rest of the plate. Link in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -1502,7 +1876,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-26-milk-day
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1513,7 +1887,7 @@ National Milk Day, on Dr Verghese Kurien's birth anniversary. ICMR-NIN's My Plat
 
 For vegetarian clients it's one of the simplest protein upgrades to suggest.
 
-The free guide, Protein, decoded, is linked in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -1521,7 +1895,7 @@ The free guide, Protein, decoded, is linked in the first comment.
 First comment (LinkedIn):
 
 ```
-Free guide: https://nnwa.in/protein?utm_source=linkedin&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-26-milk-day
+Free guide, Protein, decoded: coming soon.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1627,7 +2001,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1644,7 +2018,7 @@ Sugary drinks: buttermilk, lemon water or tender coconut water.
 
 No food is banned. Small swaps add up.
 
-Eight more easy wins are in our free guide. Link in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -1652,7 +2026,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-28-swaps
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -1685,7 +2059,7 @@ Source: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Gui
 First comment (Instagram):
 
 ```
-Link in bio: nnwa.in/protein
+Free guide, Protein, decoded: link in bio.
 Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1704,7 +2078,7 @@ About 8 glasses of water.
 
 Save this one.
 
-Protein, the first number, gets a whole free guide. Link in the first comment.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -1712,7 +2086,7 @@ Source: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Gui
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: https://nnwa.in/protein?utm_source=facebook&utm_medium=social&utm_campaign=protein-decoded&utm_content=2026-11-29-reel-recap
+Free guide, Protein, decoded: coming soon to this page.
 Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
