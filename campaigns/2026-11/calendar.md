@@ -207,7 +207,7 @@ Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Gu
 **LinkedIn**
 
 ```
-We've just published a free 34-page guide for anyone who explains food to other people: Protein, decoded.
+We've written a free 34-page guide for anyone who explains food to other people: Protein, decoded.
 
 It started with a question we hear every week from learners and their clients: how much protein do I need, and where does it come from on an Indian plate?
 
@@ -409,7 +409,7 @@ Pickles, papads, namkeen and sauces add up quickly. Taste before you add salt at
 
 Labels hide more than salt. Our free guide, Protein, decoded, shows how to read an Indian food label, including protein claims.
 
-Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+It's coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -428,7 +428,7 @@ Three reference numbers that come up in almost every nutrition conversation, all
 
 They're starting points, not prescriptions. The protein one is unpacked in our free guide.
 
-Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
+It's coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -480,7 +480,7 @@ ICMR-NIN's Dietary Guidelines for Indians (2024) have vegetables, fruits, greens
 
 What goes on the other half? Our free guide builds four example Indian days.
 
-Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+It's coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -501,7 +501,7 @@ ICMR-NIN's Dietary Guidelines for Indians (2024) estimate that 56.4% of the tota
 
 That's why we think nutrition literacy is worth investing in, for professionals and for families. Our free guide is a practical place to start.
 
-Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
+It's coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -549,7 +549,7 @@ Greens like spinach, methi and lettuce. Reds like tomato, capsicum and beetroot.
 
 Add one protein to that list. Our free guide has a one-page fridge sheet to help.
 
-Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+It's coming soon. Follow the NNWA page to get it first.
 ```
 
 First comment (Facebook):
@@ -768,7 +768,7 @@ For many clients, that's a single piece of mithai plus sugar in two cups of tea.
 
 Our free guide uses the same approach for protein: one clear number and what it looks like on an Indian plate.
 
-Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
+It's coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -887,7 +887,7 @@ ICMR-NIN's Dietary Guidelines for Indians (2024) are clear on this. Heating oil 
 
 The guidelines also suggest 25 to 30 g of cooking oil a day in total, which is about five to six teaspoons.
 
-Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+It's coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -1356,7 +1356,7 @@ Try it: the Dietary Guidelines for Indians (2024) are a free PDF on ICMR-NIN's w
 
 Our free guide follows the same rule, with a full source list at the back.
 
-Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+It's coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -1375,7 +1375,7 @@ A note on how we write. Every number NNWA publishes, on social media, in our fre
 
 It means saying less than we could, and leaving out claims we can't trace. We think that's what trust in health education requires.
 
-Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
+It's coming soon. Follow NNWA to get it first.
 
 #Nutrition #NutritionEducation #PublicHealth
 ```
@@ -1429,7 +1429,7 @@ Two things from the same guidelines that help: not more than 5 g of salt a day, 
 
 If someone you love hasn't had his blood pressure checked in a while, today's a good day to suggest it.
 
-Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+It's coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -1502,7 +1502,7 @@ In practice, that could be a bajra or jowar roti at one meal, ragi in your dosa 
 
 Pair millets with dal and you get a better protein mix too. That's covered in chapter 4 of our free guide.
 
-Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
+It's coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```

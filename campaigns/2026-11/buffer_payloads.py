@@ -4,6 +4,7 @@ python3 buffer_payloads.py  ->  buffer-payloads.json (one create_post argument s
 Images and videos are served from the public repo on the branch below (raw.githubusercontent.com).
 """
 import glob
+import re
 import json
 import os
 
@@ -41,8 +42,30 @@ def cover(p):
     return os.path.basename(c[0])
 
 
+def split_alt(alt, n):
+    """Per-slide alt text: 'Slide 1: ... Slide 2: ...' is split; otherwise slide 1 gets the full text."""
+    if n == 1:
+        return [alt]
+    parts = re.split(r"(?=Slides? \d)", alt)
+    if len(parts) == 1:
+        return [alt] + [f"Slide {k} of {n}." for k in range(2, n + 1)]
+    head = parts[0].strip()
+    per = {}
+    for part in parts[1:]:
+        m = re.match(r"Slides? (\d+)(?: to (\d+))?", part)
+        a, b = int(m.group(1)), int(m.group(2) or m.group(1))
+        for k in range(a, b + 1):
+            per[k] = part.strip()
+    out = []
+    for k in range(1, n + 1):
+        t = per.get(k) or (alt if k == 1 else f"Slide {k} of {n}.")
+        out.append((head + " " + t).strip() if k == 1 and head else t)
+    return out
+
+
 def images(files, alt):
-    return [{"image": {"url": need(f), "metadata": {"altText": alt}}} for f in files]
+    alts = split_alt(alt, len(files))
+    return [{"image": {"url": need(f), "metadata": {"altText": t}}} for f, t in zip(files, alts)]
 
 
 def due(it):
@@ -60,7 +83,7 @@ def build():
             stem = os.path.basename(it["asset"]).rsplit(".", 1)[0]
             wrap = stem[11:-6] if stem.endswith("-story") else None
             if wrap in P:
-                alt = "Story version of today's post. " + (P[wrap].get("alt") or "")
+                alt = "Story version of today's post. " + split_alt(P[wrap].get("alt") or "", 9)[0]
             else:
                 alt = "NNWA festival greeting Story for " + stem.split("story-", 1)[-1].replace("-", " ").title() + "."
             a["assets"] = images([it["asset"]], alt)

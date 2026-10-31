@@ -43,7 +43,7 @@ def post(**k):
 post(d="2026-11-01", slug="guide-launch", fmt="Carousel, 6 slides", existing=True, hook="A free guide: Protein, decoded",
      cta="guide", li=None, src=["RDA", "IFCT", "FSSAI-label"])
 post(d="2026-11-02", slug="fibre", fmt="Static, vertical word", existing=True, hook="Where does your fibre come from?", cta="guide",
-     li=("We've just published a free 34-page guide for anyone who explains food to other people: Protein, decoded.\n\n"
+     li=("We've written a free 34-page guide for anyone who explains food to other people: Protein, decoded.\n\n"
          "It started with a question we hear every week from learners and their clients: how much protein do I need, and where does it come from on an Indian plate?\n\n"
          "Every number in it comes from Indian government sources: ICMR-NIN's Nutrient Requirements (2020), the Dietary Guidelines for Indians (2024), the Indian Food Composition Tables and FSSAI's labelling rules. There are no brand tie-ins and no supplement advice.\n\n"
          "It includes a 60-second self-check, an Indian food table, eight easy wins and a weekly tracker."),
@@ -542,7 +542,7 @@ def captions(p):
              ("\nSources: " + "; ".join(src) if src else "") + ("\n" + DISCLAIMER if src else ""))
     fc_fb = what + link(dest, "facebook", "social", f"{p['d']}-{p['slug']}") + ("\nSources: " + "; ".join(src) if src else "")
     if not course and not GUIDE_LIVE:
-        fb_cta = "" if p.get("soft") else "Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first."
+        fb_cta = "" if p.get("soft") else ("It's coming soon. Follow the NNWA page to get it first." if "guide" in p["ig"] and p["d"] > "2026-11-04" else "Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.")
         fb = p["ig"] + ("\n\n" + fb_cta if fb_cta else "") + ("\n\nSource: " + "; ".join(src) if src else "")
         fc_ig = "Free guide, Protein, decoded: link in bio." + ("\nSources: " + "; ".join(src) if src else "") + ("\n" + DISCLAIMER if src else "")
         fc_fb = "Free guide, Protein, decoded: coming soon to this page." + ("\nSources: " + "; ".join(src) if src else "")
@@ -554,7 +554,7 @@ def li_caption(p):
     course = p.get("cta") == "course"
     tail = ("Courses are linked in the first comment." if course else "The free guide, Protein, decoded, is linked in the first comment.")
     if not course and not GUIDE_LIVE:
-        tail = "Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first."
+        tail = ("It's coming soon. Follow NNWA to get it first." if "guide" in p["li"] and p["d"] > "2026-11-04" else "Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.")
     if p.get("soft"):
         tail = ""
     li = p["li"] + ("\n\n" + tail if tail else "") + "\n\n#Nutrition #NutritionEducation #PublicHealth"
