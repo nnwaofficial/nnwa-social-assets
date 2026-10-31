@@ -2,7 +2,7 @@
 
 Playbooks used: social-calendar-builder, social-creative-builder, ig-caption-writer, ig-hashtag-strategist, ig-humanizer (AI-tell pass). Design system v2. Sources: [sources.md](sources.md) (government only).
 
-Status: draft for Hrito's approval, week by week. Nothing is scheduled until a week is approved. All times IST.
+Status (31 Oct 2026): approved by Hrito and scheduled in Buffer. 154 posts, 2 to 30 Nov; 1 Nov is held (guide launch). All times IST.
 
 Totals: 154 Buffer posts (66 Instagram, 66 Facebook, 22 LinkedIn), about 5.1 a day.
 

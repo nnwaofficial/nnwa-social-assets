@@ -668,7 +668,7 @@ def md():
     items = build()
     out = ["# NNWA November 2026 calendar (1 to 30 Nov)", "",
            "Playbooks used: social-calendar-builder, social-creative-builder, ig-caption-writer, ig-hashtag-strategist, ig-humanizer (AI-tell pass). Design system v2. Sources: [sources.md](sources.md) (government only).", "",
-           "Status: draft for Hrito's approval, week by week. Nothing is scheduled until a week is approved. All times IST.", "",
+           "Status (31 Oct 2026): approved by Hrito and scheduled in Buffer. 154 posts, 2 to 30 Nov; 1 Nov is held (guide launch). All times IST.", "",
            f"Totals: {len(items)} Buffer posts ({sum(1 for x in items if x['channel']=='instagram')} Instagram, {sum(1 for x in items if x['channel']=='facebook')} Facebook, {sum(1 for x in items if x['channel']=='linkedin')} LinkedIn), about {len(items)/30:.1f} a day.", "",
            "## Daily rhythm", "",
            "| Slot (IST) | Instagram | Facebook | LinkedIn |", "|---|---|---|---|",
