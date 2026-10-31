@@ -28,6 +28,6 @@ Assets are in `2026/11/` (feed posts, carousels, LinkedIn PDFs, reel covers), `2
 2. Remove `guide-launch` from `HELD`, set `GUIDE_LIVE = True`, rerun calendar.py and buffer_payloads.py, and create the four guide-launch posts in Buffer.
 
 ## Still open
-1. The nnwa.in header banner shows "Next batch begins 11 October 2026", which is in the past.
-2. Instagram has one bio link; point it at nnwa.in/tools/ or a link page so each post's resource is reachable.
+1. Next batches start 11 Nov and 11 Dec 2026 (Hrito, 31 Oct). The CMS (Sanity, Diploma programme) already holds 11 Nov; it has no field for a second date, so 11 Dec has to go on the site after 11 Nov passes or via a schema change. Social posts still carry no dates.
+2. Hrito to set the Instagram bio link to nnwa.in/tools/ and play one reel with sound before 4 Nov (no tool can edit the bio, and Claude cannot hear audio).
 3. Reels carry original synthesised music and sound effects (no licence needed). Instagram may still suggest trending audio in the app; that is optional.
