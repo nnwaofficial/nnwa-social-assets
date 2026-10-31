@@ -524,7 +524,8 @@ def sources(p):
     for k in p.get("src", []):
         if SRC_LINE[k] not in s:
             s.append(SRC_LINE[k])
-    return s
+    # drop a plain citation when a more specific one for the same document is present
+    return [x for x in s if not any(y != x and y.startswith(x) for y in s)]
 
 
 def captions(p):

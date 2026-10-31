@@ -997,7 +997,7 @@ If you work with children or parents, our Child & Adolescent Nutrition course co
 
 Explore the course from the link in bio.
 
-Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
 
 #ChildrensDay #NNWA #ChildNutrition #Anaemia
 ```
@@ -1006,7 +1006,7 @@ First comment (Instagram):
 
 ```
 Link in bio: nnwa.in/courses
-Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
 General information for healthy adults, not medical advice.
 ```
 
@@ -1025,14 +1025,14 @@ If you work with children or parents, our Child & Adolescent Nutrition course co
 
 Explore the course from the link in the first comment.
 
-Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
 ```
 
 First comment (Facebook):
 
 ```
 Courses (100% online): https://nnwa.in/courses?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-14-childrens-day
-Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
 ```
 
 Alt text: Slide 1: paper slide with a large '40.6%' and 'of children aged 1 to 4 in India have anaemia'. Slide 2: anaemia by age (40.6%, 23.5%, 28.4%). Slide 3: 'About 1 in 10 children aged 5 to 19 shows pre-diabetes'. Slide 4: 'What helps: varied home food, semi-solid foods from six months, 60 minutes of play a day'. Slide 5: NNWA seal, 'Child & Adolescent Nutrition, 100% online. nnwa.in/courses'.
@@ -1055,7 +1055,7 @@ If you have diabetes, follow your doctor's advice; this post is general informat
 
 Explore the course from the link in bio.
 
-Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 
 #WorldDiabetesDay #NNWA #DiabetesEducator #DiabetesAwareness
 ```
@@ -1064,7 +1064,7 @@ First comment (Instagram):
 
 ```
 Link in bio: nnwa.in/courses
-Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 General information for healthy adults, not medical advice.
 ```
 
@@ -1083,14 +1083,14 @@ If you have diabetes, follow your doctor's advice; this post is general informat
 
 Explore the course from the link in the first comment.
 
-Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 ```
 
 First comment (Facebook):
 
 ```
 Courses (100% online): https://nnwa.in/courses?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-14-diabetes-day
-Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 ```
 
 **LinkedIn**
@@ -1111,7 +1111,7 @@ First comment (LinkedIn):
 
 ```
 Courses: https://nnwa.in/courses?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-14-diabetes-day
-Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 ```
 
 Alt text: Forest green stat card. Large '15.6%' with the label 'of Indian men aged 18 to 69 have diabetes', then '13.5% of women'. Line: 'Healthy diets and activity can prevent up to 80% of type 2 diabetes. ICMR-NIN'.
@@ -1401,7 +1401,7 @@ If someone you love hasn't had his blood pressure checked in a while, today's a 
 
 Our free guide is in the link in bio.
 
-Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 
 #InternationalMensDay #NNWA #BloodPressure #MensHealth
 ```
@@ -1410,7 +1410,7 @@ First comment (Instagram):
 
 ```
 Free guide, Protein, decoded: link in bio.
-Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 General information for healthy adults, not medical advice.
 ```
 
@@ -1427,14 +1427,14 @@ If someone you love hasn't had his blood pressure checked in a while, today's a 
 
 Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
-Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 ```
 
 First comment (Facebook):
 
 ```
 Free guide, Protein, decoded: coming soon to this page.
-Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 ```
 
 **LinkedIn**
@@ -1453,7 +1453,7 @@ First comment (LinkedIn):
 
 ```
 Free guide, Protein, decoded: coming soon.
-Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 ```
 
 Alt text: Paper stat card. Large '24.0%' with 'of Indian men aged 18 to 69 have hypertension (NFHS-5, 2021), up from 20.2% in 2016'. Two lines below: 'Salt: not more than 5 g a day' and 'Move: 30 to 60 minutes, five days a week'.
