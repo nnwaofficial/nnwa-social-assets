@@ -44,6 +44,10 @@ def post(**k):
 # ---- Week 1: 1 to 8 Nov (feed from PR #4; additions marked new) ----
 post(d="2026-11-01", slug="guide-launch", fmt="Carousel, 6 slides", existing=True, hook="A free guide: Protein, decoded",
      cta="guide", li=None, src=["RDA", "IFCT", "FSSAI-label"])
+# Hrito, 31 Oct: "I want a replacement post for the empty 1 Nov slot" (guide launch stays held). Sunday: IG + FB only.
+post(d="2026-11-01", slug="seventeen", fmt="Static, stat (new)", new_asset="2026-11-01-seventeen.png", hook="17 dietary guidelines for Indians",
+     alt="Forest green poster. Label: 'New month, fresh start', ICMR-NIN, 2024. A large '17' above the line 'dietary guidelines for Indians. All November, we share the numbers behind them.' Two rows: 'Oil, sugar and salt' and 'Water, millets and movement'. A round photo of an Indian thali. Footer: Free tools: nnwa.in.",
+     li=None, src=["DGI-G"])
 post(d="2026-11-02", slug="fibre", fmt="Static, vertical word", existing=True, hook="Where does your fibre come from?", cta="guide",
      li=("We've written a free 34-page guide for anyone who explains food to other people: Protein, decoded.\n\n"
          "It started with a question we hear every week from learners and their clients: how much protein do I need, and where does it come from on an Indian plate?\n\n"
@@ -447,6 +451,12 @@ GREET_LEAD = {
 HELD = {"guide-launch"}  # announces Protein, decoded; held until the guide is live
 
 LEAD = {
+ "seventeen": dict(course="Introduction to Nutrition", mag="starter", src=["DGI-G"],
+   tags=["#DietaryGuidelines", "#NNWA", "#IndianNutrition", "#NutritionBasics"],
+   ig=("November starts here.\n\n"
+       "ICMR-NIN's Dietary Guidelines for Indians (2024) set out 17 guidelines for how India can eat and live better. Most of them come down to a few everyday numbers.\n\n"
+       "All month we'll post those numbers, one at a time: how much oil, sugar and salt, how much water, how much of your cereal can be millets, and how much to move. Every figure comes from Indian government sources, and every post names its source.\n\n"
+       "If you'd like to see how the guidelines fit together, NNWA's Introduction to Nutrition is a short first step, 100% online.")),
  "fibre": dict(course="Gut Health & Digestive Wellness", mag="food-guide", src=["DGI-G"],
    tags=["#GutHealth", "#NNWA", "#NutritionBasics", "#IndianNutrition"],
    ig=("Most of the fibre on an Indian plate comes from four everyday places.\n\n"
@@ -668,7 +678,7 @@ def md():
     items = build()
     out = ["# NNWA November 2026 calendar (1 to 30 Nov)", "",
            "Playbooks used: social-calendar-builder, social-creative-builder, ig-caption-writer, ig-hashtag-strategist, ig-humanizer (AI-tell pass). Design system v2. Sources: [sources.md](sources.md) (government only).", "",
-           "Status (31 Oct 2026): approved by Hrito and scheduled in Buffer. 154 posts, 2 to 30 Nov; 1 Nov is held (guide launch). All times IST.", "",
+           "Status (31 Oct 2026): approved by Hrito and scheduled in Buffer. 158 posts, 1 to 30 Nov. 1 Nov carries a replacement post ('17 dietary guidelines'); the guide launch stays held. All times IST.", "",
            f"Totals: {len(items)} Buffer posts ({sum(1 for x in items if x['channel']=='instagram')} Instagram, {sum(1 for x in items if x['channel']=='facebook')} Facebook, {sum(1 for x in items if x['channel']=='linkedin')} LinkedIn), about {len(items)/30:.1f} a day.", "",
            "## Daily rhythm", "",
            "| Slot (IST) | Instagram | Facebook | LinkedIn |", "|---|---|---|---|",

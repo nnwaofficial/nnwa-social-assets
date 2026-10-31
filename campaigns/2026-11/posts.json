@@ -1,6 +1,28 @@
 {
  "posts": [
   {
+   "d": "2026-11-01",
+   "slug": "seventeen",
+   "fmt": "Static, stat (new)",
+   "new_asset": "2026-11-01-seventeen.png",
+   "hook": "17 dietary guidelines for Indians",
+   "alt": "Forest green poster. Label: 'New month, fresh start', ICMR-NIN, 2024. A large '17' above the line 'dietary guidelines for Indians. All November, we share the numbers behind them.' Two rows: 'Oil, sugar and salt' and 'Water, millets and movement'. A round photo of an Indian thali. Footer: Free tools: nnwa.in.",
+   "li": null,
+   "src": [
+    "DGI-G"
+   ],
+   "cta": "lead",
+   "course": "Introduction to Nutrition",
+   "mag": "starter",
+   "tags": [
+    "#DietaryGuidelines",
+    "#NNWA",
+    "#IndianNutrition",
+    "#NutritionBasics"
+   ],
+   "ig": "November starts here.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) set out 17 guidelines for how India can eat and live better. Most of them come down to a few everyday numbers.\n\nAll month we'll post those numbers, one at a time: how much oil, sugar and salt, how much water, how much of your cereal can be millets, and how much to move. Every figure comes from Indian government sources, and every post names its source.\n\nIf you'd like to see how the guidelines fit together, NNWA's Introduction to Nutrition is a short first step, 100% online."
+  },
+  {
    "d": "2026-11-02",
    "slug": "fibre",
    "fmt": "Static, vertical word",
@@ -703,6 +725,36 @@
   }
  ],
  "schedule": [
+  {
+   "date": "2026-11-01",
+   "time": "11:00",
+   "channel": "instagram",
+   "type": "post",
+   "slug": "seventeen"
+  },
+  {
+   "date": "2026-11-01",
+   "time": "12:00",
+   "channel": "facebook",
+   "type": "post",
+   "slug": "seventeen"
+  },
+  {
+   "date": "2026-11-01",
+   "time": "21:30",
+   "channel": "instagram",
+   "type": "story",
+   "asset": "stories/2026-11-01-seventeen-story.jpg",
+   "note": "Feed post as a Story"
+  },
+  {
+   "date": "2026-11-01",
+   "time": "21:30",
+   "channel": "facebook",
+   "type": "story",
+   "asset": "stories/2026-11-01-seventeen-story.jpg",
+   "note": "Feed post as a Story"
+  },
   {
    "date": "2026-11-02",
    "time": "19:00",

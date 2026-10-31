@@ -27,6 +27,10 @@ C = {}
 C["2026-11-08-diwali"] = dict(layout="glass", theme="photo", photo=px(13689170), credit=CR,
     pill="Happy Diwali", headline="May your home be <em>bright</em> and your table be shared.",
     body="From all of us at NNWA (Nutrition &amp; Wellness Academy).")
+# 1 Nov replacement for the held guide launch (Hrito, 31 Oct: "I want a replacement post for the empty 1 Nov slot")
+C["2026-11-01-seventeen"] = dict(layout="stat", theme="forest", photo=px(8818732), credit=CR, label="New month, fresh start", pill="ICMR-NIN, 2024",
+    number="17", unit="", stat_label="dietary guidelines for Indians. All November, we share the numbers behind them.",
+    chips=["Oil, sugar and salt", "Water, millets and movement"], cta=GUIDE)
 C["2026-11-06-li-disease-burden"] = dict(layout="stat", theme="paper", photo=px(8818732), credit=CR, label="Why nutrition literacy matters",
     pill="Indian data", number="56.4", unit="%", stat_label="of India's total disease burden is due to unhealthy diets.",
     chips=["Healthy diets and activity can prevent up to 80% of type 2 diabetes"], cta=GUIDE)

@@ -1,5 +1,107 @@
 [
  {
+  "key": "2026-11-01 11:00 instagram post seventeen",
+  "args": {
+   "channelId": "6ae4f9312f1f5ed64825c25d",
+   "schedulingType": "automatic",
+   "mode": "customScheduled",
+   "dueAt": "2026-11-01T11:00:00+05:30",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-seventeen.png",
+      "metadata": {
+       "altText": "Forest green poster. Label: 'New month, fresh start', ICMR-NIN, 2024. A large '17' above the line 'dietary guidelines for Indians. All November, we share the numbers behind them.' Two rows: 'Oil, sugar and salt' and 'Water, millets and movement'. A round photo of an Indian thali. Footer: Free tools: nnwa.in."
+      }
+     }
+    }
+   ],
+   "text": "November starts here.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) set out 17 guidelines for how India can eat and live better. Most of them come down to a few everyday numbers.\n\nAll month we'll post those numbers, one at a time: how much oil, sugar and salt, how much water, how much of your cereal can be millets, and how much to move. Every figure comes from Indian government sources, and every post names its source.\n\nIf you'd like to see how the guidelines fit together, NNWA's Introduction to Nutrition is a short first step, 100% online.\n\nFree on our website: the Indian Diet Starter Guide (free ebook). Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#DietaryGuidelines #NNWA #IndianNutrition #NutritionBasics",
+   "metadata": {
+    "instagram": {
+     "type": "post",
+     "shouldShareToFeed": true,
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): nnwa.in/pages/free-ebook/\nIntroduction to Nutrition: nnwa.in/courses/introduction-to-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+    }
+   }
+  }
+ },
+ {
+  "key": "2026-11-01 12:00 facebook post seventeen",
+  "args": {
+   "channelId": "6ae4f9992f1f5ed64825c8c2",
+   "schedulingType": "automatic",
+   "mode": "customScheduled",
+   "dueAt": "2026-11-01T12:00:00+05:30",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-seventeen.png",
+      "metadata": {
+       "altText": "Forest green poster. Label: 'New month, fresh start', ICMR-NIN, 2024. A large '17' above the line 'dietary guidelines for Indians. All November, we share the numbers behind them.' Two rows: 'Oil, sugar and salt' and 'Water, millets and movement'. A round photo of an Indian thali. Footer: Free tools: nnwa.in."
+      }
+     }
+    }
+   ],
+   "text": "November starts here.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) set out 17 guidelines for how India can eat and live better. Most of them come down to a few everyday numbers.\n\nAll month we'll post those numbers, one at a time: how much oil, sugar and salt, how much water, how much of your cereal can be millets, and how much to move. Every figure comes from Indian government sources, and every post names its source.\n\nIf you'd like to see how the guidelines fit together, NNWA's Introduction to Nutrition is a short first step, 100% online.\n\nFree on our website: the Indian Diet Starter Guide (free ebook). It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "metadata": {
+    "facebook": {
+     "type": "post",
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): https://nnwa.in/pages/free-ebook/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-01-seventeen\nIntroduction to Nutrition (100% online): https://nnwa.in/courses/introduction-to-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-01-seventeen\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+    }
+   }
+  }
+ },
+ {
+  "key": "2026-11-01 21:30 instagram story stories/2026-11-01-seventeen-story.jpg",
+  "args": {
+   "channelId": "6ae4f9312f1f5ed64825c25d",
+   "schedulingType": "automatic",
+   "mode": "customScheduled",
+   "dueAt": "2026-11-01T21:30:00+05:30",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-01-seventeen-story.jpg",
+      "metadata": {
+       "altText": "Story version of today's post. Forest green poster. Label: 'New month, fresh start', ICMR-NIN, 2024. A large '17' above the line 'dietary guidelines for Indians. All November, we share the numbers behind them.' Two rows: 'Oil, sugar and salt' and 'Water, millets and movement'. A round photo of an Indian thali. Footer: Free tools: nnwa.in."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "instagram": {
+     "type": "story",
+     "shouldShareToFeed": false
+    }
+   }
+  }
+ },
+ {
+  "key": "2026-11-01 21:30 facebook story stories/2026-11-01-seventeen-story.jpg",
+  "args": {
+   "channelId": "6ae4f9992f1f5ed64825c8c2",
+   "schedulingType": "automatic",
+   "mode": "customScheduled",
+   "dueAt": "2026-11-01T21:30:00+05:30",
+   "assets": [
+    {
+     "image": {
+      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-01-seventeen-story.jpg",
+      "metadata": {
+       "altText": "Story version of today's post. Forest green poster. Label: 'New month, fresh start', ICMR-NIN, 2024. A large '17' above the line 'dietary guidelines for Indians. All November, we share the numbers behind them.' Two rows: 'Oil, sugar and salt' and 'Water, millets and movement'. A round photo of an Indian thali. Footer: Free tools: nnwa.in."
+      }
+     }
+    }
+   ],
+   "metadata": {
+    "facebook": {
+     "type": "story"
+    }
+   }
+  }
+ },
+ {
   "key": "2026-11-02 19:00 instagram post fibre",
   "args": {
    "channelId": "6ae4f9312f1f5ed64825c25d",

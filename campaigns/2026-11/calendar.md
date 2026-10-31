@@ -2,9 +2,9 @@
 
 Playbooks used: social-calendar-builder, social-creative-builder, ig-caption-writer, ig-hashtag-strategist, ig-humanizer (AI-tell pass). Design system v2. Sources: [sources.md](sources.md) (government only).
 
-Status (31 Oct 2026): approved by Hrito and scheduled in Buffer. 154 posts, 2 to 30 Nov; 1 Nov is held (guide launch). All times IST.
+Status (31 Oct 2026): approved by Hrito and scheduled in Buffer. 158 posts, 1 to 30 Nov. 1 Nov carries a replacement post ('17 dietary guidelines'); the guide launch stays held. All times IST.
 
-Totals: 154 Buffer posts (66 Instagram, 66 Facebook, 22 LinkedIn), about 5.1 a day.
+Totals: 158 Buffer posts (68 Instagram, 68 Facebook, 22 LinkedIn), about 5.3 a day.
 
 ## Daily rhythm
 
@@ -22,6 +22,7 @@ Why these times: Instagram evenings and weekend late mornings, Facebook lunchtim
 
 | Date | Platform | Format | Hook | CTA | Asset needed | Owner |
 |---|---|---|---|---|---|---|
+| Sun 01 Nov | IG + FB | Static, stat (new) | 17 dietary guidelines for Indians | Course: Introduction to Nutrition | New creative (Claude) | Claude schedules after approval |
 | Sun 01 Nov | IG + FB Stories | Story x3 | Morning link frame; evening feed repost | Free guide or course link | Story frames (Claude) | Claude schedules |
 | Mon 02 Nov | IG + FB + LinkedIn | Static, vertical word | Where does your fibre come from? | Course: Gut Health & Digestive Wellness | PR #4 (exists) | Claude schedules after approval |
 | Mon 02 Nov | IG + FB Stories | Story x3 | Morning link frame; evening feed repost | Free guide or course link | Story frames (Claude) | Claude schedules |
@@ -104,6 +105,63 @@ Why these times: Instagram evenings and weekend late mornings, Facebook lunchtim
 ## Captions
 
 Week 1 feed captions (1 to 7 Nov) are in the lead-magnet plan (/mnt/project-files/lead-magnet-funnel/7-day-plan-lead-magnet.md). Everything else is below. Facebook uses the Instagram caption with the link in place of 'link in bio'. Every post has a first comment carrying the link and the sources.
+
+### Sun 01 Nov: 17 dietary guidelines for Indians
+Format: Static, stat (new).
+
+**Instagram**
+
+```
+November starts here.
+
+ICMR-NIN's Dietary Guidelines for Indians (2024) set out 17 guidelines for how India can eat and live better. Most of them come down to a few everyday numbers.
+
+All month we'll post those numbers, one at a time: how much oil, sugar and salt, how much water, how much of your cereal can be millets, and how much to move. Every figure comes from Indian government sources, and every post names its source.
+
+If you'd like to see how the guidelines fit together, NNWA's Introduction to Nutrition is a short first step, 100% online.
+
+Free on our website: the Indian Diet Starter Guide (free ebook). Link in bio.
+
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
+
+#DietaryGuidelines #NNWA #IndianNutrition #NutritionBasics
+```
+
+First comment (Instagram):
+
+```
+Free Indian Diet Starter Guide (free ebook): nnwa.in/pages/free-ebook/
+Introduction to Nutrition: nnwa.in/courses/introduction-to-nutrition/
+Both are linked in our bio.
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
+General information for healthy adults, not medical advice.
+```
+
+**Facebook**
+
+```
+November starts here.
+
+ICMR-NIN's Dietary Guidelines for Indians (2024) set out 17 guidelines for how India can eat and live better. Most of them come down to a few everyday numbers.
+
+All month we'll post those numbers, one at a time: how much oil, sugar and salt, how much water, how much of your cereal can be millets, and how much to move. Every figure comes from Indian government sources, and every post names its source.
+
+If you'd like to see how the guidelines fit together, NNWA's Introduction to Nutrition is a short first step, 100% online.
+
+Free on our website: the Indian Diet Starter Guide (free ebook). It's linked in the first comment, with the course page.
+
+Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
+```
+
+First comment (Facebook):
+
+```
+Free Indian Diet Starter Guide (free ebook): https://nnwa.in/pages/free-ebook/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-01-seventeen
+Introduction to Nutrition (100% online): https://nnwa.in/courses/introduction-to-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-01-seventeen
+Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
+```
+
+Alt text: Forest green poster. Label: 'New month, fresh start', ICMR-NIN, 2024. A large '17' above the line 'dietary guidelines for Indians. All November, we share the numbers behind them.' Two rows: 'Oil, sugar and salt' and 'Water, millets and movement'. A round photo of an Indian thali. Footer: Free tools: nnwa.in.
 
 ### Mon 02 Nov: Where does your fibre come from?
 Format: Static, vertical word.
