@@ -49,3 +49,16 @@ Site-side certificate errors (not the policy): eatrightindia.gov.in, wcd.gov.in.
 ## Still open
 - The full Nutrient Requirements 2020 report is on Google Drive (blocked). Source 1 is ICMR-NIN's own brief note of it, which contains the protein table used.
 - Pexels photographer names (photo credits are handled by the design thread).
+
+## Expansion (31 Oct 2026, Hrito: "more informative, Indian standards and anecdotes")
+Six new pages (book now 30 pages), all on existing templates, every fact from sources 1 to 5:
+| New page | Content | Source |
+|---|---|---|
+| 05 | Indian adults often eat 60–70 g, quality is the gap; protein 10–15% of energy; why muscle matters; ICMR-NIN's 65 kg worked example (EAR 43 g, RDA 54 g) | 2, pp. 57–59 |
+| 09 | RDA by life stage: man 54 g, woman 46 g, pregnancy +9.5/+22 g, breastfeeding +16.9/+13.2 g, children 4–6 y 16 g, 7–9 y 23 g, girls 16–18 y 46 g, boys 16–18 y 55 g | 1, Table 2a |
+| 12 | My Plate for the Day protein by food group (≈72 g veg, ≈79 g non-veg); 700–900 g flesh foods a week; fermentation and sprouting | 2, Tables 1.2a/1.2b (p. 6), pp. 59, 81 |
+| 19 | Four illustrative Indian days (named examples, labelled as not real people), totals from the serving table; IFA in pregnancy | 1; 2, p. 14; 3 |
+| 22 | Five more myths: dal alone, "Indians lack protein", whey/BCAAs, kidneys, meat amounts | 2, pp. 57–60 |
+| 25 | Reading an Indian label: veg/non-veg symbols, "source"/"high in protein" thresholds (10%/20% RDA per 100 g), per-100 g and % per serve, no "doctor recommended", no implying a balanced diet is inadequate | 4, Reg. 5(3), 5(4); 5, Reg. 4(3), 10(2), Schedule I |
+
+The anecdotes are illustrative composites. They are labelled as such on the page because the project rules forbid invented testimonials.
