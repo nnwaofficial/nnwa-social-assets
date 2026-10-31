@@ -401,7 +401,7 @@ MAG = {
     "prediabetes": ("Prediabetes Diet guide", "/guides/prediabetes-diet-in-india/"),
     "diabetes-risk": ("Indian Diabetes Risk Score calculator", "/tools/diabetes-risk-calculator/"),
     "food-counter": ("Indian Food Calorie Counter", "/tools/indian-food-calorie-counter/"),
-    "recipes": ("50 Indian Recipes ebook", "/downloads/nnwa-50-indian-recipes.pdf"),
+    "recipes": ("150 Indian Recipes ebook", "/downloads/nnwa-50-indian-recipes.pdf"),
     "pregnancy": ("Pregnancy Diet guide", "/guides/pregnancy-diet-in-india/"),
     "credentials": ("Nutrition Credentials in India guide", "/guides/nutrition-credentials-in-india/"),
     "regional": ("Regional Indian Diets guide", "/guides/regional-indian-diets/"),
@@ -678,7 +678,7 @@ def md():
     items = build()
     out = ["# NNWA November 2026 calendar (1 to 30 Nov)", "",
            "Playbooks used: social-calendar-builder, social-creative-builder, ig-caption-writer, ig-hashtag-strategist, ig-humanizer (AI-tell pass). Design system v2. Sources: [sources.md](sources.md) (government only).", "",
-           "Status (31 Oct 2026): approved by Hrito and scheduled in Buffer. 158 posts, 1 to 30 Nov. 1 Nov carries a replacement post ('17 dietary guidelines'); the guide launch stays held. All times IST.", "",
+           "Status (31 Oct 2026): approved by Hrito and scheduled in Buffer. 188 posts, 1 to 30 Nov (158 plus 30 morning link Stories, see am-stories/). 1 Nov carries a replacement post ('17 dietary guidelines'); the guide launch stays held. All times IST.", "",
            f"Totals: {len(items)} Buffer posts ({sum(1 for x in items if x['channel']=='instagram')} Instagram, {sum(1 for x in items if x['channel']=='facebook')} Facebook, {sum(1 for x in items if x['channel']=='linkedin')} LinkedIn), about {len(items)/30:.1f} a day.", "",
            "## Daily rhythm", "",
            "| Slot (IST) | Instagram | Facebook | LinkedIn |", "|---|---|---|---|",

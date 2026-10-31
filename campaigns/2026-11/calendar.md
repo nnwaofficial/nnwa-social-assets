@@ -2,7 +2,7 @@
 
 Playbooks used: social-calendar-builder, social-creative-builder, ig-caption-writer, ig-hashtag-strategist, ig-humanizer (AI-tell pass). Design system v2. Sources: [sources.md](sources.md) (government only).
 
-Status (31 Oct 2026): approved by Hrito and scheduled in Buffer. 158 posts, 1 to 30 Nov. 1 Nov carries a replacement post ('17 dietary guidelines'); the guide launch stays held. All times IST.
+Status (31 Oct 2026): approved by Hrito and scheduled in Buffer. 188 posts, 1 to 30 Nov (158 plus 30 morning link Stories, see am-stories/). 1 Nov carries a replacement post ('17 dietary guidelines'); the guide launch stays held. All times IST.
 
 Totals: 158 Buffer posts (68 Instagram, 68 Facebook, 22 LinkedIn), about 5.3 a day.
 
@@ -1057,7 +1057,7 @@ What helps, per the same guidelines: varied home-cooked food, homemade semi-soli
 
 If you work with children or parents, our Child & Adolescent Nutrition course covers this properly.
 
-Free on our website: the 50 Indian Recipes ebook. Link in bio.
+Free on our website: the 150 Indian Recipes ebook. Link in bio.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
 
@@ -1067,7 +1067,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
 First comment (Instagram):
 
 ```
-Free 50 Indian Recipes ebook: nnwa.in/downloads/nnwa-50-indian-recipes.pdf
+Free 150 Indian Recipes ebook: nnwa.in/downloads/nnwa-50-indian-recipes.pdf
 Child & Adolescent Nutrition: nnwa.in/courses/child-adolescent-nutrition/
 Both are linked in our bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
@@ -1087,7 +1087,7 @@ What helps, per the same guidelines: varied home-cooked food, homemade semi-soli
 
 If you work with children or parents, our Child & Adolescent Nutrition course covers this properly.
 
-Free on our website: the 50 Indian Recipes ebook. It's linked in the first comment, with the course page.
+Free on our website: the 150 Indian Recipes ebook. It's linked in the first comment, with the course page.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
 ```
@@ -1095,7 +1095,7 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
 First comment (Facebook):
 
 ```
-Free 50 Indian Recipes ebook: https://nnwa.in/downloads/nnwa-50-indian-recipes.pdf?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-14-childrens-day
+Free 150 Indian Recipes ebook: https://nnwa.in/downloads/nnwa-50-indian-recipes.pdf?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-14-childrens-day
 Child & Adolescent Nutrition (100% online): https://nnwa.in/courses/child-adolescent-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-14-childrens-day
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
 ```
@@ -1836,7 +1836,7 @@ First comment (Instagram):
 
 ```
 Cooking for many, in the spirit of the langar:
-Free 50 Indian Recipes ebook: nnwa.in/downloads/nnwa-50-indian-recipes.pdf
+Free 150 Indian Recipes ebook: nnwa.in/downloads/nnwa-50-indian-recipes.pdf
 Culinary Nutrition (Nutrition Chef): nnwa.in/courses/culinary-nutrition/
 Both are linked in our bio.
 General information for healthy adults, not medical advice.
@@ -1854,7 +1854,7 @@ First comment (Facebook):
 
 ```
 Cooking for many, in the spirit of the langar:
-Free 50 Indian Recipes ebook: https://nnwa.in/downloads/nnwa-50-indian-recipes.pdf?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-24-gurpurab
+Free 150 Indian Recipes ebook: https://nnwa.in/downloads/nnwa-50-indian-recipes.pdf?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-24-gurpurab
 Culinary Nutrition (Nutrition Chef) (100% online): https://nnwa.in/courses/culinary-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-24-gurpurab
 ```
 
@@ -1872,7 +1872,7 @@ First comment (LinkedIn):
 
 ```
 Cooking for many, in the spirit of the langar:
-Free 50 Indian Recipes ebook: https://nnwa.in/downloads/nnwa-50-indian-recipes.pdf?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-24-gurpurab
+Free 150 Indian Recipes ebook: https://nnwa.in/downloads/nnwa-50-indian-recipes.pdf?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-24-gurpurab
 Culinary Nutrition (Nutrition Chef) (100% online): https://nnwa.in/courses/culinary-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-24-gurpurab
 ```
 
