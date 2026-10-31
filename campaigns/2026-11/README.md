@@ -7,7 +7,8 @@ A lead campaign for 1 to 30 Nov 2026 on Instagram, Facebook and LinkedIn, schedu
 - `buffer_payloads.py` / `buffer-payloads.json`: the exact Buffer create_post arguments (154 posts) as scheduled.
 - `sources.md`: every fact, with its government source and page.
 - `ig-grid-preview.jpg`: the November Instagram grid, newest post first.
-- `creatives.py`, `reels.py`, `wraps.py`: the scripts that render the creatives, the motion reels and the daily Stories. `tools/` holds the render.py and components.css they ran with: the lead-magnet version plus a `storywrap` layout and a no-sticker Story option.
+- `motion/`: the reel motion engine (31 Oct 2026). `reel.html` draws any frame deterministically (masked kinetic type, Fraunces weight morphs, count-up numbers, circle, panel and inset transitions, parallax photos, light leak, grain); `reels.json` holds the scenes (same sourced facts); `render.js` captures 30 fps into ffmpeg: `node motion/render.js 2026/11/reels`.
+- `creatives.py`, `reels.py` (superseded by motion/), `wraps.py`: the scripts that render the creatives, the motion reels and the daily Stories. `tools/` holds the render.py and components.css they ran with: the lead-magnet version plus a `storywrap` layout and a no-sticker Story option.
 
 Assets are in `2026/11/` (feed posts, carousels, LinkedIn PDFs, reel covers), `2026/11/stories/` and `2026/11/reels/`. The 1 to 8 Nov feed posts come from PR #4; their CTA footers were re-rendered from `week1-specs/` (now "Free tools: nnwa.in").
 
@@ -29,4 +30,4 @@ Assets are in `2026/11/` (feed posts, carousels, LinkedIn PDFs, reel covers), `2
 ## Still open
 1. The nnwa.in header banner shows "Next batch begins 11 October 2026", which is in the past.
 2. Instagram has one bio link; point it at nnwa.in/tools/ or a link page so each post's resource is reachable.
-3. Reels are silent; add audio in the app if wanted.
+3. Reels are silent by design; add a track from Instagram's licensed library in the app if wanted.

@@ -1,4 +1,7 @@
-"""Turn rendered reel scenes (1080x1920 PNG) into silent MP4 reels with a slow zoom and crossfades.
+"""SUPERSEDED 31 Oct 2026 by motion/ (kinetic-type engine: motion/reel.html + motion/render.js + motion/reels.json).
+Kept for reference only.
+
+Turn rendered reel scenes (1080x1920 PNG) into silent MP4 reels with a slow zoom and crossfades.
 
 python3 reels.py <scenes-root> <out-dir>
 Scenes come from creatives.py (<out>/_reel-scenes/<slug>/scene-01.png ... scene-end.png).
