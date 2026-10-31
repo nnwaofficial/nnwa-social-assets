@@ -1738,7 +1738,7 @@ Service, sharing and gratitude. Wishing you and your family a blessed Gurpurab.
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: coming soon to this page.
+
 ```
 
 **LinkedIn**
@@ -1754,7 +1754,7 @@ The langar's idea of serving everyone the same meal, side by side, is one that a
 First comment (LinkedIn):
 
 ```
-Free guide, Protein, decoded: coming soon.
+
 ```
 
 Alt text: Warm photo of a langar meal served in steel plates. Glass card: 'Guru Nanak Jayanti. Everyone sits together. Everyone is fed.'

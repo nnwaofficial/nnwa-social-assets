@@ -16,7 +16,7 @@ GUIDE = "https://nnwa.in/protein"
 # Instagram keeps "link in bio" (update the bio when the page is live) and the 09:00 link-sticker Stories are held.
 GUIDE_LIVE = False
 # Greeting posts: no guide line on Facebook or LinkedIn while the guide is not live.
-GREETING = {"chhath"}
+GREETING = {"chhath", "gurpurab"}
 COURSES = "https://nnwa.in/courses"  # course page slugs to be confirmed once nnwa.in is reachable
 
 
