@@ -1,0 +1,35 @@
+{
+ "layout": "tiles",
+ "theme": "paper",
+ "label": "Eat the colours",
+ "headline": "Four colours for <em>this week's</em> shopping list.",
+ "tiles": [
+  {
+   "photo": "https://images.pexels.com/photos/12765459/pexels-photo-12765459.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "pos": "center 8%",
+   "title": "Greens",
+   "sub": "Spinach, methi, lettuce"
+  },
+  {
+   "photo": "https://images.pexels.com/photos/12765459/pexels-photo-12765459.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "pos": "10% 85%",
+   "title": "Reds",
+   "sub": "Tomato, capsicum, beetroot"
+  },
+  {
+   "photo": "https://images.pexels.com/photos/5965988/pexels-photo-5965988.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "pos": "30% center",
+   "title": "Yellow and orange",
+   "sub": "Lemon, pumpkin, papaya"
+  },
+  {
+   "photo": "https://images.pexels.com/photos/5678045/pexels-photo-5678045.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "pos": "70% center",
+   "title": "Purples",
+   "sub": "Brinjal, jamun, red cabbage"
+  }
+ ],
+ "fine": "",
+ "credit": "Photo via Pexels",
+ "cta": "Free tools: nnwa.in"
+}

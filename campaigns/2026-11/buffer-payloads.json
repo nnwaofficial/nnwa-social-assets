@@ -1,187 +1,5 @@
 [
  {
-  "key": "2026-11-01 11:00 instagram post guide-launch",
-  "args": {
-   "channelId": "6ae4f9312f1f5ed64825c25d",
-   "schedulingType": "automatic",
-   "mode": "customScheduled",
-   "dueAt": "2026-11-01T11:00:00+05:30",
-   "assets": [
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-01.png",
-      "metadata": {
-       "altText": "Slide 1, forest green slide reading 'A free guide: Protein, decoded' above the guide's cover."
-      }
-     }
-    },
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-02.png",
-      "metadata": {
-       "altText": "Slide 2, 'Seven short chapters' above the contents page."
-      }
-     }
-    },
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-03.png",
-      "metadata": {
-       "altText": "Slide 3, 'Start with a 60-second check'."
-      }
-     }
-    },
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-04.png",
-      "metadata": {
-       "altText": "Slide 4, 'Everyday Indian foods, real numbers'."
-      }
-     }
-    },
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-05.png",
-      "metadata": {
-       "altText": "Slide 5, 'A fridge sheet you can print'."
-      }
-     }
-    },
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-06.png",
-      "metadata": {
-       "altText": "Slide 6, NNWA seal: 'Get it free from the link in bio', nnwa.in/protein."
-      }
-     }
-    }
-   ],
-   "text": "How much protein do you need, and where does it come from on an Indian plate?\n\nWe wrote a free guide to answer that properly. Protein, decoded has 34 pages and seven short chapters. It includes a 60-second check, your number from ICMR-NIN's 0.83 g per kg, a table of everyday Indian foods, eight easy wins, a weekly tracker and a fridge sheet you can print.\n\nEvery fact in it comes from Indian government sources: ICMR-NIN and FSSAI. It's general information for healthy adults, not medical advice.\n\nGet it free from the link in bio.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020\n\n#ProteinDecoded #NNWA #IndianNutrition #ProteinBasics",
-   "metadata": {
-    "instagram": {
-     "type": "post",
-     "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020\nGeneral information for healthy adults, not medical advice."
-    }
-   }
-  }
- },
- {
-  "key": "2026-11-01 12:00 facebook post guide-launch",
-  "args": {
-   "channelId": "6ae4f9992f1f5ed64825c8c2",
-   "schedulingType": "automatic",
-   "mode": "customScheduled",
-   "dueAt": "2026-11-01T12:00:00+05:30",
-   "assets": [
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-01.png",
-      "metadata": {
-       "altText": "Slide 1, forest green slide reading 'A free guide: Protein, decoded' above the guide's cover."
-      }
-     }
-    },
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-02.png",
-      "metadata": {
-       "altText": "Slide 2, 'Seven short chapters' above the contents page."
-      }
-     }
-    },
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-03.png",
-      "metadata": {
-       "altText": "Slide 3, 'Start with a 60-second check'."
-      }
-     }
-    },
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-04.png",
-      "metadata": {
-       "altText": "Slide 4, 'Everyday Indian foods, real numbers'."
-      }
-     }
-    },
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-05.png",
-      "metadata": {
-       "altText": "Slide 5, 'A fridge sheet you can print'."
-      }
-     }
-    },
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-06.png",
-      "metadata": {
-       "altText": "Slide 6, NNWA seal: 'Get it free from the link in bio', nnwa.in/protein."
-      }
-     }
-    }
-   ],
-   "text": "How much protein do you need, and where does it come from on an Indian plate?\n\nWe wrote a free guide to answer that properly. Protein, decoded has 34 pages and seven short chapters. It includes a 60-second check, your number from ICMR-NIN's 0.83 g per kg, a table of everyday Indian foods, eight easy wins, a weekly tracker and a fridge sheet you can print.\n\nEvery fact in it comes from Indian government sources: ICMR-NIN and FSSAI. It's general information for healthy adults, not medical advice.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020",
-   "metadata": {
-    "facebook": {
-     "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020"
-    }
-   }
-  }
- },
- {
-  "key": "2026-11-01 21:30 instagram story stories/2026-11-01-guide-launch-story.jpg",
-  "args": {
-   "channelId": "6ae4f9312f1f5ed64825c25d",
-   "schedulingType": "automatic",
-   "mode": "customScheduled",
-   "dueAt": "2026-11-01T21:30:00+05:30",
-   "assets": [
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-01-guide-launch-story.jpg",
-      "metadata": {
-       "altText": "Story version of today's post. Slide 1, forest green slide reading 'A free guide: Protein, decoded' above the guide's cover."
-      }
-     }
-    }
-   ],
-   "metadata": {
-    "instagram": {
-     "type": "story",
-     "shouldShareToFeed": false
-    }
-   }
-  }
- },
- {
-  "key": "2026-11-01 21:30 facebook story stories/2026-11-01-guide-launch-story.jpg",
-  "args": {
-   "channelId": "6ae4f9992f1f5ed64825c8c2",
-   "schedulingType": "automatic",
-   "mode": "customScheduled",
-   "dueAt": "2026-11-01T21:30:00+05:30",
-   "assets": [
-    {
-     "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-01-guide-launch-story.jpg",
-      "metadata": {
-       "altText": "Story version of today's post. Slide 1, forest green slide reading 'A free guide: Protein, decoded' above the guide's cover."
-      }
-     }
-    }
-   ],
-   "metadata": {
-    "facebook": {
-     "type": "story"
-    }
-   }
-  }
- },
- {
   "key": "2026-11-02 19:00 instagram post fibre",
   "args": {
    "channelId": "6ae4f9312f1f5ed64825c25d",
@@ -193,17 +11,17 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-02-fibre.png",
       "metadata": {
-       "altText": "Forest green poster with the word 'fibre' set vertically beside a bowl of rajma in a dashed ring. Note: 'Four everyday sources: whole grains, pulses, vegetables and fruit.' Footer: Free guide: nnwa.in/protein."
+       "altText": "Forest green poster with the word 'fibre' set vertically beside a bowl of rajma in a dashed ring. Note: 'Four everyday sources: whole grains, pulses, vegetables and fruit.' Footer: Free tools: nnwa.in."
       }
      }
     }
    ],
-   "text": "Most of the fibre on an Indian plate comes from four everyday places.\n\nWhole grains like atta, brown rice, millets and oats. Pulses: dal, rajma, chana, moong. Vegetables, especially with the skin on where it is edible. Whole fruit rather than juice.\n\nDal, rajma and chana bring fibre and protein together. Chapter 03 of our free guide, Protein, decoded, shows how much protein each one gives.\n\nGet it from the link in bio.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020\n\n#ProteinDecoded #NNWA #NutritionBasics #IndianNutrition",
+   "text": "Most of the fibre on an Indian plate comes from four everyday places.\n\nWhole grains like atta, brown rice, millets and oats. Pulses: dal, rajma, chana, moong. Vegetables, especially with the skin on where it is edible. Whole fruit rather than juice.\n\nDal, rajma and chana bring fibre and protein together, which makes pulses the easiest upgrade on most plates.\n\nFibre and digestion are covered properly in NNWA's Gut Health & Digestive Wellness course, 100% online.\n\nFree on our website: the Indian Foods and Nutrients guide. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#GutHealth #NNWA #NutritionBasics #IndianNutrition",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Indian Foods and Nutrients guide: nnwa.in/guides/indian-foods-and-nutrients/\nGut Health & Digestive Wellness: nnwa.in/courses/gut-health/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -220,16 +38,16 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-02-fibre.png",
       "metadata": {
-       "altText": "Forest green poster with the word 'fibre' set vertically beside a bowl of rajma in a dashed ring. Note: 'Four everyday sources: whole grains, pulses, vegetables and fruit.' Footer: Free guide: nnwa.in/protein."
+       "altText": "Forest green poster with the word 'fibre' set vertically beside a bowl of rajma in a dashed ring. Note: 'Four everyday sources: whole grains, pulses, vegetables and fruit.' Footer: Free tools: nnwa.in."
       }
      }
     }
    ],
-   "text": "Most of the fibre on an Indian plate comes from four everyday places.\n\nWhole grains like atta, brown rice, millets and oats. Pulses: dal, rajma, chana, moong. Vegetables, especially with the skin on where it is edible. Whole fruit rather than juice.\n\nDal, rajma and chana bring fibre and protein together. Chapter 03 of our free guide, Protein, decoded, shows how much protein each one gives.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020",
+   "text": "Most of the fibre on an Indian plate comes from four everyday places.\n\nWhole grains like atta, brown rice, millets and oats. Pulses: dal, rajma, chana, moong. Vegetables, especially with the skin on where it is edible. Whole fruit rather than juice.\n\nDal, rajma and chana bring fibre and protein together, which makes pulses the easiest upgrade on most plates.\n\nFibre and digestion are covered properly in NNWA's Gut Health & Digestive Wellness course, 100% online.\n\nFree on our website: the Indian Foods and Nutrients guide. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020"
+     "firstComment": "Free Indian Foods and Nutrients guide: https://nnwa.in/guides/indian-foods-and-nutrients/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-02-fibre\nGut Health & Digestive Wellness (100% online): https://nnwa.in/courses/gut-health/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-02-fibre\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -241,18 +59,18 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-02T10:00:00+05:30",
-   "text": "We've written a free 34-page guide for anyone who explains food to other people: Protein, decoded.\n\nIt started with a question we hear every week from learners and their clients: how much protein do I need, and where does it come from on an Indian plate?\n\nEvery number in it comes from Indian government sources: ICMR-NIN's Nutrient Requirements (2020), the Dietary Guidelines for Indians (2024), the Indian Food Composition Tables and FSSAI's labelling rules. There are no brand tie-ins and no supplement advice.\n\nIt includes a 60-second self-check, an Indian food table, eight easy wins and a weekly tracker.\n\nOur free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "Fibre gets far less attention than protein, yet most Indian kitchens already stock four good sources: whole grains such as atta, millets and oats; pulses like dal, rajma and chana; vegetables, with the skin on where it is edible; and whole fruit rather than juice.\n\nFor anyone who counsels clients, pulses are the easy win because they bring fibre and protein together. NNWA's Gut Health & Digestive Wellness course goes into fibre and digestion in depth.\n\nThe free Indian Foods and Nutrients guide and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Indian Food Composition Tables, 2017; FSSAI, Labelling and Display Regulations, 2020"
+     "firstComment": "Free Indian Foods and Nutrients guide: https://nnwa.in/guides/indian-foods-and-nutrients/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-02-fibre\nGut Health & Digestive Wellness (100% online): https://nnwa.in/courses/gut-health/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-02-fibre\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
     {
      "image": {
-      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-01-guide-launch-01.png",
+      "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-02-fibre.png",
       "metadata": {
-       "altText": "Forest green slide reading 'A free guide: Protein, decoded' above the guide's cover."
+       "altText": "Forest green poster with the word 'fibre' set vertically beside a bowl of rajma in a dashed ring. Note: 'Four everyday sources: whole grains, pulses, vegetables and fruit.' Footer: Free tools: nnwa.in."
       }
      }
     }
@@ -271,7 +89,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-02-fibre-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Forest green poster with the word 'fibre' set vertically beside a bowl of rajma in a dashed ring. Note: 'Four everyday sources: whole grains, pulses, vegetables and fruit.' Footer: Free guide: nnwa.in/protein."
+       "altText": "Story version of today's post. Forest green poster with the word 'fibre' set vertically beside a bowl of rajma in a dashed ring. Note: 'Four everyday sources: whole grains, pulses, vegetables and fruit.' Footer: Free tools: nnwa.in."
       }
      }
     }
@@ -296,7 +114,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-02-fibre-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Forest green poster with the word 'fibre' set vertically beside a bowl of rajma in a dashed ring. Note: 'Four everyday sources: whole grains, pulses, vegetables and fruit.' Footer: Free guide: nnwa.in/protein."
+       "altText": "Story version of today's post. Forest green poster with the word 'fibre' set vertically beside a bowl of rajma in a dashed ring. Note: 'Four everyday sources: whole grains, pulses, vegetables and fruit.' Footer: Free tools: nnwa.in."
       }
      }
     }
@@ -352,17 +170,17 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-03-protein-05.png",
       "metadata": {
-       "altText": "Slide 5: NNWA seal, 'Get the full guide, free. nnwa.in/protein'."
+       "altText": "Slide 5: NNWA seal, 'Find your number, free. Our free Protein Calculator on nnwa.in works it out with Indian foods.' nnwa.in."
       }
      }
     }
    ],
-   "text": "How much protein do you actually need in a day? One number does most of the work.\n\nHealthy adults need about 0.83 g of protein per kg of body weight a day. At 60 kg that is about 50 g. Slides 2 to 4 show how to work out yours, how to spread it across meals and which everyday foods to mix.\n\nNeeds are different in pregnancy, older age, kidney disease and heavy training, so check with a qualified expert if any of those apply to you.\n\nThe full guide has the calculator, a table of everyday Indian foods and a weekly tracker.\n\nIt's free from the link in bio.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020\n\n#ProteinDecoded #NNWA #ProteinBasics #IndianNutrition",
+   "text": "How much protein do you actually need in a day? One number does most of the work.\n\nHealthy adults need about 0.83 g of protein per kg of body weight a day. At 60 kg that is about 50 g. Slides 2 to 4 show how to work out yours, how to spread it across meals and which everyday foods to mix.\n\nNeeds are different in pregnancy, older age, kidney disease and heavy training, so check with a qualified expert if any of those apply to you.\n\nPlanning protein for clients and families is part of NNWA's Certification in Nutrition, 100% online.\n\nFree on our website: the Protein Calculator. Link in bio.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020\n\n#ProteinFacts #NNWA #ProteinBasics #IndianNutrition",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Protein Calculator: nnwa.in/tools/protein-calculator/\nCertification in Nutrition: nnwa.in/courses/certification-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -411,16 +229,16 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-03-protein-05.png",
       "metadata": {
-       "altText": "Slide 5: NNWA seal, 'Get the full guide, free. nnwa.in/protein'."
+       "altText": "Slide 5: NNWA seal, 'Find your number, free. Our free Protein Calculator on nnwa.in works it out with Indian foods.' nnwa.in."
       }
      }
     }
    ],
-   "text": "How much protein do you actually need in a day? One number does most of the work.\n\nHealthy adults need about 0.83 g of protein per kg of body weight a day. At 60 kg that is about 50 g. Slides 2 to 4 show how to work out yours, how to spread it across meals and which everyday foods to mix.\n\nNeeds are different in pregnancy, older age, kidney disease and heavy training, so check with a qualified expert if any of those apply to you.\n\nThe full guide has the calculator, a table of everyday Indian foods and a weekly tracker.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020",
+   "text": "How much protein do you actually need in a day? One number does most of the work.\n\nHealthy adults need about 0.83 g of protein per kg of body weight a day. At 60 kg that is about 50 g. Slides 2 to 4 show how to work out yours, how to spread it across meals and which everyday foods to mix.\n\nNeeds are different in pregnancy, older age, kidney disease and heavy training, so check with a qualified expert if any of those apply to you.\n\nPlanning protein for clients and families is part of NNWA's Certification in Nutrition, 100% online.\n\nFree on our website: the Protein Calculator. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020"
+     "firstComment": "Free Protein Calculator: https://nnwa.in/tools/protein-calculator/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-03-protein\nCertification in Nutrition (100% online): https://nnwa.in/courses/certification-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-03-protein\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020"
     }
    }
   }
@@ -432,10 +250,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-03T09:30:00+05:30",
-   "text": "Clients ask \"how much protein?\" more than almost anything else. ICMR-NIN's 2020 Nutrient Requirements for Indians give a clean starting point for healthy adults: 0.83 g per kg of body weight per day.\n\nThe five slides cover the calculation, meal distribution and mixed sources. We've put the full reference into a free 34-page guide: requirements by life stage, an Indian food table and FSSAI label rules, all from government sources.\n\nOur free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "Clients ask \"how much protein?\" more than almost anything else. ICMR-NIN's 2020 Nutrient Requirements for Indians give a clean starting point for healthy adults: 0.83 g per kg of body weight per day.\n\nThe five slides cover the calculation, meal distribution and mixed sources. NNWA's Certification in Nutrition teaches this end to end, with every number from Indian government sources.\n\nThe free Protein Calculator and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020"
+     "firstComment": "Free Protein Calculator: https://nnwa.in/tools/protein-calculator/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-03-protein\nCertification in Nutrition (100% online): https://nnwa.in/courses/certification-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-03-protein\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020"
     }
    },
    "assets": [
@@ -512,12 +330,12 @@
      }
     }
    ],
-   "text": "What does 500 g of vegetables and fruit a day look like?\n\nICMR-NIN's Dietary Guidelines for Indians (2024) use 400 g of vegetables and 100 g of fruit a day for a 2,000 kcal plate. Vegetables are half the plate. The other half needs protein, and our free guide shows how to build it.\n\nLink in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#ProteinDecoded #NNWA #EatMoreVeg #IndianNutrition",
+   "text": "What does 500 g of vegetables and fruit a day look like?\n\nICMR-NIN's Dietary Guidelines for Indians (2024) use 400 g of vegetables and 100 g of fruit a day for a 2,000 kcal plate. Vegetables are half the plate; cereals, pulses and dairy share the rest.\n\nTurning plates like this into everyday habits is what NNWA's Healthy Eating & Everyday Wellness course is about.\n\nFree on our website: the Indian Diet Starter Guide (free ebook). Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#HealthyPlate #NNWA #EatMoreVeg #IndianNutrition",
    "metadata": {
     "instagram": {
      "type": "reel",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): nnwa.in/pages/free-ebook/\nHealthy Eating & Everyday Wellness: nnwa.in/courses/healthy-eating-essentials/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -536,11 +354,11 @@
      }
     }
    ],
-   "text": "What does 500 g of vegetables and fruit a day look like?\n\nICMR-NIN's Dietary Guidelines for Indians (2024) use 400 g of vegetables and 100 g of fruit a day for a 2,000 kcal plate. Vegetables are half the plate. The other half needs protein, and our free guide shows how to build it.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "What does 500 g of vegetables and fruit a day look like?\n\nICMR-NIN's Dietary Guidelines for Indians (2024) use 400 g of vegetables and 100 g of fruit a day for a 2,000 kcal plate. Vegetables are half the plate; cereals, pulses and dairy share the rest.\n\nTurning plates like this into everyday habits is what NNWA's Healthy Eating & Everyday Wellness course is about.\n\nFree on our website: the Indian Diet Starter Guide (free ebook). It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "reel",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): https://nnwa.in/pages/free-ebook/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-04-reel-500g\nHealthy Eating & Everyday Wellness (100% online): https://nnwa.in/courses/healthy-eating-essentials/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-04-reel-500g\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -552,10 +370,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-04T09:30:00+05:30",
-   "text": "400 g of vegetables and 100 g of fruit a day. That's the reference ICMR-NIN's Dietary Guidelines for Indians (2024) use for a 2,000 kcal day, with vegetables, greens and fruit making up about half the plate.\n\nIn counselling, the number lands better when people can see it. Two katoris of sabzi, a bowl of salad, a plate of greens and one fruit gets most people there.\n\nThe other half of the plate is where protein comes in, and that's what our free guide covers.\n\nOur free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "400 g of vegetables and 100 g of fruit a day. That's the reference ICMR-NIN's Dietary Guidelines for Indians (2024) use for a 2,000 kcal day, with vegetables, greens and fruit making up about half the plate.\n\nIn counselling, the number lands better when people can see it. Two katoris of sabzi, a bowl of salad, a plate of greens and one fruit gets most people there.\n\nNNWA's Healthy Eating & Everyday Wellness course is built around practical plates like this.\n\nThe free Indian Diet Starter Guide (free ebook) and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): https://nnwa.in/pages/free-ebook/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-04-reel-500g\nHealthy Eating & Everyday Wellness (100% online): https://nnwa.in/courses/healthy-eating-essentials/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-04-reel-500g\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
@@ -582,7 +400,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-04-reel-500g-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. Scene 1: 'What does 500 g look like?'. Scene 2: '400 g of vegetables, and 100 g of fruit, for a 2,000 kcal day'. Scene 3: 'Two katoris of sabzi, plus a bowl of salad and a plate of greens'. Scene 4: 'One whole fruit'. Scene 5: 'The other half needs protein'. End card: 'Get the free guide. nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. Scene 1: 'What does 500 g look like?'. Scene 2: '400 g of vegetables, and 100 g of fruit, for a 2,000 kcal day'. Scene 3: 'Two katoris of sabzi, plus a bowl of salad and a plate of greens'. Scene 4: 'One whole fruit'. Scene 5: 'The other half? Cereals, pulses or other protein, and dairy.' End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -607,7 +425,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-04-reel-500g-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. Scene 1: 'What does 500 g look like?'. Scene 2: '400 g of vegetables, and 100 g of fruit, for a 2,000 kcal day'. Scene 3: 'Two katoris of sabzi, plus a bowl of salad and a plate of greens'. Scene 4: 'One whole fruit'. Scene 5: 'The other half needs protein'. End card: 'Get the free guide. nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. Scene 1: 'What does 500 g look like?'. Scene 2: '400 g of vegetables, and 100 g of fruit, for a 2,000 kcal day'. Scene 3: 'Two katoris of sabzi, plus a bowl of salad and a plate of greens'. Scene 4: 'One whole fruit'. Scene 5: 'The other half? Cereals, pulses or other protein, and dairy.' End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -631,17 +449,17 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-05-salt-check.png",
       "metadata": {
-       "altText": "Off-white poster. Headline 'Not more than 5 g of salt a day. That is one teaspoon.' Wooden spoon of salt in a circle with a dashed ring. Notes: 'ICMR-NIN advice: not more than 5 g of salt a day, from all foods' and 'Hidden salt: pickles, papads, namkeen and sauces count too'. Footer: Free guide: nnwa.in/protein."
+       "altText": "Off-white poster. Headline 'Not more than 5 g of salt a day. That is one teaspoon.' Wooden spoon of salt in a circle with a dashed ring. Notes: 'ICMR-NIN advice: not more than 5 g of salt a day, from all foods' and 'Hidden salt: pickles, papads, namkeen and sauces count too'. Footer: Free tools: nnwa.in."
       }
      }
     }
    ],
-   "text": "Not more than 5 g of salt a day. That's one teaspoon, and it includes the salt already in your food.\n\nPickles, papads, namkeen and sauces add up quickly. Taste before you add salt at the table, and check the sodium line on labels.\n\nLabels hide more than salt. Our free guide, Protein, decoded, shows how to read an Indian food label, including protein claims.\n\nLink in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#ProteinDecoded #NNWA #SaltCheck #NutritionBasics",
+   "text": "Not more than 5 g of salt a day. That's one teaspoon, and it includes the salt already in your food.\n\nPickles, papads, namkeen and sauces add up quickly. Taste before you add salt at the table, and check the sodium line on labels.\n\nSalt is one of the first things NNWA's Cardiovascular (CVD) Nutrition course teaches you to manage.\n\nFree on our website: the High Blood Pressure Diet guide. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#SaltCheck #NNWA #HeartHealth #NutritionBasics",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free High Blood Pressure Diet guide: nnwa.in/guides/high-blood-pressure-diet-in-india/\nCardiovascular (CVD) Nutrition: nnwa.in/courses/cardiac-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -658,16 +476,16 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-05-salt-check.png",
       "metadata": {
-       "altText": "Off-white poster. Headline 'Not more than 5 g of salt a day. That is one teaspoon.' Wooden spoon of salt in a circle with a dashed ring. Notes: 'ICMR-NIN advice: not more than 5 g of salt a day, from all foods' and 'Hidden salt: pickles, papads, namkeen and sauces count too'. Footer: Free guide: nnwa.in/protein."
+       "altText": "Off-white poster. Headline 'Not more than 5 g of salt a day. That is one teaspoon.' Wooden spoon of salt in a circle with a dashed ring. Notes: 'ICMR-NIN advice: not more than 5 g of salt a day, from all foods' and 'Hidden salt: pickles, papads, namkeen and sauces count too'. Footer: Free tools: nnwa.in."
       }
      }
     }
    ],
-   "text": "Not more than 5 g of salt a day. That's one teaspoon, and it includes the salt already in your food.\n\nPickles, papads, namkeen and sauces add up quickly. Taste before you add salt at the table, and check the sodium line on labels.\n\nLabels hide more than salt. Our free guide, Protein, decoded, shows how to read an Indian food label, including protein claims.\n\nIt's coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "Not more than 5 g of salt a day. That's one teaspoon, and it includes the salt already in your food.\n\nPickles, papads, namkeen and sauces add up quickly. Taste before you add salt at the table, and check the sodium line on labels.\n\nSalt is one of the first things NNWA's Cardiovascular (CVD) Nutrition course teaches you to manage.\n\nFree on our website: the High Blood Pressure Diet guide. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free High Blood Pressure Diet guide: https://nnwa.in/guides/high-blood-pressure-diet-in-india/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-05-salt-check\nCardiovascular (CVD) Nutrition (100% online): https://nnwa.in/courses/cardiac-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-05-salt-check\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -679,10 +497,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-05T09:30:00+05:30",
-   "text": "Three reference numbers that come up in almost every nutrition conversation, all from ICMR-NIN: protein 0.83 g/kg/day for healthy adults (2020), salt not more than 5 g a day, and 400 g of vegetables plus 100 g of fruit a day on a 2,000 kcal plate (Dietary Guidelines for Indians, 2024).\n\nThey're starting points, not prescriptions. The protein one is unpacked in our free guide.\n\nIt's coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "Three reference numbers that come up in almost every nutrition conversation, all from ICMR-NIN: protein 0.83 g/kg/day for healthy adults (2020), salt not more than 5 g a day, and 400 g of vegetables plus 100 g of fruit a day on a 2,000 kcal plate (Dietary Guidelines for Indians, 2024).\n\nThey're starting points, not prescriptions. NNWA's Cardiovascular (CVD) Nutrition course shows how to apply the salt number with real clients.\n\nThe free High Blood Pressure Diet guide and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free High Blood Pressure Diet guide: https://nnwa.in/guides/high-blood-pressure-diet-in-india/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-05-salt-check\nCardiovascular (CVD) Nutrition (100% online): https://nnwa.in/courses/cardiac-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-05-salt-check\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
@@ -709,7 +527,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-05-salt-check-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Off-white poster. Headline 'Not more than 5 g of salt a day. That is one teaspoon.' Wooden spoon of salt in a circle with a dashed ring. Notes: 'ICMR-NIN advice: not more than 5 g of salt a day, from all foods' and 'Hidden salt: pickles, papads, namkeen and sauces count too'. Footer: Free guide: nnwa.in/protein."
+       "altText": "Story version of today's post. Off-white poster. Headline 'Not more than 5 g of salt a day. That is one teaspoon.' Wooden spoon of salt in a circle with a dashed ring. Notes: 'ICMR-NIN advice: not more than 5 g of salt a day, from all foods' and 'Hidden salt: pickles, papads, namkeen and sauces count too'. Footer: Free tools: nnwa.in."
       }
      }
     }
@@ -734,7 +552,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-05-salt-check-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Off-white poster. Headline 'Not more than 5 g of salt a day. That is one teaspoon.' Wooden spoon of salt in a circle with a dashed ring. Notes: 'ICMR-NIN advice: not more than 5 g of salt a day, from all foods' and 'Hidden salt: pickles, papads, namkeen and sauces count too'. Footer: Free guide: nnwa.in/protein."
+       "altText": "Story version of today's post. Off-white poster. Headline 'Not more than 5 g of salt a day. That is one teaspoon.' Wooden spoon of salt in a circle with a dashed ring. Notes: 'ICMR-NIN advice: not more than 5 g of salt a day, from all foods' and 'Hidden salt: pickles, papads, namkeen and sauces count too'. Footer: Free tools: nnwa.in."
       }
      }
     }
@@ -758,17 +576,17 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-06-half-your-plate.png",
       "metadata": {
-       "altText": "Photo of a vegetable plate with a frosted glass card: 'Half your plate: vegetables and fruit.' Body: ICMR-NIN's Dietary Guidelines for Indians (2024) suggest filling about half the plate with vegetables, greens and fruit. Footer: Free guide: nnwa.in/protein."
+       "altText": "Photo of a vegetable plate with a frosted glass card: 'Half your plate: vegetables and fruit.' Body: ICMR-NIN's Dietary Guidelines for Indians (2024) suggest filling about half the plate with vegetables, greens and fruit. Footer: Free tools: nnwa.in."
       }
      }
     }
    ],
-   "text": "Half your plate: vegetables and fruit.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) have vegetables, fruits, greens, tubers and roots forming about half the plate, with the rest shared between cereals, pulses or other protein, and dairy.\n\nWhat goes on the other half? Our free guide builds four example Indian days.\n\nGet it from the link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#ProteinDecoded #NNWA #MyPlate #IndianNutrition",
+   "text": "Half your plate: vegetables and fruit.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) have vegetables, fruits, greens, tubers and roots forming about half the plate, with the rest shared between cereals, pulses or other protein, and dairy.\n\nBuilding plates like this for other people is where NNWA's Diploma in Nutrition, Dietetics & Public Health begins.\n\nFree on our website: the Indian Diet Starter Guide (free ebook). Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#HealthyEating #NNWA #MyPlate #IndianNutrition",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): nnwa.in/pages/free-ebook/\nDiploma in Nutrition, Dietetics & Public Health: nnwa.in/courses/diploma-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -785,16 +603,16 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-06-half-your-plate.png",
       "metadata": {
-       "altText": "Photo of a vegetable plate with a frosted glass card: 'Half your plate: vegetables and fruit.' Body: ICMR-NIN's Dietary Guidelines for Indians (2024) suggest filling about half the plate with vegetables, greens and fruit. Footer: Free guide: nnwa.in/protein."
+       "altText": "Photo of a vegetable plate with a frosted glass card: 'Half your plate: vegetables and fruit.' Body: ICMR-NIN's Dietary Guidelines for Indians (2024) suggest filling about half the plate with vegetables, greens and fruit. Footer: Free tools: nnwa.in."
       }
      }
     }
    ],
-   "text": "Half your plate: vegetables and fruit.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) have vegetables, fruits, greens, tubers and roots forming about half the plate, with the rest shared between cereals, pulses or other protein, and dairy.\n\nWhat goes on the other half? Our free guide builds four example Indian days.\n\nIt's coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "Half your plate: vegetables and fruit.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) have vegetables, fruits, greens, tubers and roots forming about half the plate, with the rest shared between cereals, pulses or other protein, and dairy.\n\nBuilding plates like this for other people is where NNWA's Diploma in Nutrition, Dietetics & Public Health begins.\n\nFree on our website: the Indian Diet Starter Guide (free ebook). It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): https://nnwa.in/pages/free-ebook/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-06-half-your-plate\nDiploma in Nutrition, Dietetics & Public Health (100% online): https://nnwa.in/courses/diploma-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-06-half-your-plate\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -806,10 +624,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-06T10:00:00+05:30",
-   "text": "Dhanteras is a day for investing in what lasts.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) estimate that 56.4% of the total disease burden in India is due to unhealthy diets. The same report says healthy diets and physical activity can prevent up to 80% of type 2 diabetes.\n\nThat's why we think nutrition literacy is worth investing in, for professionals and for families. Our free guide is a practical place to start.\n\nIt's coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "Dhanteras is a day for investing in what lasts.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) estimate that 56.4% of the total disease burden in India is due to unhealthy diets. The same report says healthy diets and physical activity can prevent up to 80% of type 2 diabetes.\n\nThat's why we think nutrition literacy is worth investing in, for professionals and for families. NNWA's Diploma in Nutrition, Dietetics & Public Health is built for exactly that.\n\nThe free Indian Diet Starter Guide (free ebook) and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): https://nnwa.in/pages/free-ebook/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-06-half-your-plate\nDiploma in Nutrition, Dietetics & Public Health (100% online): https://nnwa.in/courses/diploma-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-06-half-your-plate\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
@@ -885,7 +703,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-06-half-your-plate-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Photo of a vegetable plate with a frosted glass card: 'Half your plate: vegetables and fruit.' Body: ICMR-NIN's Dietary Guidelines for Indians (2024) suggest filling about half the plate with vegetables, greens and fruit. Footer: Free guide: nnwa.in/protein."
+       "altText": "Story version of today's post. Photo of a vegetable plate with a frosted glass card: 'Half your plate: vegetables and fruit.' Body: ICMR-NIN's Dietary Guidelines for Indians (2024) suggest filling about half the plate with vegetables, greens and fruit. Footer: Free tools: nnwa.in."
       }
      }
     }
@@ -910,7 +728,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-06-half-your-plate-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Photo of a vegetable plate with a frosted glass card: 'Half your plate: vegetables and fruit.' Body: ICMR-NIN's Dietary Guidelines for Indians (2024) suggest filling about half the plate with vegetables, greens and fruit. Footer: Free guide: nnwa.in/protein."
+       "altText": "Story version of today's post. Photo of a vegetable plate with a frosted glass card: 'Half your plate: vegetables and fruit.' Body: ICMR-NIN's Dietary Guidelines for Indians (2024) suggest filling about half the plate with vegetables, greens and fruit. Footer: Free tools: nnwa.in."
       }
      }
     }
@@ -934,17 +752,17 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-07-eat-the-colours.png",
       "metadata": {
-       "altText": "Off-white poster 'Four colours for this week's shopping list' with four photo tiles: greens, reds, yellow and orange, purples, each naming everyday Indian vegetables and fruit. Footer: Free guide: nnwa.in/protein."
+       "altText": "Off-white poster 'Four colours for this week's shopping list' with four photo tiles: greens, reds, yellow and orange, purples, each naming everyday Indian vegetables and fruit. Footer: Free tools: nnwa.in."
       }
      }
     }
    ],
-   "text": "Four colours for this week's shopping list.\n\nGreens like spinach, methi and lettuce. Reds like tomato, capsicum and beetroot. Yellow and orange like lemon, pumpkin and papaya. Purples like brinjal, jamun and red cabbage. Variety matters more than any single food.\n\nAdd one protein to that list. Our free guide has a one-page fridge sheet to help.\n\nLink in bio.\n\n#ProteinDecoded #NNWA #EatTheRainbow #IndianFood",
+   "text": "Four colours for this week's shopping list.\n\nGreens like spinach, methi and lettuce. Reds like tomato, capsicum and beetroot. Yellow and orange like lemon, pumpkin and papaya. Purples like brinjal, jamun and red cabbage. Variety matters more than any single food.\n\nThe science behind those colours is what NNWA's Antioxidants & Phytochemicals course covers.\n\nFree on our website: the Indian Foods and Nutrients guide. Link in bio.\n\n#EatTheRainbow #NNWA #Phytonutrients #IndianFood",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio."
+     "firstComment": "Free Indian Foods and Nutrients guide: nnwa.in/guides/indian-foods-and-nutrients/\nAntioxidants & Phytochemicals: nnwa.in/courses/antioxidants-phytochemicals/\nBoth are linked in our bio.\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -961,16 +779,16 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-07-eat-the-colours.png",
       "metadata": {
-       "altText": "Off-white poster 'Four colours for this week's shopping list' with four photo tiles: greens, reds, yellow and orange, purples, each naming everyday Indian vegetables and fruit. Footer: Free guide: nnwa.in/protein."
+       "altText": "Off-white poster 'Four colours for this week's shopping list' with four photo tiles: greens, reds, yellow and orange, purples, each naming everyday Indian vegetables and fruit. Footer: Free tools: nnwa.in."
       }
      }
     }
    ],
-   "text": "Four colours for this week's shopping list.\n\nGreens like spinach, methi and lettuce. Reds like tomato, capsicum and beetroot. Yellow and orange like lemon, pumpkin and papaya. Purples like brinjal, jamun and red cabbage. Variety matters more than any single food.\n\nAdd one protein to that list. Our free guide has a one-page fridge sheet to help.\n\nIt's coming soon. Follow the NNWA page to get it first.",
+   "text": "Four colours for this week's shopping list.\n\nGreens like spinach, methi and lettuce. Reds like tomato, capsicum and beetroot. Yellow and orange like lemon, pumpkin and papaya. Purples like brinjal, jamun and red cabbage. Variety matters more than any single food.\n\nThe science behind those colours is what NNWA's Antioxidants & Phytochemicals course covers.\n\nFree on our website: the Indian Foods and Nutrients guide. It's linked in the first comment, with the course page.",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page."
+     "firstComment": "Free Indian Foods and Nutrients guide: https://nnwa.in/guides/indian-foods-and-nutrients/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-07-eat-the-colours\nAntioxidants & Phytochemicals (100% online): https://nnwa.in/courses/antioxidants-phytochemicals/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-07-eat-the-colours"
     }
    }
   }
@@ -1036,7 +854,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-07-eat-the-colours-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Off-white poster 'Four colours for this week's shopping list' with four photo tiles: greens, reds, yellow and orange, purples, each naming everyday Indian vegetables and fruit. Footer: Free guide: nnwa.in/protein."
+       "altText": "Story version of today's post. Off-white poster 'Four colours for this week's shopping list' with four photo tiles: greens, reds, yellow and orange, purples, each naming everyday Indian vegetables and fruit. Footer: Free tools: nnwa.in."
       }
      }
     }
@@ -1061,7 +879,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-07-eat-the-colours-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Off-white poster 'Four colours for this week's shopping list' with four photo tiles: greens, reds, yellow and orange, purples, each naming everyday Indian vegetables and fruit. Footer: Free guide: nnwa.in/protein."
+       "altText": "Story version of today's post. Off-white poster 'Four colours for this week's shopping list' with four photo tiles: greens, reds, yellow and orange, purples, each naming everyday Indian vegetables and fruit. Footer: Free tools: nnwa.in."
       }
      }
     }
@@ -1090,12 +908,12 @@
      }
     }
    ],
-   "text": "Happy Diwali from all of us at NNWA.\n\nTonight, kitchens across India will be full: the kaju katli someone's mother still makes by hand, the chakli that never lasts till morning, the plate kept aside for the neighbours.\n\nEnjoy all of it. If you're frying at home, one tip from ICMR-NIN's Dietary Guidelines for Indians (2024): filter the oil once you've finished frying, use it for curries over the next day or two, and don't fry with it again.\n\nMay your home be bright and your table be shared.\n\nFor the days after the festival, our free guide is in the link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#HappyDiwali #NNWA #Diwali2026 #IndianFood",
+   "text": "Happy Diwali from all of us at NNWA.\n\nTonight, kitchens across India will be full: the kaju katli someone's mother still makes by hand, the chakli that never lasts till morning, the plate kept aside for the neighbours.\n\nEnjoy all of it. If you're frying at home, one tip from ICMR-NIN's Dietary Guidelines for Indians (2024): filter the oil once you've finished frying, use it for curries over the next day or two, and don't fry with it again.\n\nMay your home be bright and your table be shared.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#HappyDiwali #NNWA #Diwali2026 #IndianFood",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -1117,11 +935,11 @@
      }
     }
    ],
-   "text": "Happy Diwali from all of us at NNWA.\n\nTonight, kitchens across India will be full: the kaju katli someone's mother still makes by hand, the chakli that never lasts till morning, the plate kept aside for the neighbours.\n\nEnjoy all of it. If you're frying at home, one tip from ICMR-NIN's Dietary Guidelines for Indians (2024): filter the oil once you've finished frying, use it for curries over the next day or two, and don't fry with it again.\n\nMay your home be bright and your table be shared.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "Happy Diwali from all of us at NNWA.\n\nTonight, kitchens across India will be full: the kaju katli someone's mother still makes by hand, the chakli that never lasts till morning, the plate kept aside for the neighbours.\n\nEnjoy all of it. If you're frying at home, one tip from ICMR-NIN's Dietary Guidelines for Indians (2024): filter the oil once you've finished frying, use it for curries over the next day or two, and don't fry with it again.\n\nMay your home be bright and your table be shared.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -1241,12 +1059,12 @@
      }
     }
    ],
-   "text": "Learn it. Apply it.\n\nFestive season is when everyone has nutrition advice: what to skip, what to 'detox' with, what someone's cousin swears by. Knowing what the evidence actually says, and how to explain it to someone you care about, is a skill.\n\nNNWA (Nutrition & Wellness Academy) teaches it 100% online, from a short introduction to full certifications and diplomas, with every lesson grounded in Indian guidelines.\n\nExplore the courses from the link in bio.\n\n#NNWA #NutritionCourse #OnlineLearning #LearnNutrition",
+   "text": "Learn it. Apply it.\n\nFestive season is when everyone has nutrition advice: what to skip, what to 'detox' with, what someone's cousin swears by. Knowing what the evidence actually says, and how to explain it to someone you care about, is a skill.\n\nNNWA (Nutrition & Wellness Academy) teaches it 100% online, from a short introduction to full certifications and diplomas, with every lesson grounded in Indian guidelines.\n\nFree on our website: the side-by-side course comparison. Link in bio.\n\n#NNWA #NutritionCourse #OnlineLearning #LearnNutrition",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Link in bio: nnwa.in/courses"
+     "firstComment": "Free side-by-side course comparison: nnwa.in/courses/compare/\nAll NNWA courses: nnwa.in/courses/\nBoth are linked in our bio.\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -1268,11 +1086,11 @@
      }
     }
    ],
-   "text": "Learn it. Apply it.\n\nFestive season is when everyone has nutrition advice: what to skip, what to 'detox' with, what someone's cousin swears by. Knowing what the evidence actually says, and how to explain it to someone you care about, is a skill.\n\nNNWA (Nutrition & Wellness Academy) teaches it 100% online, from a short introduction to full certifications and diplomas, with every lesson grounded in Indian guidelines.\n\nExplore the courses from the link in the first comment.",
+   "text": "Learn it. Apply it.\n\nFestive season is when everyone has nutrition advice: what to skip, what to 'detox' with, what someone's cousin swears by. Knowing what the evidence actually says, and how to explain it to someone you care about, is a skill.\n\nNNWA (Nutrition & Wellness Academy) teaches it 100% online, from a short introduction to full certifications and diplomas, with every lesson grounded in Indian guidelines.\n\nFree on our website: the side-by-side course comparison. It's linked in the first comment, with the course page.",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Courses (100% online): https://nnwa.in/courses?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-09-learn-apply"
+     "firstComment": "Free side-by-side course comparison: https://nnwa.in/courses/compare/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-09-learn-apply\nAll NNWA courses (100% online): https://nnwa.in/courses/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-09-learn-apply"
     }
    }
   }
@@ -1284,10 +1102,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-09T10:00:00+05:30",
-   "text": "After a week of festive tables, the questions start: what should I cut, should I detox, is this supplement worth it?\n\nAnswering those well takes more than a list of rules. It takes knowing the evidence, and the Indian guidelines behind it, well enough to explain it simply.\n\nThat's what NNWA (Nutrition & Wellness Academy) teaches, 100% online, from short courses to full certifications and diplomas.\n\nCourses are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "After a week of festive tables, the questions start: what should I cut, should I detox, is this supplement worth it?\n\nAnswering those well takes more than a list of rules. It takes knowing the evidence, and the Indian guidelines behind it, well enough to explain it simply.\n\nThat's what NNWA (Nutrition & Wellness Academy) teaches, 100% online, from short courses to full certifications and diplomas.\n\nThe free side-by-side course comparison and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Courses: https://nnwa.in/courses?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-09-learn-apply"
+     "firstComment": "Free side-by-side course comparison: https://nnwa.in/courses/compare/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-09-learn-apply\nAll NNWA courses (100% online): https://nnwa.in/courses/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-09-learn-apply"
     }
    },
    "assets": [
@@ -1444,17 +1262,17 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-10-bhai-dooj-05.png",
       "metadata": {
-       "altText": "Slide 5: NNWA seal, 'Habits last longer than sweets. Free guide: nnwa.in/protein'."
+       "altText": "Slide 5: NNWA seal, 'Habits last longer than sweets. Helping people build habits that stick is what NNWA's Wellness and Lifestyle Coach course teaches.' nnwa.in/courses."
       }
      }
     }
    ],
-   "text": "This Bhai Dooj, gift a habit.\n\nThe tilak, the sweets, the gift you've been hiding since Dhanteras. Add one more thing this year, something you can do together.\n\nSlide 2: a walk. ICMR-NIN suggests adults get 30 to 60 minutes of moderate activity a day, at least five days a week. A brisk evening walk with your sibling counts.\nSlide 3: a box of nuts and seeds alongside the mithai. The Dietary Guidelines for Indians list nuts and seeds as the swap for deep-fried snacks.\nSlide 4: one home-cooked meal, with half the plate vegetables and fruit.\n\nHabits last longer than sweets do.\n\nOur free guide has eight easy wins you can share with them. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#BhaiDooj #NNWA #HealthyHabits #IndianFamilies",
+   "text": "This Bhai Dooj, gift a habit.\n\nThe tilak, the sweets, the gift you've been hiding since Dhanteras. Add one more thing this year, something you can do together.\n\nSlide 2: a walk. ICMR-NIN suggests adults get 30 to 60 minutes of moderate activity a day, at least five days a week. A brisk evening walk with your sibling counts.\nSlide 3: a box of nuts and seeds alongside the mithai. The Dietary Guidelines for Indians list nuts and seeds as the swap for deep-fried snacks.\nSlide 4: one home-cooked meal, with half the plate vegetables and fruit.\n\nHabits last longer than sweets do. Helping people build ones that stick is what NNWA's Wellness & Lifestyle Coach course trains you to do.\n\nFree on our website: the Indian Diet Starter Guide (free ebook). Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#BhaiDooj #NNWA #HealthyHabits #IndianFamilies",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): nnwa.in/pages/free-ebook/\nWellness & Lifestyle Coach: nnwa.in/courses/wellness-lifestyle-coach/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -1503,16 +1321,16 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-10-bhai-dooj-05.png",
       "metadata": {
-       "altText": "Slide 5: NNWA seal, 'Habits last longer than sweets. Free guide: nnwa.in/protein'."
+       "altText": "Slide 5: NNWA seal, 'Habits last longer than sweets. Helping people build habits that stick is what NNWA's Wellness and Lifestyle Coach course teaches.' nnwa.in/courses."
       }
      }
     }
    ],
-   "text": "This Bhai Dooj, gift a habit.\n\nThe tilak, the sweets, the gift you've been hiding since Dhanteras. Add one more thing this year, something you can do together.\n\nSlide 2: a walk. ICMR-NIN suggests adults get 30 to 60 minutes of moderate activity a day, at least five days a week. A brisk evening walk with your sibling counts.\nSlide 3: a box of nuts and seeds alongside the mithai. The Dietary Guidelines for Indians list nuts and seeds as the swap for deep-fried snacks.\nSlide 4: one home-cooked meal, with half the plate vegetables and fruit.\n\nHabits last longer than sweets do.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "This Bhai Dooj, gift a habit.\n\nThe tilak, the sweets, the gift you've been hiding since Dhanteras. Add one more thing this year, something you can do together.\n\nSlide 2: a walk. ICMR-NIN suggests adults get 30 to 60 minutes of moderate activity a day, at least five days a week. A brisk evening walk with your sibling counts.\nSlide 3: a box of nuts and seeds alongside the mithai. The Dietary Guidelines for Indians list nuts and seeds as the swap for deep-fried snacks.\nSlide 4: one home-cooked meal, with half the plate vegetables and fruit.\n\nHabits last longer than sweets do. Helping people build ones that stick is what NNWA's Wellness & Lifestyle Coach course trains you to do.\n\nFree on our website: the Indian Diet Starter Guide (free ebook). It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): https://nnwa.in/pages/free-ebook/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-10-bhai-dooj\nWellness & Lifestyle Coach (100% online): https://nnwa.in/courses/wellness-lifestyle-coach/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-10-bhai-dooj\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -1524,10 +1342,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-10T09:30:00+05:30",
-   "text": "A useful number for the post-festival conversation: ICMR-NIN's Dietary Guidelines for Indians (2024) advise adults to avoid added sugar or keep it to 20 to 25 g a day.\n\nFor many clients, that's a single piece of mithai plus sugar in two cups of tea. Showing them that is more useful than telling them to 'cut down'.\n\nOur free guide uses the same approach for protein: one clear number and what it looks like on an Indian plate.\n\nIt's coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "A useful number for the post-festival conversation: ICMR-NIN's Dietary Guidelines for Indians (2024) advise adults to avoid added sugar or keep it to 20 to 25 g a day.\n\nFor many clients, that's a single piece of mithai plus sugar in two cups of tea. Showing them that is more useful than telling them to 'cut down'.\n\nNNWA's Diabetes & Metabolic Nutrition course is built on the same approach: clear numbers, shown on an Indian plate.\n\nThe free Prediabetes Diet guide and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Prediabetes Diet guide: https://nnwa.in/guides/prediabetes-diet-in-india/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-10-li-sugar\nDiabetes & Metabolic Nutrition (100% online): https://nnwa.in/courses/diabetes-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-10-li-sugar\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
@@ -1697,12 +1515,12 @@
      }
     }
    ],
-   "text": "It's National Education Day, so here's an honest map of how people start learning nutrition with NNWA.\n\nIf you're curious: Introduction to Nutrition is a short first step.\nIf you want a full grounding: the Certification in Nutrition.\nIf you want the most complete pathway: the Diploma in Nutrition, Dietetics & Public Health.\nIf you already know your area: specialisations such as Diabetes Educator, Sports Nutrition, Child Nutrition and Food Science & FSSAI.\n\nEverything is 100% online. Fees, batch dates and eligibility are on each course page, and a counsellor can help you choose.\n\nExplore the courses from the link in bio.\n\n#NationalEducationDay #NNWA #NutritionCourse #CareerInNutrition",
+   "text": "It's National Education Day, so here's an honest map of how people start learning nutrition with NNWA.\n\nIf you're curious: Introduction to Nutrition is a short first step.\nIf you want a full grounding: the Certification in Nutrition.\nIf you want the most complete pathway: the Diploma in Nutrition, Dietetics & Public Health.\nIf you already know your area: specialisations such as Diabetes Educator, Sports Nutrition, Child Nutrition and Food Science & FSSAI.\n\nEverything is 100% online. Fees, batch dates and eligibility are on each course page, and a counsellor can help you choose.\n\nFree on our website: the How to Become a Nutritionist in India guide. Link in bio.\n\n#NationalEducationDay #NNWA #NutritionCourse #CareerInNutrition",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Link in bio: nnwa.in/courses"
+     "firstComment": "Free How to Become a Nutritionist in India guide: nnwa.in/guides/becoming-a-nutritionist-in-india/\nAll NNWA courses: nnwa.in/courses/\nBoth are linked in our bio.\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -1764,11 +1582,11 @@
      }
     }
    ],
-   "text": "It's National Education Day, so here's an honest map of how people start learning nutrition with NNWA.\n\nIf you're curious: Introduction to Nutrition is a short first step.\nIf you want a full grounding: the Certification in Nutrition.\nIf you want the most complete pathway: the Diploma in Nutrition, Dietetics & Public Health.\nIf you already know your area: specialisations such as Diabetes Educator, Sports Nutrition, Child Nutrition and Food Science & FSSAI.\n\nEverything is 100% online. Fees, batch dates and eligibility are on each course page, and a counsellor can help you choose.\n\nExplore the courses from the link in the first comment.",
+   "text": "It's National Education Day, so here's an honest map of how people start learning nutrition with NNWA.\n\nIf you're curious: Introduction to Nutrition is a short first step.\nIf you want a full grounding: the Certification in Nutrition.\nIf you want the most complete pathway: the Diploma in Nutrition, Dietetics & Public Health.\nIf you already know your area: specialisations such as Diabetes Educator, Sports Nutrition, Child Nutrition and Food Science & FSSAI.\n\nEverything is 100% online. Fees, batch dates and eligibility are on each course page, and a counsellor can help you choose.\n\nFree on our website: the How to Become a Nutritionist in India guide. It's linked in the first comment, with the course page.",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Courses (100% online): https://nnwa.in/courses?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-11-education-day"
+     "firstComment": "Free How to Become a Nutritionist in India guide: https://nnwa.in/guides/becoming-a-nutritionist-in-india/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-11-education-day\nAll NNWA courses (100% online): https://nnwa.in/courses/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-11-education-day"
     }
    }
   }
@@ -1780,10 +1598,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-11T09:30:00+05:30",
-   "text": "National Education Day is a good moment to talk about how people actually move into nutrition work in India.\n\nAt NNWA (Nutrition & Wellness Academy), most learners start in one of four places: a short introduction, the Certification in Nutrition, the Diploma in Nutrition, Dietetics & Public Health, or a focused specialisation such as Diabetes Educator or Food Science & FSSAI.\n\nAll of it is online, and all of it is built on Indian guidelines from ICMR-NIN and FSSAI. The document walks through the four routes.\n\nCourses are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "National Education Day is a good moment to talk about how people actually move into nutrition work in India.\n\nAt NNWA (Nutrition & Wellness Academy), most learners start in one of four places: a short introduction, the Certification in Nutrition, the Diploma in Nutrition, Dietetics & Public Health, or a focused specialisation such as Diabetes Educator or Food Science & FSSAI.\n\nAll of it is online, and all of it is built on Indian guidelines from ICMR-NIN and FSSAI. The document walks through the four routes.\n\nThe free How to Become a Nutritionist in India guide and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Courses: https://nnwa.in/courses?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-11-education-day"
+     "firstComment": "Free How to Become a Nutritionist in India guide: https://nnwa.in/guides/becoming-a-nutritionist-in-india/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-11-education-day\nAll NNWA courses (100% online): https://nnwa.in/courses/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-11-education-day"
     }
    },
    "assets": [
@@ -1860,12 +1678,12 @@
      }
     }
    ],
-   "text": "Is the kadhai of oil from Diwali frying still sitting on the stove?\n\nICMR-NIN's Dietary Guidelines for Indians (2024) are clear on this. Heating oil again and again creates harmful compounds. Once you've fried in it, filter it, use it for curries within a day or two, and don't fry with it again.\n\nThe guidelines also suggest 25 to 30 g of cooking oil a day in total, which is about five to six teaspoons.\n\nMore practical kitchen numbers are in our free guide. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#CookingOil #NNWA #IndianKitchen #NutritionBasics",
+   "text": "Is the kadhai of oil from Diwali frying still sitting on the stove?\n\nICMR-NIN's Dietary Guidelines for Indians (2024) are clear on this. Heating oil again and again creates harmful compounds. Once you've fried in it, filter it, use it for curries within a day or two, and don't fry with it again.\n\nThe guidelines also suggest 25 to 30 g of cooking oil a day in total, which is about five to six teaspoons.\n\nKitchen practice like this is part of NNWA's Culinary Nutrition (Nutrition Chef) course.\n\nFree on our website: the Indian Food Calorie Counter. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#CookingOil #NNWA #IndianKitchen #NutritionBasics",
    "metadata": {
     "instagram": {
      "type": "reel",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Indian Food Calorie Counter: nnwa.in/tools/indian-food-calorie-counter/\nCulinary Nutrition (Nutrition Chef): nnwa.in/courses/culinary-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -1884,11 +1702,11 @@
      }
     }
    ],
-   "text": "Is the kadhai of oil from Diwali frying still sitting on the stove?\n\nICMR-NIN's Dietary Guidelines for Indians (2024) are clear on this. Heating oil again and again creates harmful compounds. Once you've fried in it, filter it, use it for curries within a day or two, and don't fry with it again.\n\nThe guidelines also suggest 25 to 30 g of cooking oil a day in total, which is about five to six teaspoons.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "Is the kadhai of oil from Diwali frying still sitting on the stove?\n\nICMR-NIN's Dietary Guidelines for Indians (2024) are clear on this. Heating oil again and again creates harmful compounds. Once you've fried in it, filter it, use it for curries within a day or two, and don't fry with it again.\n\nThe guidelines also suggest 25 to 30 g of cooking oil a day in total, which is about five to six teaspoons.\n\nKitchen practice like this is part of NNWA's Culinary Nutrition (Nutrition Chef) course.\n\nFree on our website: the Indian Food Calorie Counter. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "reel",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Indian Food Calorie Counter: https://nnwa.in/tools/indian-food-calorie-counter/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-12-reel-oil\nCulinary Nutrition (Nutrition Chef) (100% online): https://nnwa.in/courses/culinary-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-12-reel-oil\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -1900,10 +1718,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-12T09:30:00+05:30",
-   "text": "One of the most common kitchen habits in India is also one of the easiest to fix: reusing frying oil.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) note that repeatedly heated oil forms harmful compounds. Their household advice: filter oil after frying, use it for curries within a day or two, and don't fry with it again. They suggest 25 to 30 g of cooking oil a day in total.\n\nIt's a simple message that families can act on the same evening.\n\nOur free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "One of the most common kitchen habits in India is also one of the easiest to fix: reusing frying oil.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) note that repeatedly heated oil forms harmful compounds. Their household advice: filter oil after frying, use it for curries within a day or two, and don't fry with it again. They suggest 25 to 30 g of cooking oil a day in total.\n\nIt's a simple message that families can act on the same evening, and the kind of practice NNWA's Culinary Nutrition (Nutrition Chef) course teaches.\n\nThe free Indian Food Calorie Counter and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Indian Food Calorie Counter: https://nnwa.in/tools/indian-food-calorie-counter/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-12-reel-oil\nCulinary Nutrition (Nutrition Chef) (100% online): https://nnwa.in/courses/culinary-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-12-reel-oil\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
@@ -1927,7 +1745,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-12-reel-oil-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. Scene 1: 'The oil from Diwali frying. Fry again?'. Scene 2: 'Repeated heating forms harmful compounds'. Scene 3: 'Filter it. Use it for curries in a day or two'. Scene 4: 'Don't fry with it again'. Scene 5: '25 to 30 g of oil a day in total'. End card: 'Free guide: nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. Scene 1: 'The oil from Diwali frying. Fry again?'. Scene 2: 'Repeated heating forms harmful compounds'. Scene 3: 'Filter it. Use it for curries in a day or two'. Scene 4: 'Don't fry with it again'. Scene 5: '25 to 30 g of oil a day in total'. End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -1952,7 +1770,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-12-reel-oil-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. Scene 1: 'The oil from Diwali frying. Fry again?'. Scene 2: 'Repeated heating forms harmful compounds'. Scene 3: 'Filter it. Use it for curries in a day or two'. Scene 4: 'Don't fry with it again'. Scene 5: '25 to 30 g of oil a day in total'. End card: 'Free guide: nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. Scene 1: 'The oil from Diwali frying. Fry again?'. Scene 2: 'Repeated heating forms harmful compounds'. Scene 3: 'Filter it. Use it for curries in a day or two'. Scene 4: 'Don't fry with it again'. Scene 5: '25 to 30 g of oil a day in total'. End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -1981,12 +1799,12 @@
      }
     }
    ],
-   "text": "Today Chhath begins with Nahay Khay.\n\nFour days of devotion, discipline and gratitude to Surya and Chhathi Maiya. Families come together at the ghats, the thekua is made at home, and the baskets are filled with the season's harvest: sugarcane, bananas, coconut and fresh fruit.\n\nTo everyone observing Chhath, from all of us at NNWA: may your prayers be answered and your families be well.\n\nOur free guide is in the link in bio whenever you need it.\n\n#ChhathPuja #NNWA #Chhath2026 #Bihar",
+   "text": "Today Chhath begins with Nahay Khay.\n\nFour days of devotion, discipline and gratitude to Surya and Chhathi Maiya. Families come together at the ghats, the thekua is made at home, and the baskets are filled with the season's harvest: sugarcane, bananas, coconut and fresh fruit.\n\nTo everyone observing Chhath, from all of us at NNWA: may your prayers be answered and your families be well.\n\n#ChhathPuja #NNWA #Chhath2026 #Bihar",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio."
+     "firstComment": ""
     }
    }
   }
@@ -2135,12 +1953,12 @@
      }
     }
    ],
-   "text": "Happy Children's Day.\n\nThink of the youngest children in your family, the ones who refuse dal and steal the jalebi. Now look at slide 2.\n\nAccording to national survey data reported in ICMR-NIN's Dietary Guidelines for Indians (2024), 40.6% of children aged 1 to 4 have anaemia, as do 23.5% of those aged 5 to 9 and 28.4% of those aged 10 to 19. About 1 in 10 children aged 5 to 19 already shows pre-diabetes.\n\nWhat helps, per the same guidelines: varied home-cooked food, homemade semi-solid foods from six months, and at least 60 minutes of active play a day.\n\nIf you work with children or parents, our Child & Adolescent Nutrition course covers this properly.\n\nExplore the course from the link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)\n\n#ChildrensDay #NNWA #ChildNutrition #Anaemia",
+   "text": "Happy Children's Day.\n\nThink of the youngest children in your family, the ones who refuse dal and steal the jalebi. Now look at slide 2.\n\nAccording to national survey data reported in ICMR-NIN's Dietary Guidelines for Indians (2024), 40.6% of children aged 1 to 4 have anaemia, as do 23.5% of those aged 5 to 9 and 28.4% of those aged 10 to 19. About 1 in 10 children aged 5 to 19 already shows pre-diabetes.\n\nWhat helps, per the same guidelines: varied home-cooked food, homemade semi-solid foods from six months, and at least 60 minutes of active play a day.\n\nIf you work with children or parents, our Child & Adolescent Nutrition course covers this properly.\n\nFree on our website: the 50 Indian Recipes ebook. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)\n\n#ChildrensDay #NNWA #ChildNutrition #Anaemia",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Link in bio: nnwa.in/courses\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free 50 Indian Recipes ebook: nnwa.in/downloads/nnwa-50-indian-recipes.pdf\nChild & Adolescent Nutrition: nnwa.in/courses/child-adolescent-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -2194,11 +2012,11 @@
      }
     }
    ],
-   "text": "Happy Children's Day.\n\nThink of the youngest children in your family, the ones who refuse dal and steal the jalebi. Now look at slide 2.\n\nAccording to national survey data reported in ICMR-NIN's Dietary Guidelines for Indians (2024), 40.6% of children aged 1 to 4 have anaemia, as do 23.5% of those aged 5 to 9 and 28.4% of those aged 10 to 19. About 1 in 10 children aged 5 to 19 already shows pre-diabetes.\n\nWhat helps, per the same guidelines: varied home-cooked food, homemade semi-solid foods from six months, and at least 60 minutes of active play a day.\n\nIf you work with children or parents, our Child & Adolescent Nutrition course covers this properly.\n\nExplore the course from the link in the first comment.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)",
+   "text": "Happy Children's Day.\n\nThink of the youngest children in your family, the ones who refuse dal and steal the jalebi. Now look at slide 2.\n\nAccording to national survey data reported in ICMR-NIN's Dietary Guidelines for Indians (2024), 40.6% of children aged 1 to 4 have anaemia, as do 23.5% of those aged 5 to 9 and 28.4% of those aged 10 to 19. About 1 in 10 children aged 5 to 19 already shows pre-diabetes.\n\nWhat helps, per the same guidelines: varied home-cooked food, homemade semi-solid foods from six months, and at least 60 minutes of active play a day.\n\nIf you work with children or parents, our Child & Adolescent Nutrition course covers this properly.\n\nFree on our website: the 50 Indian Recipes ebook. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Courses (100% online): https://nnwa.in/courses?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-14-childrens-day\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)"
+     "firstComment": "Free 50 Indian Recipes ebook: https://nnwa.in/downloads/nnwa-50-indian-recipes.pdf?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-14-childrens-day\nChild & Adolescent Nutrition (100% online): https://nnwa.in/courses/child-adolescent-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-14-childrens-day\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)"
     }
    }
   }
@@ -2220,12 +2038,12 @@
      }
     }
    ],
-   "text": "World Diabetes Day.\n\nNFHS-5 (2021) data, reported in ICMR-NIN's Dietary Guidelines for Indians (2024), found diabetes in 15.6% of men and 13.5% of women aged 18 to 69. In 2016 the figures were 10.5% and 9.7%.\n\nThe same guidelines say healthy diets and physical activity can prevent up to 80% of type 2 diabetes. That's why counselling and education matter so much.\n\nIf you want to help people manage diabetes day to day, NNWA's Diabetes Educator course is 100% online.\n\nIf you have diabetes, follow your doctor's advice; this post is general information.\n\nExplore the course from the link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)\n\n#WorldDiabetesDay #NNWA #DiabetesEducator #DiabetesAwareness",
+   "text": "World Diabetes Day.\n\nNFHS-5 (2021) data, reported in ICMR-NIN's Dietary Guidelines for Indians (2024), found diabetes in 15.6% of men and 13.5% of women aged 18 to 69. In 2016 the figures were 10.5% and 9.7%.\n\nThe same guidelines say healthy diets and physical activity can prevent up to 80% of type 2 diabetes. That's why counselling and education matter so much.\n\nIf you want to help people manage diabetes day to day, NNWA's Diabetes Educator course is 100% online.\n\nIf you have diabetes, follow your doctor's advice; this post is general information.\n\nFree on our website: the Indian Diabetes Risk Score calculator. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)\n\n#WorldDiabetesDay #NNWA #DiabetesEducator #DiabetesAwareness",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Link in bio: nnwa.in/courses\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Indian Diabetes Risk Score calculator: nnwa.in/tools/diabetes-risk-calculator/\nDiabetes Educator: nnwa.in/courses/diabetes-educator/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -2247,11 +2065,11 @@
      }
     }
    ],
-   "text": "World Diabetes Day.\n\nNFHS-5 (2021) data, reported in ICMR-NIN's Dietary Guidelines for Indians (2024), found diabetes in 15.6% of men and 13.5% of women aged 18 to 69. In 2016 the figures were 10.5% and 9.7%.\n\nThe same guidelines say healthy diets and physical activity can prevent up to 80% of type 2 diabetes. That's why counselling and education matter so much.\n\nIf you want to help people manage diabetes day to day, NNWA's Diabetes Educator course is 100% online.\n\nIf you have diabetes, follow your doctor's advice; this post is general information.\n\nExplore the course from the link in the first comment.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)",
+   "text": "World Diabetes Day.\n\nNFHS-5 (2021) data, reported in ICMR-NIN's Dietary Guidelines for Indians (2024), found diabetes in 15.6% of men and 13.5% of women aged 18 to 69. In 2016 the figures were 10.5% and 9.7%.\n\nThe same guidelines say healthy diets and physical activity can prevent up to 80% of type 2 diabetes. That's why counselling and education matter so much.\n\nIf you want to help people manage diabetes day to day, NNWA's Diabetes Educator course is 100% online.\n\nIf you have diabetes, follow your doctor's advice; this post is general information.\n\nFree on our website: the Indian Diabetes Risk Score calculator. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Courses (100% online): https://nnwa.in/courses?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-14-diabetes-day\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)"
+     "firstComment": "Free Indian Diabetes Risk Score calculator: https://nnwa.in/tools/diabetes-risk-calculator/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-14-diabetes-day\nDiabetes Educator (100% online): https://nnwa.in/courses/diabetes-educator/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-14-diabetes-day\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)"
     }
    }
   }
@@ -2263,10 +2081,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-14T10:00:00+05:30",
-   "text": "World Diabetes Day. Two numbers from NFHS-5 (2021), reported in ICMR-NIN's Dietary Guidelines for Indians (2024): diabetes in 15.6% of men and 13.5% of women aged 18 to 69, up from 10.5% and 9.7% in 2016.\n\nThe same guidelines state that healthy diets and physical activity can prevent up to 80% of type 2 diabetes. Prevention at that scale depends on people who can explain food clearly and consistently.\n\nNNWA's Diabetes Educator course trains exactly that, 100% online.\n\nCourses are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "World Diabetes Day. Two numbers from NFHS-5 (2021), reported in ICMR-NIN's Dietary Guidelines for Indians (2024): diabetes in 15.6% of men and 13.5% of women aged 18 to 69, up from 10.5% and 9.7% in 2016.\n\nThe same guidelines state that healthy diets and physical activity can prevent up to 80% of type 2 diabetes. Prevention at that scale depends on people who can explain food clearly and consistently.\n\nNNWA's Diabetes Educator course trains exactly that, 100% online.\n\nThe free Indian Diabetes Risk Score calculator and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Courses: https://nnwa.in/courses?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-14-diabetes-day\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)"
+     "firstComment": "Free Indian Diabetes Risk Score calculator: https://nnwa.in/tools/diabetes-risk-calculator/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-14-diabetes-day\nDiabetes Educator (100% online): https://nnwa.in/courses/diabetes-educator/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-14-diabetes-day\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)"
     }
    },
    "assets": [
@@ -2342,17 +2160,17 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-15-sugar.png",
       "metadata": {
-       "altText": "Paper poster with a spoon of sugar in a dashed ring. Headline: '20 to 25 g of sugar a day, at most.' Notes: 'ICMR-NIN: avoid added sugar or restrict it' and 'Count the sugar in tea, sweets and drinks'. Footer: Free guide: nnwa.in/protein."
+       "altText": "Paper poster with a spoon of sugar in a dashed ring. Headline: '20 to 25 g of sugar a day, at most.' Notes: 'ICMR-NIN: avoid added sugar or restrict it' and 'Count the sugar in tea, sweets and drinks'. Footer: Free tools: nnwa.in."
       }
      }
     }
    ],
-   "text": "Still finishing the Diwali mithai? Here's the number to keep in mind.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) advise adults to avoid added sugar, or keep it to 20 to 25 g a day. That covers the sugar in your tea, sweets and drinks combined.\n\nNo guilt about the festival. Just a number to come back to this week.\n\nOur free guide has eight easy wins for the week. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#SugarCheck #NNWA #NutritionBasics #AfterDiwali",
+   "text": "Still finishing the Diwali mithai? Here's the number to keep in mind.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) advise adults to avoid added sugar, or keep it to 20 to 25 g a day. That covers the sugar in your tea, sweets and drinks combined.\n\nNo guilt about the festival. Just a number to come back to this week.\n\nManaging sugar on an Indian diet is a core topic in NNWA's Diabetes & Metabolic Nutrition course.\n\nFree on our website: the Prediabetes Diet guide. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#SugarCheck #NNWA #NutritionBasics #AfterDiwali",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Prediabetes Diet guide: nnwa.in/guides/prediabetes-diet-in-india/\nDiabetes & Metabolic Nutrition: nnwa.in/courses/diabetes-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -2369,16 +2187,16 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-15-sugar.png",
       "metadata": {
-       "altText": "Paper poster with a spoon of sugar in a dashed ring. Headline: '20 to 25 g of sugar a day, at most.' Notes: 'ICMR-NIN: avoid added sugar or restrict it' and 'Count the sugar in tea, sweets and drinks'. Footer: Free guide: nnwa.in/protein."
+       "altText": "Paper poster with a spoon of sugar in a dashed ring. Headline: '20 to 25 g of sugar a day, at most.' Notes: 'ICMR-NIN: avoid added sugar or restrict it' and 'Count the sugar in tea, sweets and drinks'. Footer: Free tools: nnwa.in."
       }
      }
     }
    ],
-   "text": "Still finishing the Diwali mithai? Here's the number to keep in mind.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) advise adults to avoid added sugar, or keep it to 20 to 25 g a day. That covers the sugar in your tea, sweets and drinks combined.\n\nNo guilt about the festival. Just a number to come back to this week.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "Still finishing the Diwali mithai? Here's the number to keep in mind.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) advise adults to avoid added sugar, or keep it to 20 to 25 g a day. That covers the sugar in your tea, sweets and drinks combined.\n\nNo guilt about the festival. Just a number to come back to this week.\n\nManaging sugar on an Indian diet is a core topic in NNWA's Diabetes & Metabolic Nutrition course.\n\nFree on our website: the Prediabetes Diet guide. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Prediabetes Diet guide: https://nnwa.in/guides/prediabetes-diet-in-india/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-15-sugar\nDiabetes & Metabolic Nutrition (100% online): https://nnwa.in/courses/diabetes-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-15-sugar\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -2444,7 +2262,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-15-sugar-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Paper poster with a spoon of sugar in a dashed ring. Headline: '20 to 25 g of sugar a day, at most.' Notes: 'ICMR-NIN: avoid added sugar or restrict it' and 'Count the sugar in tea, sweets and drinks'. Footer: Free guide: nnwa.in/protein."
+       "altText": "Story version of today's post. Paper poster with a spoon of sugar in a dashed ring. Headline: '20 to 25 g of sugar a day, at most.' Notes: 'ICMR-NIN: avoid added sugar or restrict it' and 'Count the sugar in tea, sweets and drinks'. Footer: Free tools: nnwa.in."
       }
      }
     }
@@ -2469,7 +2287,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-15-sugar-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Paper poster with a spoon of sugar in a dashed ring. Headline: '20 to 25 g of sugar a day, at most.' Notes: 'ICMR-NIN: avoid added sugar or restrict it' and 'Count the sugar in tea, sweets and drinks'. Footer: Free guide: nnwa.in/protein."
+       "altText": "Story version of today's post. Paper poster with a spoon of sugar in a dashed ring. Headline: '20 to 25 g of sugar a day, at most.' Notes: 'ICMR-NIN: avoid added sugar or restrict it' and 'Count the sugar in tea, sweets and drinks'. Footer: Free tools: nnwa.in."
       }
      }
     }
@@ -2538,12 +2356,12 @@
      }
     }
    ],
-   "text": "Thinking about studying nutrition? Answer these five questions honestly first.\n\n1. Do you enjoy explaining things to people?\n2. Are you comfortable checking a claim against a source before you share it?\n3. Can you set aside a few hours a week for steady study?\n4. Do you know which group you want to help: families, athletes, people with diabetes, children?\n5. Are you clear that a course gives you knowledge and a certificate, and that work comes from what you do with it?\n\nIf most answers are yes, have a look at NNWA's courses. They're 100% online, and a counsellor can help you pick one.\n\nExplore the courses from the link in bio.\n\n#NutritionCareer #NNWA #NutritionCourse #OnlineLearning",
+   "text": "Thinking about studying nutrition? Answer these five questions honestly first.\n\n1. Do you enjoy explaining things to people?\n2. Are you comfortable checking a claim against a source before you share it?\n3. Can you set aside a few hours a week for steady study?\n4. Do you know which group you want to help: families, athletes, people with diabetes, children?\n5. Are you clear that a course gives you knowledge and a certificate, and that work comes from what you do with it?\n\nIf most answers are yes, have a look at NNWA's courses. They're 100% online, and a counsellor can help you pick one.\n\nFree on our website: the How to Evaluate Nutrition Institutes guide. Link in bio.\n\n#NutritionCareer #NNWA #NutritionCourse #OnlineLearning",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Link in bio: nnwa.in/courses"
+     "firstComment": "Free How to Evaluate Nutrition Institutes guide: nnwa.in/guides/choosing-a-nutrition-course-in-india/\nAll NNWA courses: nnwa.in/courses/\nBoth are linked in our bio.\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -2605,11 +2423,11 @@
      }
     }
    ],
-   "text": "Thinking about studying nutrition? Answer these five questions honestly first.\n\n1. Do you enjoy explaining things to people?\n2. Are you comfortable checking a claim against a source before you share it?\n3. Can you set aside a few hours a week for steady study?\n4. Do you know which group you want to help: families, athletes, people with diabetes, children?\n5. Are you clear that a course gives you knowledge and a certificate, and that work comes from what you do with it?\n\nIf most answers are yes, have a look at NNWA's courses. They're 100% online, and a counsellor can help you pick one.\n\nExplore the courses from the link in the first comment.",
+   "text": "Thinking about studying nutrition? Answer these five questions honestly first.\n\n1. Do you enjoy explaining things to people?\n2. Are you comfortable checking a claim against a source before you share it?\n3. Can you set aside a few hours a week for steady study?\n4. Do you know which group you want to help: families, athletes, people with diabetes, children?\n5. Are you clear that a course gives you knowledge and a certificate, and that work comes from what you do with it?\n\nIf most answers are yes, have a look at NNWA's courses. They're 100% online, and a counsellor can help you pick one.\n\nFree on our website: the How to Evaluate Nutrition Institutes guide. It's linked in the first comment, with the course page.",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Courses (100% online): https://nnwa.in/courses?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-16-right-for-you"
+     "firstComment": "Free How to Evaluate Nutrition Institutes guide: https://nnwa.in/guides/choosing-a-nutrition-course-in-india/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-16-right-for-you\nAll NNWA courses (100% online): https://nnwa.in/courses/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-16-right-for-you"
     }
    }
   }
@@ -2621,10 +2439,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-16T10:00:00+05:30",
-   "text": "Before anyone enrols with us, we'd rather they asked themselves five honest questions. Do they enjoy explaining things? Will they check a claim against its source? Can they give a few hours a week? Do they know who they want to help? And do they understand that a certificate is a start, not a guarantee of work?\n\nWe think clear expectations make better nutrition professionals. The document has all five questions.\n\nCourses are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "Before anyone enrols with us, we'd rather they asked themselves five honest questions. Do they enjoy explaining things? Will they check a claim against its source? Can they give a few hours a week? Do they know who they want to help? And do they understand that a certificate is a start, not a guarantee of work?\n\nWe think clear expectations make better nutrition professionals. The document has all five questions.\n\nThe free How to Evaluate Nutrition Institutes guide and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Courses: https://nnwa.in/courses?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-16-right-for-you"
+     "firstComment": "Free How to Evaluate Nutrition Institutes guide: https://nnwa.in/guides/choosing-a-nutrition-course-in-india/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-16-right-for-you\nAll NNWA courses (100% online): https://nnwa.in/courses/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-16-right-for-you"
     }
    },
    "assets": [
@@ -2704,12 +2522,12 @@
      }
     }
    ],
-   "text": "It's National Newborn Week (15 to 21 November).\n\nICMR-NIN's Dietary Guidelines for Indians (2024) recommend exclusive breastfeeding for the first six months, with breastfeeding continuing to two years and beyond. Soon after six months, babies should start homemade semi-solid foods alongside it.\n\nEvery new mother deserves support with this, from family, from health workers and from people trained to give good advice.\n\nNNWA's Post-Pregnancy & Lactation Nutrition course is for anyone who wants to give that support properly. 100% online.\n\nFor medical concerns about your baby, please speak to your paediatrician.\n\nExplore the course from the link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#NewbornWeek #NNWA #Breastfeeding #MotherAndChild",
+   "text": "It's National Newborn Week (15 to 21 November).\n\nICMR-NIN's Dietary Guidelines for Indians (2024) recommend exclusive breastfeeding for the first six months, with breastfeeding continuing to two years and beyond. Soon after six months, babies should start homemade semi-solid foods alongside it.\n\nEvery new mother deserves support with this, from family, from health workers and from people trained to give good advice.\n\nNNWA's Post-Pregnancy & Lactation Nutrition course is for anyone who wants to give that support properly. 100% online.\n\nFor medical concerns about your baby, please speak to your paediatrician.\n\nFree on our website: the Pregnancy Diet guide. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#NewbornWeek #NNWA #Breastfeeding #MotherAndChild",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Link in bio: nnwa.in/courses\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Pregnancy Diet guide: nnwa.in/guides/pregnancy-diet-in-india/\nPost-Pregnancy & Lactation Nutrition: nnwa.in/courses/post-pregnancy-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -2731,11 +2549,11 @@
      }
     }
    ],
-   "text": "It's National Newborn Week (15 to 21 November).\n\nICMR-NIN's Dietary Guidelines for Indians (2024) recommend exclusive breastfeeding for the first six months, with breastfeeding continuing to two years and beyond. Soon after six months, babies should start homemade semi-solid foods alongside it.\n\nEvery new mother deserves support with this, from family, from health workers and from people trained to give good advice.\n\nNNWA's Post-Pregnancy & Lactation Nutrition course is for anyone who wants to give that support properly. 100% online.\n\nFor medical concerns about your baby, please speak to your paediatrician.\n\nExplore the course from the link in the first comment.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "It's National Newborn Week (15 to 21 November).\n\nICMR-NIN's Dietary Guidelines for Indians (2024) recommend exclusive breastfeeding for the first six months, with breastfeeding continuing to two years and beyond. Soon after six months, babies should start homemade semi-solid foods alongside it.\n\nEvery new mother deserves support with this, from family, from health workers and from people trained to give good advice.\n\nNNWA's Post-Pregnancy & Lactation Nutrition course is for anyone who wants to give that support properly. 100% online.\n\nFor medical concerns about your baby, please speak to your paediatrician.\n\nFree on our website: the Pregnancy Diet guide. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Courses (100% online): https://nnwa.in/courses?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-17-first-six-months\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Pregnancy Diet guide: https://nnwa.in/guides/pregnancy-diet-in-india/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-17-first-six-months\nPost-Pregnancy & Lactation Nutrition (100% online): https://nnwa.in/courses/post-pregnancy-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-17-first-six-months\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -2747,10 +2565,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-17T09:30:00+05:30",
-   "text": "National Newborn Week runs from 15 to 21 November. The Dietary Guidelines for Indians (ICMR-NIN, 2024) keep the core message simple: exclusive breastfeeding for six months, homemade semi-solid foods soon after six months, and breastfeeding continued to two years and beyond.\n\nMothers are more likely to follow the guidance when the people around them understand it too. NNWA's Post-Pregnancy & Lactation Nutrition course is built for those people.\n\nCourses are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "National Newborn Week runs from 15 to 21 November. The Dietary Guidelines for Indians (ICMR-NIN, 2024) keep the core message simple: exclusive breastfeeding for six months, homemade semi-solid foods soon after six months, and breastfeeding continued to two years and beyond.\n\nMothers are more likely to follow the guidance when the people around them understand it too. NNWA's Post-Pregnancy & Lactation Nutrition course is built for those people.\n\nThe free Pregnancy Diet guide and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Courses: https://nnwa.in/courses?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-17-first-six-months\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Pregnancy Diet guide: https://nnwa.in/guides/pregnancy-diet-in-india/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-17-first-six-months\nPost-Pregnancy & Lactation Nutrition (100% online): https://nnwa.in/courses/post-pregnancy-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-17-first-six-months\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
@@ -2828,12 +2646,12 @@
      }
     }
    ],
-   "text": "Why does every NNWA post cite ICMR-NIN, FSSAI or the Ministry of Health?\n\nBecause nutrition advice online is full of numbers nobody can trace. We only use figures from Indian government sources, and we tell you where to find them, so you can check us.\n\nTry it: the Dietary Guidelines for Indians (2024) are a free PDF on ICMR-NIN's website. Look up the 5 g salt limit yourself.\n\nOur free guide follows the same rule, with a full source list at the back.\n\nGet it from the link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#EvidenceBased #NNWA #ICMR #NutritionFacts",
+   "text": "Why does every NNWA post cite ICMR-NIN, FSSAI or the Ministry of Health?\n\nBecause nutrition advice online is full of numbers nobody can trace. We only use figures from Indian government sources, and we tell you where to find them, so you can check us.\n\nTry it: the Dietary Guidelines for Indians (2024) are a free PDF on ICMR-NIN's website. Look up the 5 g salt limit yourself.\n\nNNWA's Certification in Nutrition is built the same way, with every lesson traced to Indian guidelines.\n\nFree on our website: the Nutrition Credentials in India guide. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#EvidenceBased #NNWA #ICMR #NutritionFacts",
    "metadata": {
     "instagram": {
      "type": "reel",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Nutrition Credentials in India guide: nnwa.in/guides/nutrition-credentials-in-india/\nCertification in Nutrition: nnwa.in/courses/certification-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -2852,11 +2670,11 @@
      }
     }
    ],
-   "text": "Why does every NNWA post cite ICMR-NIN, FSSAI or the Ministry of Health?\n\nBecause nutrition advice online is full of numbers nobody can trace. We only use figures from Indian government sources, and we tell you where to find them, so you can check us.\n\nTry it: the Dietary Guidelines for Indians (2024) are a free PDF on ICMR-NIN's website. Look up the 5 g salt limit yourself.\n\nOur free guide follows the same rule, with a full source list at the back.\n\nIt's coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "Why does every NNWA post cite ICMR-NIN, FSSAI or the Ministry of Health?\n\nBecause nutrition advice online is full of numbers nobody can trace. We only use figures from Indian government sources, and we tell you where to find them, so you can check us.\n\nTry it: the Dietary Guidelines for Indians (2024) are a free PDF on ICMR-NIN's website. Look up the 5 g salt limit yourself.\n\nNNWA's Certification in Nutrition is built the same way, with every lesson traced to Indian guidelines.\n\nFree on our website: the Nutrition Credentials in India guide. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "reel",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Nutrition Credentials in India guide: https://nnwa.in/guides/nutrition-credentials-in-india/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-18-reel-sources\nCertification in Nutrition (100% online): https://nnwa.in/courses/certification-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-18-reel-sources\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -2868,10 +2686,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-18T09:30:00+05:30",
-   "text": "A note on how we write. Every number NNWA publishes, on social media, in our free guide and in our courses, comes from an Indian government source: ICMR-NIN, ICMR, FSSAI or the Ministry of Health and Family Welfare.\n\nIt means saying less than we could, and leaving out claims we can't trace. We think that's what trust in health education requires.\n\nIt's coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "A note on how we write. Every number NNWA publishes, on social media and in our courses, comes from an Indian government source: ICMR-NIN, ICMR, FSSAI or the Ministry of Health and Family Welfare.\n\nIt means saying less than we could, and leaving out claims we can't trace. We think that's what trust in health education requires, and it's how NNWA's Certification in Nutrition is taught.\n\nThe free Nutrition Credentials in India guide and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Nutrition Credentials in India guide: https://nnwa.in/guides/nutrition-credentials-in-india/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-18-reel-sources\nCertification in Nutrition (100% online): https://nnwa.in/courses/certification-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-18-reel-sources\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
@@ -2895,7 +2713,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-18-reel-sources-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. Scene 1: 'Where do our numbers come from?'. Scene 2: 'ICMR-NIN. FSSAI. Ministry of Health.' Scene 3: 'Every figure, traceable.' Scene 4: 'Check us: Dietary Guidelines for Indians, 2024'. End card: 'Free guide: nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. Scene 1: 'Where do our numbers come from?'. Scene 2: 'ICMR-NIN. FSSAI. Ministry of Health.' Scene 3: 'Every figure, traceable.' Scene 4: 'Check us: Dietary Guidelines for Indians, 2024'. End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -2920,7 +2738,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-18-reel-sources-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. Scene 1: 'Where do our numbers come from?'. Scene 2: 'ICMR-NIN. FSSAI. Ministry of Health.' Scene 3: 'Every figure, traceable.' Scene 4: 'Check us: Dietary Guidelines for Indians, 2024'. End card: 'Free guide: nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. Scene 1: 'Where do our numbers come from?'. Scene 2: 'ICMR-NIN. FSSAI. Ministry of Health.' Scene 3: 'Every figure, traceable.' Scene 4: 'Check us: Dietary Guidelines for Indians, 2024'. End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -2949,12 +2767,12 @@
      }
     }
    ],
-   "text": "International Men's Day. A number worth a conversation at home.\n\nNFHS-5 (2021), as reported in ICMR-NIN's Dietary Guidelines for Indians (2024), found hypertension in 24.0% of men aged 18 to 69, up from 20.2% in 2016.\n\nTwo things from the same guidelines that help: not more than 5 g of salt a day, and 30 to 60 minutes of moderate activity on at least five days a week.\n\nIf someone you love hasn't had his blood pressure checked in a while, today's a good day to suggest it.\n\nOur free guide is in the link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)\n\n#InternationalMensDay #NNWA #BloodPressure #MensHealth",
+   "text": "International Men's Day. A number worth a conversation at home.\n\nNFHS-5 (2021), as reported in ICMR-NIN's Dietary Guidelines for Indians (2024), found hypertension in 24.0% of men aged 18 to 69, up from 20.2% in 2016.\n\nTwo things from the same guidelines that help: not more than 5 g of salt a day, and 30 to 60 minutes of moderate activity on at least five days a week.\n\nIf someone you love hasn't had his blood pressure checked in a while, today's a good day to suggest it. Workplaces can help too, and NNWA's Corporate Wellness course shows how.\n\nFree on our website: the High Blood Pressure Diet guide. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)\n\n#InternationalMensDay #NNWA #BloodPressure #MensHealth",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free High Blood Pressure Diet guide: nnwa.in/guides/high-blood-pressure-diet-in-india/\nCorporate Wellness: nnwa.in/courses/corporate-wellness/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -2976,11 +2794,11 @@
      }
     }
    ],
-   "text": "International Men's Day. A number worth a conversation at home.\n\nNFHS-5 (2021), as reported in ICMR-NIN's Dietary Guidelines for Indians (2024), found hypertension in 24.0% of men aged 18 to 69, up from 20.2% in 2016.\n\nTwo things from the same guidelines that help: not more than 5 g of salt a day, and 30 to 60 minutes of moderate activity on at least five days a week.\n\nIf someone you love hasn't had his blood pressure checked in a while, today's a good day to suggest it.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)",
+   "text": "International Men's Day. A number worth a conversation at home.\n\nNFHS-5 (2021), as reported in ICMR-NIN's Dietary Guidelines for Indians (2024), found hypertension in 24.0% of men aged 18 to 69, up from 20.2% in 2016.\n\nTwo things from the same guidelines that help: not more than 5 g of salt a day, and 30 to 60 minutes of moderate activity on at least five days a week.\n\nIf someone you love hasn't had his blood pressure checked in a while, today's a good day to suggest it. Workplaces can help too, and NNWA's Corporate Wellness course shows how.\n\nFree on our website: the High Blood Pressure Diet guide. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)"
+     "firstComment": "Free High Blood Pressure Diet guide: https://nnwa.in/guides/high-blood-pressure-diet-in-india/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-19-mens-day\nCorporate Wellness (100% online): https://nnwa.in/courses/corporate-wellness/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-19-mens-day\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)"
     }
    }
   }
@@ -2992,10 +2810,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-19T09:30:00+05:30",
-   "text": "International Men's Day. NFHS-5 (2021) data, reported in ICMR-NIN's Dietary Guidelines for Indians (2024), found hypertension in 24.0% of Indian men aged 18 to 69, up from 20.2% in 2016.\n\nMost of the levers are everyday ones: salt under 5 g a day and 30 to 60 minutes of moderate activity on most days. Workplace wellness programmes can make both easier.\n\nOur free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "International Men's Day. NFHS-5 (2021) data, reported in ICMR-NIN's Dietary Guidelines for Indians (2024), found hypertension in 24.0% of Indian men aged 18 to 69, up from 20.2% in 2016.\n\nMost of the levers are everyday ones: salt under 5 g a day and 30 to 60 minutes of moderate activity on most days. Workplace wellness programmes can make both easier, and NNWA's Corporate Wellness course trains people to run them.\n\nThe free High Blood Pressure Diet guide and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)"
+     "firstComment": "Free High Blood Pressure Diet guide: https://nnwa.in/guides/high-blood-pressure-diet-in-india/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-19-mens-day\nCorporate Wellness (100% online): https://nnwa.in/courses/corporate-wellness/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-19-mens-day\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)"
     }
    },
    "assets": [
@@ -3103,17 +2921,17 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-20-millets-05.png",
       "metadata": {
-       "altText": "Slide 5: NNWA seal and 'Free guide: nnwa.in/protein'."
+       "altText": "Slide 5: NNWA seal, 'Pair millets with dal. Millets in a modern Indian diet: NNWA's Sustainable Nutrition and Food Innovation course, 100% online.' nnwa.in/courses."
       }
      }
     }
    ],
-   "text": "How much of your roti and rice should be millets? ICMR-NIN has a number.\n\nThe Dietary Guidelines for Indians (2024) suggest that 20% to 30% of the cereals adults eat (by raw weight) come from millets.\n\nIn practice, that could be a bajra or jowar roti at one meal, ragi in your dosa batter, or a millet khichdi once or twice a week.\n\nPair millets with dal and you get a better protein mix too. That's covered in chapter 4 of our free guide.\n\nLink in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#Millets #NNWA #ShreeAnna #IndianNutrition",
+   "text": "How much of your roti and rice should be millets? ICMR-NIN has a number.\n\nThe Dietary Guidelines for Indians (2024) suggest that 20% to 30% of the cereals adults eat (by raw weight) come from millets.\n\nIn practice, that could be a bajra or jowar roti at one meal, ragi in your dosa batter, or a millet khichdi once or twice a week. Pair millets with dal and you get a better protein mix too.\n\nMillets and how they fit a modern Indian diet are part of NNWA's Sustainable Nutrition & Food Innovation course.\n\nFree on our website: the Regional Indian Diets guide. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#Millets #NNWA #ShreeAnna #IndianNutrition",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Regional Indian Diets guide: nnwa.in/guides/regional-indian-diets/\nSustainable Nutrition & Food Innovation: nnwa.in/courses/sustainable-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -3162,16 +2980,16 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-20-millets-05.png",
       "metadata": {
-       "altText": "Slide 5: NNWA seal and 'Free guide: nnwa.in/protein'."
+       "altText": "Slide 5: NNWA seal, 'Pair millets with dal. Millets in a modern Indian diet: NNWA's Sustainable Nutrition and Food Innovation course, 100% online.' nnwa.in/courses."
       }
      }
     }
    ],
-   "text": "How much of your roti and rice should be millets? ICMR-NIN has a number.\n\nThe Dietary Guidelines for Indians (2024) suggest that 20% to 30% of the cereals adults eat (by raw weight) come from millets.\n\nIn practice, that could be a bajra or jowar roti at one meal, ragi in your dosa batter, or a millet khichdi once or twice a week.\n\nPair millets with dal and you get a better protein mix too. That's covered in chapter 4 of our free guide.\n\nIt's coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "How much of your roti and rice should be millets? ICMR-NIN has a number.\n\nThe Dietary Guidelines for Indians (2024) suggest that 20% to 30% of the cereals adults eat (by raw weight) come from millets.\n\nIn practice, that could be a bajra or jowar roti at one meal, ragi in your dosa batter, or a millet khichdi once or twice a week. Pair millets with dal and you get a better protein mix too.\n\nMillets and how they fit a modern Indian diet are part of NNWA's Sustainable Nutrition & Food Innovation course.\n\nFree on our website: the Regional Indian Diets guide. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Regional Indian Diets guide: https://nnwa.in/guides/regional-indian-diets/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-20-millets\nSustainable Nutrition & Food Innovation (100% online): https://nnwa.in/courses/sustainable-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-20-millets\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -3183,10 +3001,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-20T10:00:00+05:30",
-   "text": "A practical target from ICMR-NIN's Dietary Guidelines for Indians (2024): 20% to 30% of adults' cereals, by raw weight, should come from millets.\n\nIt's easier to act on than 'eat more millets'. Swapping one roti or one rice meal a day gets most households close.\n\nOur free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "A practical target from ICMR-NIN's Dietary Guidelines for Indians (2024): 20% to 30% of adults' cereals, by raw weight, should come from millets.\n\nIt's easier to act on than 'eat more millets'. Swapping one roti or one rice meal a day gets most households close. NNWA's Sustainable Nutrition & Food Innovation course looks at millets in depth.\n\nThe free Regional Indian Diets guide and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Regional Indian Diets guide: https://nnwa.in/guides/regional-indian-diets/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-20-millets\nSustainable Nutrition & Food Innovation (100% online): https://nnwa.in/courses/sustainable-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-20-millets\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
@@ -3226,7 +3044,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/2026-11-20-millets-05.png",
       "metadata": {
-       "altText": "Slide 5: NNWA seal and 'Free guide: nnwa.in/protein'."
+       "altText": "Slide 5: NNWA seal, 'Pair millets with dal. Millets in a modern Indian diet: NNWA's Sustainable Nutrition and Food Innovation course, 100% online.' nnwa.in/courses."
       }
      }
     }
@@ -3299,12 +3117,12 @@
      }
     }
    ],
-   "text": "\"Without whey you can't build muscle.\" You've heard it at the gym.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) say otherwise. Guideline 8: get good-quality protein from a combination of foods, and avoid protein supplements to build muscle mass.\n\nDal with rice or roti, milk and curd, eggs, paneer, fish and chicken can cover a healthy adult's needs (0.83 g per kg of body weight a day).\n\nIf you have a medical condition, follow your doctor's advice.\n\nOur free guide shows how to reach your number with food. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020\n\n#ProteinMyths #NNWA #ProteinDecoded #GymIndia",
+   "text": "\"Without whey you can't build muscle.\" You've heard it at the gym.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) say otherwise. Guideline 8: get good-quality protein from a combination of foods, and avoid protein supplements to build muscle mass.\n\nDal with rice or roti, milk and curd, eggs, paneer, fish and chicken can cover a healthy adult's needs (0.83 g per kg of body weight a day).\n\nIf you have a medical condition, follow your doctor's advice. When supplements do and don't make sense is exactly what NNWA's Dietary Supplements & Nutraceuticals course covers.\n\nFree on our website: the Protein Calculator. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020\n\n#ProteinMyths #NNWA #Supplements #GymIndia",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Protein Calculator: nnwa.in/tools/protein-calculator/\nDietary Supplements & Nutraceuticals: nnwa.in/courses/dietary-supplements/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -3326,11 +3144,11 @@
      }
     }
    ],
-   "text": "\"Without whey you can't build muscle.\" You've heard it at the gym.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) say otherwise. Guideline 8: get good-quality protein from a combination of foods, and avoid protein supplements to build muscle mass.\n\nDal with rice or roti, milk and curd, eggs, paneer, fish and chicken can cover a healthy adult's needs (0.83 g per kg of body weight a day).\n\nIf you have a medical condition, follow your doctor's advice.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020",
+   "text": "\"Without whey you can't build muscle.\" You've heard it at the gym.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) say otherwise. Guideline 8: get good-quality protein from a combination of foods, and avoid protein supplements to build muscle mass.\n\nDal with rice or roti, milk and curd, eggs, paneer, fish and chicken can cover a healthy adult's needs (0.83 g per kg of body weight a day).\n\nIf you have a medical condition, follow your doctor's advice. When supplements do and don't make sense is exactly what NNWA's Dietary Supplements & Nutraceuticals course covers.\n\nFree on our website: the Protein Calculator. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020"
+     "firstComment": "Free Protein Calculator: https://nnwa.in/tools/protein-calculator/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-21-supplements-myth\nDietary Supplements & Nutraceuticals (100% online): https://nnwa.in/courses/dietary-supplements/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-21-supplements-myth\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020"
     }
    }
   }
@@ -3398,12 +3216,12 @@
      }
     }
    ],
-   "text": "Three everyday Indian breakfasts, with the protein counted from ICMR-NIN's Indian Food Composition Tables.\n\n2 rotis (60 g atta) and a bowl of dal (30 g raw): about 13 g.\n1 egg and a glass of milk (200 ml): about 14 g.\n50 g paneer bhurji with 2 rotis: about 15 g.\n\nFor a 60 kg adult, the daily need is about 50 g (0.83 g per kg), so breakfast can carry a good share.\n\nOur free guide has the full food table. Link in bio.\n\nSource: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020\n\n#ProteinDecoded #NNWA #IndianBreakfast #ProteinBasics",
+   "text": "Three everyday Indian breakfasts, with the protein counted from ICMR-NIN's Indian Food Composition Tables.\n\n2 rotis (60 g atta) and a bowl of dal (30 g raw): about 13 g.\n1 egg and a glass of milk (200 ml): about 14 g.\n50 g paneer bhurji with 2 rotis: about 15 g.\n\nFor a 60 kg adult, the daily need is about 50 g (0.83 g per kg), so breakfast can carry a good share.\n\nPlanning meals like these around training is what NNWA's Sports Nutrition course teaches.\n\nFree on our website: the Protein Calculator. Link in bio.\n\nSource: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020\n\n#HighProteinBreakfast #NNWA #IndianBreakfast #ProteinBasics",
    "metadata": {
     "instagram": {
      "type": "reel",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Protein Calculator: nnwa.in/tools/protein-calculator/\nSports Nutrition: nnwa.in/courses/sports-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -3422,11 +3240,11 @@
      }
     }
    ],
-   "text": "Three everyday Indian breakfasts, with the protein counted from ICMR-NIN's Indian Food Composition Tables.\n\n2 rotis (60 g atta) and a bowl of dal (30 g raw): about 13 g.\n1 egg and a glass of milk (200 ml): about 14 g.\n50 g paneer bhurji with 2 rotis: about 15 g.\n\nFor a 60 kg adult, the daily need is about 50 g (0.83 g per kg), so breakfast can carry a good share.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020",
+   "text": "Three everyday Indian breakfasts, with the protein counted from ICMR-NIN's Indian Food Composition Tables.\n\n2 rotis (60 g atta) and a bowl of dal (30 g raw): about 13 g.\n1 egg and a glass of milk (200 ml): about 14 g.\n50 g paneer bhurji with 2 rotis: about 15 g.\n\nFor a 60 kg adult, the daily need is about 50 g (0.83 g per kg), so breakfast can carry a good share.\n\nPlanning meals like these around training is what NNWA's Sports Nutrition course teaches.\n\nFree on our website: the Protein Calculator. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020",
    "metadata": {
     "facebook": {
      "type": "reel",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020"
+     "firstComment": "Free Protein Calculator: https://nnwa.in/tools/protein-calculator/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-22-reel-breakfasts\nSports Nutrition (100% online): https://nnwa.in/courses/sports-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-22-reel-breakfasts\nSources: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020"
     }
    }
   }
@@ -3443,7 +3261,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-22-reel-breakfasts-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. Scene 1: 'Three Indian breakfasts, protein counted'. Scene 2: '2 rotis plus dal: about 13 g'. Scene 3: '1 egg plus a glass of milk: about 14 g'. Scene 4: 'Paneer bhurji plus 2 rotis: about 15 g'. End card: 'Free guide: nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. Scene 1: 'Three Indian breakfasts, protein counted'. Scene 2: '2 rotis plus dal: about 13 g'. Scene 3: '1 egg plus a glass of milk: about 14 g'. Scene 4: 'Paneer bhurji plus 2 rotis: about 15 g'. End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -3468,7 +3286,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-22-reel-breakfasts-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. Scene 1: 'Three Indian breakfasts, protein counted'. Scene 2: '2 rotis plus dal: about 13 g'. Scene 3: '1 egg plus a glass of milk: about 14 g'. Scene 4: 'Paneer bhurji plus 2 rotis: about 15 g'. End card: 'Free guide: nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. Scene 1: 'Three Indian breakfasts, protein counted'. Scene 2: '2 rotis plus dal: about 13 g'. Scene 3: '1 egg plus a glass of milk: about 14 g'. Scene 4: 'Paneer bhurji plus 2 rotis: about 15 g'. End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -3497,12 +3315,12 @@
      }
     }
    ],
-   "text": "Winter makes it easy to forget water.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) say a normal healthy person needs about eight glasses, roughly two litres, of water a day, including other drinks.\n\nKeep a bottle where you can see it, and have a glass with every meal.\n\nMore everyday numbers in our free guide. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#DrinkWater #NNWA #WinterWellness #NutritionBasics",
+   "text": "Winter makes it easy to forget water.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) say a normal healthy person needs about eight glasses, roughly two litres, of water a day, including other drinks.\n\nKeep a bottle where you can see it, and have a glass with every meal. What you drink matters as much as how much, and NNWA's Beverage Nutrition: Facts & Calories course covers both.\n\nFree on our website: the Water Intake Calculator. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#DrinkWater #NNWA #WinterWellness #NutritionBasics",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Water Intake Calculator: nnwa.in/tools/water-intake-calculator/\nBeverage Nutrition: Facts & Calories: nnwa.in/courses/beverage-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -3524,11 +3342,11 @@
      }
     }
    ],
-   "text": "Winter makes it easy to forget water.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) say a normal healthy person needs about eight glasses, roughly two litres, of water a day, including other drinks.\n\nKeep a bottle where you can see it, and have a glass with every meal.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "Winter makes it easy to forget water.\n\nICMR-NIN's Dietary Guidelines for Indians (2024) say a normal healthy person needs about eight glasses, roughly two litres, of water a day, including other drinks.\n\nKeep a bottle where you can see it, and have a glass with every meal. What you drink matters as much as how much, and NNWA's Beverage Nutrition: Facts & Calories course covers both.\n\nFree on our website: the Water Intake Calculator. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Water Intake Calculator: https://nnwa.in/tools/water-intake-calculator/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-23-water\nBeverage Nutrition: Facts & Calories (100% online): https://nnwa.in/courses/beverage-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-23-water\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -3540,10 +3358,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-23T10:00:00+05:30",
-   "text": "A small reminder for winter: ICMR-NIN's Dietary Guidelines for Indians (2024) put a healthy adult's need at about eight glasses (around two litres) of water a day, including other beverages.\n\nIn offices with heating and long meetings, it's often the first habit to slip.\n\nOur free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "A small reminder for winter: ICMR-NIN's Dietary Guidelines for Indians (2024) put a healthy adult's need at about eight glasses (around two litres) of water a day, including other beverages.\n\nIn offices with heating and long meetings, it's often the first habit to slip. NNWA's Beverage Nutrition: Facts & Calories course looks at everything people drink in a day.\n\nThe free Water Intake Calculator and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Water Intake Calculator: https://nnwa.in/tools/water-intake-calculator/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-23-water\nBeverage Nutrition: Facts & Calories (100% online): https://nnwa.in/courses/beverage-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-23-water\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
@@ -3629,7 +3447,7 @@
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio."
+     "firstComment": ""
     }
    }
   }
@@ -3792,12 +3610,12 @@
      }
     }
    ],
-   "text": "How much should you move? ICMR-NIN gives a number.\n\nThe Dietary Guidelines for Indians (2024) recommend that adults do 30 to 60 minutes of moderate activity a day, on at least five days a week. For children and teenagers, it's at least 60 minutes a day.\n\nA brisk walk counts. So do climbing the stairs, cycling, dancing at a wedding and playing with the kids.\n\nPair it with the right food: our free guide is in the link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#MoveMore #NNWA #FitIndia #HealthyHabits",
+   "text": "How much should you move? ICMR-NIN gives a number.\n\nThe Dietary Guidelines for Indians (2024) recommend that adults do 30 to 60 minutes of moderate activity a day, on at least five days a week. For children and teenagers, it's at least 60 minutes a day.\n\nA brisk walk counts. So do climbing the stairs, cycling, dancing at a wedding and playing with the kids.\n\nMovement and food work together, and that's the focus of NNWA's Fitness Nutrition Specialist course.\n\nFree on our website: the Daily Energy (TDEE) Calculator. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#MoveMore #NNWA #FitIndia #HealthyHabits",
    "metadata": {
     "instagram": {
      "type": "reel",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Daily Energy (TDEE) Calculator: nnwa.in/tools/tdee-calculator/\nFitness Nutrition Specialist: nnwa.in/courses/fitness-nutrition-specialist/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -3816,11 +3634,11 @@
      }
     }
    ],
-   "text": "How much should you move? ICMR-NIN gives a number.\n\nThe Dietary Guidelines for Indians (2024) recommend that adults do 30 to 60 minutes of moderate activity a day, on at least five days a week. For children and teenagers, it's at least 60 minutes a day.\n\nA brisk walk counts. So do climbing the stairs, cycling, dancing at a wedding and playing with the kids.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "How much should you move? ICMR-NIN gives a number.\n\nThe Dietary Guidelines for Indians (2024) recommend that adults do 30 to 60 minutes of moderate activity a day, on at least five days a week. For children and teenagers, it's at least 60 minutes a day.\n\nA brisk walk counts. So do climbing the stairs, cycling, dancing at a wedding and playing with the kids.\n\nMovement and food work together, and that's the focus of NNWA's Fitness Nutrition Specialist course.\n\nFree on our website: the Daily Energy (TDEE) Calculator. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "reel",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Daily Energy (TDEE) Calculator: https://nnwa.in/tools/tdee-calculator/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-25-reel-move\nFitness Nutrition Specialist (100% online): https://nnwa.in/courses/fitness-nutrition-specialist/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-25-reel-move\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -3832,10 +3650,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-25T09:30:00+05:30",
-   "text": "ICMR-NIN's Dietary Guidelines for Indians (2024): 30 to 60 minutes of moderate activity a day, on at least five days a week, for adults. At least 60 minutes a day for children aged 5 to 19.\n\nIt's one of the few health targets that needs no equipment. A brisk walk counts.\n\nOur free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "ICMR-NIN's Dietary Guidelines for Indians (2024): 30 to 60 minutes of moderate activity a day, on at least five days a week, for adults. At least 60 minutes a day for children aged 5 to 19.\n\nIt's one of the few health targets that needs no equipment. A brisk walk counts. NNWA's Fitness Nutrition Specialist course connects activity with what people eat.\n\nThe free Daily Energy (TDEE) Calculator and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Daily Energy (TDEE) Calculator: https://nnwa.in/tools/tdee-calculator/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-25-reel-move\nFitness Nutrition Specialist (100% online): https://nnwa.in/courses/fitness-nutrition-specialist/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-25-reel-move\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
@@ -3859,7 +3677,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-25-reel-move-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. Scene 1: '30 minutes, five days a week'. Scene 2: 'Adults: 30 to 60 minutes of moderate activity a day'. Scene 3: 'Children: at least 60 minutes'. Scene 4: 'A brisk walk counts'. End card: 'Free guide: nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. Scene 1: '30 minutes, five days a week'. Scene 2: 'Adults: 30 to 60 minutes of moderate activity a day'. Scene 3: 'Children: at least 60 minutes'. Scene 4: 'A brisk walk counts'. End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -3884,7 +3702,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-25-reel-move-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. Scene 1: '30 minutes, five days a week'. Scene 2: 'Adults: 30 to 60 minutes of moderate activity a day'. Scene 3: 'Children: at least 60 minutes'. Scene 4: 'A brisk walk counts'. End card: 'Free guide: nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. Scene 1: '30 minutes, five days a week'. Scene 2: 'Adults: 30 to 60 minutes of moderate activity a day'. Scene 3: 'Children: at least 60 minutes'. Scene 4: 'A brisk walk counts'. End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -3913,12 +3731,12 @@
      }
     }
    ],
-   "text": "It's National Milk Day, marked on Dr Verghese Kurien's birth anniversary.\n\nICMR-NIN's My Plate for the Day includes 300 ml of milk or curd, which gives about 10 g of protein. That's a glass of milk and a katori of dahi.\n\nIf you're vegetarian, milk and curd are among the easiest ways to improve the quality of your protein.\n\nOur free guide shows the rest of the plate. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#NationalMilkDay #NNWA #ProteinDecoded #VegetarianProtein",
+   "text": "It's National Milk Day, marked on Dr Verghese Kurien's birth anniversary.\n\nICMR-NIN's My Plate for the Day includes 300 ml of milk or curd, which gives about 10 g of protein. That's a glass of milk and a katori of dahi.\n\nIf you're vegetarian, milk and curd are among the easiest ways to improve the quality of your protein.\n\nMilk, curd, paneer and more are covered in NNWA's Dairy & Functional Foods Nutrition course.\n\nFree on our website: the Protein Calculator. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#NationalMilkDay #NNWA #DairyNutrition #VegetarianProtein",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Protein Calculator: nnwa.in/tools/protein-calculator/\nDairy & Functional Foods Nutrition: nnwa.in/courses/dairy-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -3940,11 +3758,11 @@
      }
     }
    ],
-   "text": "It's National Milk Day, marked on Dr Verghese Kurien's birth anniversary.\n\nICMR-NIN's My Plate for the Day includes 300 ml of milk or curd, which gives about 10 g of protein. That's a glass of milk and a katori of dahi.\n\nIf you're vegetarian, milk and curd are among the easiest ways to improve the quality of your protein.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "It's National Milk Day, marked on Dr Verghese Kurien's birth anniversary.\n\nICMR-NIN's My Plate for the Day includes 300 ml of milk or curd, which gives about 10 g of protein. That's a glass of milk and a katori of dahi.\n\nIf you're vegetarian, milk and curd are among the easiest ways to improve the quality of your protein.\n\nMilk, curd, paneer and more are covered in NNWA's Dairy & Functional Foods Nutrition course.\n\nFree on our website: the Protein Calculator. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Protein Calculator: https://nnwa.in/tools/protein-calculator/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-26-milk-day\nDairy & Functional Foods Nutrition (100% online): https://nnwa.in/courses/dairy-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-26-milk-day\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -3956,10 +3774,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-26T09:30:00+05:30",
-   "text": "National Milk Day, on Dr Verghese Kurien's birth anniversary. ICMR-NIN's My Plate for the Day includes 300 ml of milk or curd, about 10 g of protein, in a 2,000 kcal Indian diet.\n\nFor vegetarian clients it's one of the simplest protein upgrades to suggest.\n\nOur free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "National Milk Day, on Dr Verghese Kurien's birth anniversary. ICMR-NIN's My Plate for the Day includes 300 ml of milk or curd, about 10 g of protein, in a 2,000 kcal Indian diet.\n\nFor vegetarian clients it's one of the simplest protein upgrades to suggest. NNWA's Dairy & Functional Foods Nutrition course goes further.\n\nThe free Protein Calculator and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Free guide, Protein, decoded: coming soon.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Protein Calculator: https://nnwa.in/tools/protein-calculator/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-26-milk-day\nDairy & Functional Foods Nutrition (100% online): https://nnwa.in/courses/dairy-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-26-milk-day\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    },
    "assets": [
@@ -4080,12 +3898,12 @@
      }
     }
    ],
-   "text": "Most packaged food in India carries four things FSSAI requires. Here's what to look at, in order.\n\n1. The veg or non-veg symbol.\n2. The FSSAI logo and licence number.\n3. The ingredient list, in order of weight.\n4. The nutrition information, per 100 g or per pack.\n\nIf you'd like to understand food standards in depth, NNWA's Food Science & FSSAI course is 100% online.\n\nExplore the course from the link in bio.\n\nSource: FSSAI, Labelling and Display Regulations, 2020\n\n#FoodLabels #NNWA #FSSAI #FoodScience",
+   "text": "Most packaged food in India carries four things FSSAI requires. Here's what to look at, in order.\n\n1. The veg or non-veg symbol.\n2. The FSSAI logo and licence number.\n3. The ingredient list, in order of weight.\n4. The nutrition information, per 100 g or per pack.\n\nIf you'd like to understand food standards in depth, NNWA's Food Science & FSSAI course is 100% online.\n\nFree on our website: the Indian Foods and Nutrients guide. Link in bio.\n\nSource: FSSAI, Labelling and Display Regulations, 2020\n\n#FoodLabels #NNWA #FSSAI #FoodScience",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Link in bio: nnwa.in/courses\nSources: FSSAI, Labelling and Display Regulations, 2020\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Indian Foods and Nutrients guide: nnwa.in/guides/indian-foods-and-nutrients/\nFood Science & FSSAI: nnwa.in/courses/food-science-fssai/\nBoth are linked in our bio.\nSources: FSSAI, Labelling and Display Regulations, 2020\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -4147,11 +3965,11 @@
      }
     }
    ],
-   "text": "Most packaged food in India carries four things FSSAI requires. Here's what to look at, in order.\n\n1. The veg or non-veg symbol.\n2. The FSSAI logo and licence number.\n3. The ingredient list, in order of weight.\n4. The nutrition information, per 100 g or per pack.\n\nIf you'd like to understand food standards in depth, NNWA's Food Science & FSSAI course is 100% online.\n\nExplore the course from the link in the first comment.\n\nSource: FSSAI, Labelling and Display Regulations, 2020",
+   "text": "Most packaged food in India carries four things FSSAI requires. Here's what to look at, in order.\n\n1. The veg or non-veg symbol.\n2. The FSSAI logo and licence number.\n3. The ingredient list, in order of weight.\n4. The nutrition information, per 100 g or per pack.\n\nIf you'd like to understand food standards in depth, NNWA's Food Science & FSSAI course is 100% online.\n\nFree on our website: the Indian Foods and Nutrients guide. It's linked in the first comment, with the course page.\n\nSource: FSSAI, Labelling and Display Regulations, 2020",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Courses (100% online): https://nnwa.in/courses?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-27-read-the-label\nSources: FSSAI, Labelling and Display Regulations, 2020"
+     "firstComment": "Free Indian Foods and Nutrients guide: https://nnwa.in/guides/indian-foods-and-nutrients/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-27-read-the-label\nFood Science & FSSAI (100% online): https://nnwa.in/courses/food-science-fssai/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-27-read-the-label\nSources: FSSAI, Labelling and Display Regulations, 2020"
     }
    }
   }
@@ -4163,10 +3981,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-27T10:00:00+05:30",
-   "text": "FSSAI's Labelling and Display Regulations (2020) require four things on most packaged foods: the veg or non-veg symbol, the FSSAI logo and licence number, an ingredient list in descending order of weight, and nutrition information.\n\nTeaching clients to read those four is one of the most useful half-hours in nutrition counselling. NNWA's Food Science & FSSAI course goes much further.\n\nCourses are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "FSSAI's Labelling and Display Regulations (2020) require four things on most packaged foods: the veg or non-veg symbol, the FSSAI logo and licence number, an ingredient list in descending order of weight, and nutrition information.\n\nTeaching clients to read those four is one of the most useful half-hours in nutrition counselling. NNWA's Food Science & FSSAI course goes much further.\n\nThe free Indian Foods and Nutrients guide and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Courses: https://nnwa.in/courses?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-27-read-the-label\nSources: FSSAI, Labelling and Display Regulations, 2020"
+     "firstComment": "Free Indian Foods and Nutrients guide: https://nnwa.in/guides/indian-foods-and-nutrients/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-27-read-the-label\nFood Science & FSSAI (100% online): https://nnwa.in/courses/food-science-fssai/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-27-read-the-label\nSources: FSSAI, Labelling and Display Regulations, 2020"
     }
    },
    "assets": [
@@ -4246,12 +4064,12 @@
      }
     }
    ],
-   "text": "Four swaps straight from ICMR-NIN's Dietary Guidelines for Indians (2024).\n\nDeep-fried snacks: try nuts and seeds.\nFruit juice: eat the whole fruit.\nRefined, high-sugar sweets: choose traditional sweets made with whole grains, millets, nuts and oilseeds.\nSugary drinks: buttermilk, lemon water or tender coconut water.\n\nNo food is banned. Small swaps add up.\n\nEight more easy wins are in our free guide. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#HealthySwaps #NNWA #IndianFood #EatRight",
+   "text": "Four swaps straight from ICMR-NIN's Dietary Guidelines for Indians (2024).\n\nDeep-fried snacks: try nuts and seeds.\nFruit juice: eat the whole fruit.\nRefined, high-sugar sweets: choose traditional sweets made with whole grains, millets, nuts and oilseeds.\nSugary drinks: buttermilk, lemon water or tender coconut water.\n\nNo food is banned. Small swaps add up, and they're at the heart of NNWA's Weight Management & Obesity Care course.\n\nFree on our website: the Calorie Calculator. Link in bio.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#HealthySwaps #NNWA #IndianFood #EatRight",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Calorie Calculator: nnwa.in/tools/calorie-calculator/\nWeight Management & Obesity Care: nnwa.in/courses/weight-management/\nBoth are linked in our bio.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -4273,11 +4091,11 @@
      }
     }
    ],
-   "text": "Four swaps straight from ICMR-NIN's Dietary Guidelines for Indians (2024).\n\nDeep-fried snacks: try nuts and seeds.\nFruit juice: eat the whole fruit.\nRefined, high-sugar sweets: choose traditional sweets made with whole grains, millets, nuts and oilseeds.\nSugary drinks: buttermilk, lemon water or tender coconut water.\n\nNo food is banned. Small swaps add up.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "Four swaps straight from ICMR-NIN's Dietary Guidelines for Indians (2024).\n\nDeep-fried snacks: try nuts and seeds.\nFruit juice: eat the whole fruit.\nRefined, high-sugar sweets: choose traditional sweets made with whole grains, millets, nuts and oilseeds.\nSugary drinks: buttermilk, lemon water or tender coconut water.\n\nNo food is banned. Small swaps add up, and they're at the heart of NNWA's Weight Management & Obesity Care course.\n\nFree on our website: the Calorie Calculator. It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Calorie Calculator: https://nnwa.in/tools/calorie-calculator/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-28-swaps\nWeight Management & Obesity Care (100% online): https://nnwa.in/courses/weight-management/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-28-swaps\nSources: ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -4345,12 +4163,12 @@
      }
     }
    ],
-   "text": "Six numbers from this month, all from ICMR-NIN.\n\n0.83 g of protein per kg of body weight a day.\nNot more than 5 g of salt a day.\n25 to 30 g of cooking oil a day.\n20 to 25 g of sugar, at most.\nAbout 8 glasses of water.\n30 to 60 minutes of activity, five days a week.\n\nSave this one.\n\nProtein, the first number, gets a whole free guide. Link in bio.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#ProteinDecoded #NNWA #NutritionBasics #SaveThis",
+   "text": "Six numbers from this month, all from ICMR-NIN.\n\n0.83 g of protein per kg of body weight a day.\nNot more than 5 g of salt a day.\n25 to 30 g of cooking oil a day.\n20 to 25 g of sugar, at most.\nAbout 8 glasses of water.\n30 to 60 minutes of activity, five days a week.\n\nSave this one. If you'd like to learn where numbers like these come from, NNWA's Introduction to Nutrition is a short place to start.\n\nFree on our website: the Indian Diet Starter Guide (free ebook). Link in bio.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024\n\n#NutritionBasics #NNWA #HealthyHabits #SaveThis",
    "metadata": {
     "instagram": {
      "type": "reel",
      "shouldShareToFeed": true,
-     "firstComment": "Free guide, Protein, decoded: link in bio.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): nnwa.in/pages/free-ebook/\nIntroduction to Nutrition: nnwa.in/courses/introduction-to-nutrition/\nBoth are linked in our bio.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -4369,11 +4187,11 @@
      }
     }
    ],
-   "text": "Six numbers from this month, all from ICMR-NIN.\n\n0.83 g of protein per kg of body weight a day.\nNot more than 5 g of salt a day.\n25 to 30 g of cooking oil a day.\n20 to 25 g of sugar, at most.\nAbout 8 glasses of water.\n30 to 60 minutes of activity, five days a week.\n\nSave this one.\n\nOur free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024",
+   "text": "Six numbers from this month, all from ICMR-NIN.\n\n0.83 g of protein per kg of body weight a day.\nNot more than 5 g of salt a day.\n25 to 30 g of cooking oil a day.\n20 to 25 g of sugar, at most.\nAbout 8 glasses of water.\n30 to 60 minutes of activity, five days a week.\n\nSave this one. If you'd like to learn where numbers like these come from, NNWA's Introduction to Nutrition is a short place to start.\n\nFree on our website: the Indian Diet Starter Guide (free ebook). It's linked in the first comment, with the course page.\n\nSource: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024",
    "metadata": {
     "facebook": {
      "type": "reel",
-     "firstComment": "Free guide, Protein, decoded: coming soon to this page.\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024"
+     "firstComment": "Free Indian Diet Starter Guide (free ebook): https://nnwa.in/pages/free-ebook/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-29-reel-recap\nIntroduction to Nutrition (100% online): https://nnwa.in/courses/introduction-to-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-29-reel-recap\nSources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024"
     }
    }
   }
@@ -4390,7 +4208,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-29-reel-recap-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. One number per scene: '0.83 g protein per kg', '5 g salt', '25 to 30 g oil', '20 to 25 g sugar', '8 glasses of water', '30 to 60 minutes of activity'. End card: 'Free guide: nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. One number per scene: '0.83 g protein per kg', '5 g salt', '25 to 30 g oil', '20 to 25 g sugar', '8 glasses of water', '30 to 60 minutes of activity'. End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -4415,7 +4233,7 @@
      "image": {
       "url": "https://raw.githubusercontent.com/nnwaofficial/nnwa-social-assets/claude/project-thread-gc5kzu/2026/11/stories/2026-11-29-reel-recap-story.jpg",
       "metadata": {
-       "altText": "Story version of today's post. Reel. One number per scene: '0.83 g protein per kg', '5 g salt', '25 to 30 g oil', '20 to 25 g sugar', '8 glasses of water', '30 to 60 minutes of activity'. End card: 'Free guide: nnwa.in/protein'."
+       "altText": "Story version of today's post. Reel. One number per scene: '0.83 g protein per kg', '5 g salt', '25 to 30 g oil', '20 to 25 g sugar', '8 glasses of water', '30 to 60 minutes of activity'. End card: 'Free tools and guides. Calculators, guides and 100% online courses.' nnwa.in."
       }
      }
     }
@@ -4444,12 +4262,12 @@
      }
     }
    ],
-   "text": "All month we've shared numbers from ICMR-NIN and FSSAI. Some of you have been forwarding them to family groups.\n\nIf explaining food clearly is something you'd like to do properly, for your family, your clients or your career, that's what NNWA teaches. 100% online, with every lesson built on Indian guidelines.\n\nSee the courses and talk to a counsellor.\n\nExplore the courses from the link in bio.\n\n#NNWA #NutritionCourse #CareerInNutrition #OnlineLearning",
+   "text": "All month we've shared numbers from ICMR-NIN and FSSAI. Some of you have been forwarding them to family groups.\n\nIf explaining food clearly is something you'd like to do properly, for your family, your clients or your career, that's what NNWA teaches. 100% online, with every lesson built on Indian guidelines.\n\nFree on our website: the Building a Nutrition Practice in India guide. Link in bio.\n\n#NNWA #NutritionCourse #CareerInNutrition #OnlineLearning",
    "metadata": {
     "instagram": {
      "type": "post",
      "shouldShareToFeed": true,
-     "firstComment": "Link in bio: nnwa.in/courses"
+     "firstComment": "Free Building a Nutrition Practice in India guide: nnwa.in/guides/building-a-nutrition-practice-in-india/\nAll NNWA courses: nnwa.in/courses/\nBoth are linked in our bio.\nGeneral information for healthy adults, not medical advice."
     }
    }
   }
@@ -4471,11 +4289,11 @@
      }
     }
    ],
-   "text": "All month we've shared numbers from ICMR-NIN and FSSAI. Some of you have been forwarding them to family groups.\n\nIf explaining food clearly is something you'd like to do properly, for your family, your clients or your career, that's what NNWA teaches. 100% online, with every lesson built on Indian guidelines.\n\nSee the courses and talk to a counsellor.\n\nExplore the courses from the link in the first comment.",
+   "text": "All month we've shared numbers from ICMR-NIN and FSSAI. Some of you have been forwarding them to family groups.\n\nIf explaining food clearly is something you'd like to do properly, for your family, your clients or your career, that's what NNWA teaches. 100% online, with every lesson built on Indian guidelines.\n\nFree on our website: the Building a Nutrition Practice in India guide. It's linked in the first comment, with the course page.",
    "metadata": {
     "facebook": {
      "type": "post",
-     "firstComment": "Courses (100% online): https://nnwa.in/courses?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-30-make-it-your-work"
+     "firstComment": "Free Building a Nutrition Practice in India guide: https://nnwa.in/guides/building-a-nutrition-practice-in-india/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-30-make-it-your-work\nAll NNWA courses (100% online): https://nnwa.in/courses/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-30-make-it-your-work"
     }
    }
   }
@@ -4487,10 +4305,10 @@
    "schedulingType": "automatic",
    "mode": "customScheduled",
    "dueAt": "2026-11-30T10:00:00+05:30",
-   "text": "This month we've published one evidence-based number a day, every one traceable to ICMR-NIN or FSSAI.\n\nIf you or your team want to work with that kind of evidence every day, NNWA's courses cover nutrition, diabetes education, sports, child nutrition, food science and more. All online.\n\nCourses are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
+   "text": "This month we've published one evidence-based number a day, every one traceable to ICMR-NIN or FSSAI.\n\nIf you or your team want to work with that kind of evidence every day, NNWA's courses cover nutrition, diabetes education, sports, child nutrition, food science and more. All online.\n\nThe free Building a Nutrition Practice in India guide and the course page are linked in the first comment.\n\n#Nutrition #NutritionEducation #PublicHealth",
    "metadata": {
     "linkedin": {
-     "firstComment": "Courses: https://nnwa.in/courses?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026-admissions&utm_content=2026-11-30-make-it-your-work"
+     "firstComment": "Free Building a Nutrition Practice in India guide: https://nnwa.in/guides/building-a-nutrition-practice-in-india/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-30-make-it-your-work\nAll NNWA courses (100% online): https://nnwa.in/courses/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-30-make-it-your-work"
     }
    },
    "assets": [

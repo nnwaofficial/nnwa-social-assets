@@ -16,7 +16,7 @@ def px(i, w=1600):
     return f"https://images.pexels.com/photos/{i}/pexels-photo-{i}.jpeg?auto=compress&cs=tinysrgb&w={w}"
 
 
-GUIDE = "Free guide: nnwa.in/protein"
+GUIDE = "Free tools: nnwa.in"  # was the Protein, decoded guide (Hrito, 31 Oct: use course-linked website resources)
 COURSES = "Courses: nnwa.in/courses"
 CR = "Photo via Pexels"
 EB = "/mnt/project-files/ebooks/protein-decoded/source-v3/photos/"
@@ -60,7 +60,7 @@ C["2026-11-10-bhai-dooj"] = dict(name="2026-11-10-bhai-dooj", slides=[
     dict(layout="step", theme="forest", index="03", headline="Share one <em>home-cooked</em> meal.", photo=px(8818732), photo_tag="Half the plate",
          body="Make half the plate vegetables and fruit, the way ICMR-NIN's My Plate for the Day does.", credit=CR, cta=GUIDE),
     dict(layout="cta", theme="paper", headline="Habits last longer than <em>sweets</em>.",
-         body="Our free guide, Protein, decoded, has eight easy wins you can share with your sibling.", pill="nnwa.in/protein"),
+         body="Helping people build habits that stick is what NNWA's Wellness &amp; Lifestyle Coach course teaches.", pill="nnwa.in/courses"),
 ])
 C["2026-11-15-sugar"] = dict(layout="annot", theme="paper", photo=px(13466248), credit=CR, label="After the festival",
     headline="20 to 25 g of <em>sugar</em> a day, at most.",
@@ -119,7 +119,7 @@ C["2026-11-20-millets"] = dict(name="2026-11-20-millets", slides=[
     dict(layout="step", theme="paper", index="01", headline="One <em>bajra</em> or jowar roti a day.", body="Swap one wheat roti at lunch or dinner.", photo=px(7421117), photo_tag="Easy swap", credit=CR, cta=GUIDE),
     dict(layout="step", theme="forest", index="02", headline="Ragi in the <em>dosa</em> batter.", body="Mix ragi flour into dosa, idli or chilla batter.", photo=px(7420512), photo_tag="Breakfast", credit=CR, cta=GUIDE, chips=["Breakfast", "Snacks"]),
     dict(layout="step", theme="paper", index="03", headline="Millet <em>khichdi</em>, with dal.", body="Once or twice a week. Millet with dal also gives a better protein mix.", photo="file://" + EB + "f-dal.jpg", photo_tag="With dal", credit=CR, cta=GUIDE, chips=["Dinner", "Better protein mix"]),
-    dict(layout="cta", theme="forest", headline="Pair millets with <em>protein</em>.", body="Chapter 4 of our free guide, Protein, decoded, shows the combinations.", pill="nnwa.in/protein"),
+    dict(layout="cta", theme="forest", headline="Pair millets with <em>dal</em>.", body="Millets in a modern Indian diet: NNWA's Sustainable Nutrition &amp; Food Innovation course, 100% online.", pill="nnwa.in/courses"),
 ])
 C["2026-11-21-supplements-myth"] = dict(layout="glass", theme="photo", photo=None, credit=CR, pill="Myth check",
     headline="Protein powder to build muscle? ICMR-NIN says <em>avoid</em>.", body="Combine foods instead: dal with rice or roti, milk and curd, eggs, paneer, fish and chicken.", cta=GUIDE)
@@ -157,13 +157,13 @@ C["2026-11-25-reel-move-cover"] = dict(layout="reel", theme="photo", photo=px(78
 C["2026-11-29-reel-recap-cover"] = dict(layout="reel", theme="photo", photo=px(7420512), pill="Save this", number="6", unit="numbers", headline="from November, all from <em>ICMR-NIN</em>.")
 
 # Motion reels: list of scenes (story layout, no sticker). Each scene ~3.5 s with a slow zoom; end card last.
-END = dict(layout="story", theme="forest", photo=None, pill="Free guide", label="Protein, decoded", headline="Get the free <em>guide</em>.", body="34 pages. Every fact from ICMR-NIN and FSSAI. Link in bio.", bottom="nnwa.in/protein")
+END = dict(layout="story", theme="forest", photo=None, pill="Free on our website", label="NNWA", headline="Free tools and <em>guides</em>.", body="Calculators, guides and 100% online courses. Link in bio.", bottom="nnwa.in")
 REELS = {
     "2026-11-04-reel-500g": [("Plate check", "What does <em>500 g</em> look like?", "Vegetables and fruit, every day.", 12765459),
                              ("ICMR-NIN", "<em>400 g</em> of vegetables.", "And 100 g of fruit, for a 2,000 kcal day.", 17223838),
                              ("Try this", "Two katoris of <em>sabzi</em>.", "Plus a bowl of salad and a plate of greens.", 12765459),
                              ("And", "One whole <em>fruit</em>.", "That's about half your plate.", 5965988),
-                             ("Next", "The other half needs <em>protein</em>.", "Our free guide shows how.", 8818732)],
+                             ("And the rest", "The other <em>half</em>?", "Cereals, pulses or other protein, and dairy.", 8818732)],
     "2026-11-12-reel-oil": [("Kitchen check", "The oil from Diwali. Fry <em>again</em>?", "", 6823599),
                             ("ICMR-NIN", "Reheating oil forms <em>harmful</em> compounds.", "", 6823599),
                             ("Instead", "<em>Filter</em> it. Use it for curries.", "Within a day or two.", 8818732),
@@ -195,7 +195,7 @@ REELS = {
 def reel_scene_specs(slug):
     out = []
     for i, (pill, head, body, pid) in enumerate(REELS[slug]):
-        out.append(dict(layout="story", theme="photo", photo=px(pid), pill=pill, label="", headline=head, body=body, bottom="nnwa.in/protein", credit=CR))
+        out.append(dict(layout="story", theme="photo", photo=px(pid), pill=pill, label="", headline=head, body=body, bottom="nnwa.in", credit=CR))
     return out
 
 
