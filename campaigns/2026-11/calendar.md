@@ -557,6 +557,10 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
+Planning the festive spread?
+Free Indian Food Calorie Counter: nnwa.in/tools/indian-food-calorie-counter/
+Healthy Eating & Everyday Wellness: nnwa.in/courses/healthy-eating-essentials/
+Both are linked in our bio.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -578,6 +582,9 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Facebook):
 
 ```
+Planning the festive spread?
+Free Indian Food Calorie Counter: https://nnwa.in/tools/indian-food-calorie-counter/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-08-diwali
+Healthy Eating & Everyday Wellness (100% online): https://nnwa.in/courses/healthy-eating-essentials/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-08-diwali
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -596,6 +603,9 @@ Wishing you and your families a bright and healthy festival.
 First comment (LinkedIn):
 
 ```
+Planning the festive spread?
+Free Indian Food Calorie Counter: https://nnwa.in/tools/indian-food-calorie-counter/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-08-diwali
+Healthy Eating & Everyday Wellness (100% online): https://nnwa.in/courses/healthy-eating-essentials/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-08-diwali
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
 
@@ -928,7 +938,11 @@ To everyone observing Chhath, from all of us at NNWA: may your prayers be answer
 First comment (Instagram):
 
 ```
-
+For anyone curious about the food traditions of Bihar and eastern India:
+Free Regional Indian Diets guide: nnwa.in/guides/regional-indian-diets/
+Healthy Eating & Everyday Wellness: nnwa.in/courses/healthy-eating-essentials/
+Both are linked in our bio.
+General information for healthy adults, not medical advice.
 ```
 
 **Facebook**
@@ -944,7 +958,9 @@ To everyone observing Chhath, from all of us at NNWA: may your prayers be answer
 First comment (Facebook):
 
 ```
-
+For anyone curious about the food traditions of Bihar and eastern India:
+Free Regional Indian Diets guide: https://nnwa.in/guides/regional-indian-diets/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-13-chhath
+Healthy Eating & Everyday Wellness (100% online): https://nnwa.in/courses/healthy-eating-essentials/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-13-chhath
 ```
 
 **LinkedIn**
@@ -960,7 +976,9 @@ If you or someone in your family is fasting and has diabetes, a heart condition 
 First comment (LinkedIn):
 
 ```
-
+For anyone curious about the food traditions of Bihar and eastern India:
+Free Regional Indian Diets guide: https://nnwa.in/guides/regional-indian-diets/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-13-chhath
+Healthy Eating & Everyday Wellness (100% online): https://nnwa.in/courses/healthy-eating-essentials/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-13-chhath
 ```
 
 Alt text: Photo of the sun rising over a river. A glass card reads 'Chhath Puja. Gratitude to the sun, from all of us at NNWA.'
@@ -1759,7 +1777,11 @@ Service, sharing and gratitude. Wishing you and your family a blessed Gurpurab.
 First comment (Instagram):
 
 ```
-
+Cooking for many, in the spirit of the langar:
+Free 50 Indian Recipes ebook: nnwa.in/downloads/nnwa-50-indian-recipes.pdf
+Culinary Nutrition (Nutrition Chef): nnwa.in/courses/culinary-nutrition/
+Both are linked in our bio.
+General information for healthy adults, not medical advice.
 ```
 
 **Facebook**
@@ -1773,7 +1795,9 @@ Service, sharing and gratitude. Wishing you and your family a blessed Gurpurab.
 First comment (Facebook):
 
 ```
-
+Cooking for many, in the spirit of the langar:
+Free 50 Indian Recipes ebook: https://nnwa.in/downloads/nnwa-50-indian-recipes.pdf?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-24-gurpurab
+Culinary Nutrition (Nutrition Chef) (100% online): https://nnwa.in/courses/culinary-nutrition/?utm_source=facebook&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-24-gurpurab
 ```
 
 **LinkedIn**
@@ -1789,7 +1813,9 @@ The langar's idea of serving everyone the same meal, side by side, is one that a
 First comment (LinkedIn):
 
 ```
-
+Cooking for many, in the spirit of the langar:
+Free 50 Indian Recipes ebook: https://nnwa.in/downloads/nnwa-50-indian-recipes.pdf?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-24-gurpurab
+Culinary Nutrition (Nutrition Chef) (100% online): https://nnwa.in/courses/culinary-nutrition/?utm_source=linkedin&utm_medium=social&utm_campaign=nov-2026&utm_content=2026-11-24-gurpurab
 ```
 
 Alt text: Warm photo of a langar meal served in steel plates. Glass card: 'Guru Nanak Jayanti. Everyone sits together. Everyone is fed.'

@@ -15,12 +15,12 @@ Assets are in `2026/11/` (feed posts, carousels, LinkedIn PDFs, reel covers), `2
 - Facts come from government sources only (ICMR-NIN, FSSAI, MoHFW data). Creatives carry no citations; sources go in the caption and the first comment.
 - Each post names one relevant NNWA course in the caption, and its first comment links one free resource on nnwa.in (a calculator, a guide or the gated Indian Diet Starter Guide) plus the course page, with UTM tags (utm_campaign=nov-2026). Instagram comments carry plain nnwa.in paths, since IG links are not clickable. The mapping is the `LEAD` block in calendar.py. No comment-keyword CTAs and no DM automation.
 - No fees, batch dates, placement or outcome claims. The MSU line is not used.
-- Greeting posts are respectful and carry no sales CTA in the caption (Guru Nanak Jayanti).
+- Greeting posts (Diwali, Chhath, Guru Nanak Jayanti) carry no sales CTA in the caption; their first comment still links a free resource and a course (`GREET_LEAD` in calendar.py). Every feed post has a first comment; Stories cannot carry one.
 
 ## Status (31 Oct 2026)
 - 154 posts are scheduled in Buffer (IG, FB, LinkedIn, 1 to 30 Nov). Buffer reads images and videos from this branch's raw URLs, so do not delete or rename `claude/project-thread-gc5kzu` or anything under `2026/11/` before 1 Dec 2026. Re-rendered files were sent to Buffer with `?v=2` on the URL so it fetched the new versions.
 - Protein, decoded is no longer the default CTA. The 1 Nov launch post (`guide-launch`, IG + FB + two Stories) is held via `HELD` in calendar.py and was deleted from Buffer, so 1 Nov has no feed post. The 30 morning link-sticker Stories are still not scheduled.
-- Greeting posts (Diwali, Chhath, Gurpurab) carry no sales line; sources go in the first comment only.
+- Greeting posts (Diwali, Chhath, Gurpurab) carry no sales line in the caption; the free resource and course go in the first comment.
 
 ## To restore the guide launch
 1. Make nnwa.in/protein live and point the Instagram bio at it (or a link page).

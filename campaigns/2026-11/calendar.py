@@ -434,6 +434,16 @@ CRS = {  # exact Sanity course names (nnwa-zoho-receipt courses.md) -> page path
     "Food Science & FSSAI": "/courses/food-science-fssai/",
     "Weight Management & Obesity Care": "/courses/weight-management/",
 }
+# Hrito, 31 Oct: every feed post gets a first comment with a free resource. Greeting captions stay sales-free;
+# the resource goes in the first comment only.
+GREET_LEAD = {
+    "diwali": dict(course="Healthy Eating & Everyday Wellness", mag="food-counter",
+                   intro="Planning the festive spread?"),
+    "chhath": dict(course="Healthy Eating & Everyday Wellness", mag="regional",
+                   intro="For anyone curious about the food traditions of Bihar and eastern India:"),
+    "gurpurab": dict(course="Culinary Nutrition (Nutrition Chef)", mag="recipes",
+                     intro="Cooking for many, in the spirit of the langar:"),
+}
 HELD = {"guide-launch"}  # announces Protein, decoded; held until the guide is live
 
 LEAD = {
@@ -756,11 +766,20 @@ def captions(p):
     src = sources(p)
     tags = " ".join(p.get("tags", []))
     srcl = ("\n\nSource: " + "; ".join(src)) if src else ""
-    if p.get("cta") != "lead":  # greeting posts: no CTA, sources only
+    if p.get("cta") != "lead":  # greeting posts: no CTA in the caption; resource in the first comment
         ig = p["ig"] + srcl + ("\n\n" + tags if tags else "")
         fb = p["ig"] + srcl
         fc_src = ("Sources: " + "; ".join(src)) if src else ""
-        return ig, fb, (fc_src + ("\n" + DISCLAIMER if src else "")).strip(), fc_src
+        g = GREET_LEAD.get(p["slug"])
+        if not g:
+            return ig, fb, (fc_src + ("\n" + DISCLAIMER if src else "")).strip(), fc_src
+        name, mpath = MAG[g["mag"]]
+        q = dict(p, mag=g["mag"], course=g["course"])
+        fc_ig = (f"{g['intro']}\nFree {name}: nnwa.in{mpath}\n{g['course']}: nnwa.in{CRS[g['course']]}\nBoth are linked in our bio." +
+                 ("\n" + fc_src if src else "") + "\n" + DISCLAIMER)
+        fc_fb = (f"{g['intro']}\nFree {name}: {lead_url(mpath, 'facebook', q)}\n{g['course']} (100% online): {lead_url(CRS[g['course']], 'facebook', q)}" +
+                 ("\n" + fc_src if src else ""))
+        return ig, fb, fc_ig, fc_fb
     name, mpath, clabel, cpath = lead_parts(p)
     ig = p["ig"] + f"\n\nFree on our website: the {name}. Link in bio." + srcl + "\n\n" + tags
     fb = p["ig"] + f"\n\nFree on our website: the {name}. It's linked in the first comment, with the course page." + srcl
@@ -775,7 +794,14 @@ def li_caption(p):
     src = sources(p)
     if p.get("cta") != "lead":
         li = p["li"] + "\n\n#Nutrition #NutritionEducation #PublicHealth"
-        return li, (("Sources: " + "; ".join(src)) if src else "")
+        fc_src = ("Sources: " + "; ".join(src)) if src else ""
+        g = GREET_LEAD.get(p["slug"])
+        if not g:
+            return li, fc_src
+        name, mpath = MAG[g["mag"]]
+        fc = (f"{g['intro']}\nFree {name}: {lead_url(mpath, 'linkedin', p)}\n{g['course']} (100% online): {lead_url(CRS[g['course']], 'linkedin', p)}" +
+              ("\n" + fc_src if src else ""))
+        return li, fc
     name, mpath, clabel, cpath = lead_parts(p)
     li = p["li"] + f"\n\nThe free {name} and the course page are linked in the first comment." + "\n\n#Nutrition #NutritionEducation #PublicHealth"
     fc = (f"Free {name}: {lead_url(mpath, 'linkedin', p)}\n{clabel} (100% online): {lead_url(cpath, 'linkedin', p)}" +
