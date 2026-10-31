@@ -887,7 +887,7 @@ ICMR-NIN's Dietary Guidelines for Indians (2024) are clear on this. Heating oil 
 
 The guidelines also suggest 25 to 30 g of cooking oil a day in total, which is about five to six teaspoons.
 
-It's coming soon. Follow the NNWA page to get it first.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```
@@ -953,14 +953,12 @@ Today Chhath begins with Nahay Khay.
 Four days of devotion, discipline and gratitude to Surya and Chhathi Maiya. Families come together at the ghats, the thekua is made at home, and the baskets are filled with the season's harvest: sugarcane, bananas, coconut and fresh fruit.
 
 To everyone observing Chhath, from all of us at NNWA: may your prayers be answered and your families be well.
-
-Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 ```
 
 First comment (Facebook):
 
 ```
-Free guide, Protein, decoded: coming soon to this page.
+
 ```
 
 **LinkedIn**
@@ -970,15 +968,13 @@ Chhath Puja begins today. To everyone observing it, from all of us at NNWA: may 
 
 If you or someone in your family is fasting and has diabetes, a heart condition or is pregnant, please speak to your doctor before the fast.
 
-Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.
-
 #Nutrition #NutritionEducation #PublicHealth
 ```
 
 First comment (LinkedIn):
 
 ```
-Free guide, Protein, decoded: coming soon.
+
 ```
 
 Alt text: Photo of the sun rising over a river. A glass card reads 'Chhath Puja. Gratitude to the sun, from all of us at NNWA.'
@@ -1429,7 +1425,7 @@ Two things from the same guidelines that help: not more than 5 g of salt a day, 
 
 If someone you love hasn't had his blood pressure checked in a while, today's a good day to suggest it.
 
-It's coming soon. Follow the NNWA page to get it first.
+Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.
 
 Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data); ICMR-NIN, Dietary Guidelines for Indians, 2024
 ```

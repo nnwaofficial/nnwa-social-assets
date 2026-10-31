@@ -100,7 +100,7 @@ def build():
         if ch == "linkedin":
             text, fc = cal.li_caption(p)
             a["text"] = text
-            a["metadata"] = {"linkedin": {"firstComment": fc}}
+            a["metadata"] = {"linkedin": {"firstComment": fc}} if fc else {}
             if p.get("li_asset"):
                 a["assets"] = images([p["li_asset"]], p.get("li_alt") or p["alt"])
             elif p["slug"] in LI_PDF:
@@ -122,7 +122,7 @@ def build():
             a["metadata"] = {"instagram": {"type": typ, "shouldShareToFeed": True, "firstComment": fc_ig}}
         else:
             a["text"] = fb
-            a["metadata"] = {"facebook": {"type": typ, "firstComment": fc_fb}}
+            a["metadata"] = {"facebook": ({"type": typ, "firstComment": fc_fb} if fc_fb else {"type": typ})}
         out.append({"key": key, "args": a})
     return out
 

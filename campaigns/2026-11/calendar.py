@@ -15,6 +15,8 @@ GUIDE = "https://nnwa.in/protein"
 # Hrito, 31 Oct: nnwa.in/protein is not live yet, schedule without it. While False, guide CTAs carry no URL,
 # Instagram keeps "link in bio" (update the bio when the page is live) and the 09:00 link-sticker Stories are held.
 GUIDE_LIVE = False
+# Greeting posts: no guide line on Facebook or LinkedIn while the guide is not live.
+GREETING = {"chhath"}
 COURSES = "https://nnwa.in/courses"  # course page slugs to be confirmed once nnwa.in is reachable
 
 
@@ -542,10 +544,11 @@ def captions(p):
              ("\nSources: " + "; ".join(src) if src else "") + ("\n" + DISCLAIMER if src else ""))
     fc_fb = what + link(dest, "facebook", "social", f"{p['d']}-{p['slug']}") + ("\nSources: " + "; ".join(src) if src else "")
     if not course and not GUIDE_LIVE:
-        fb_cta = "" if p.get("soft") else ("It's coming soon. Follow the NNWA page to get it first." if "guide" in p["ig"] and p["d"] > "2026-11-04" else "Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.")
+        fb_cta = "" if (p.get("soft") or p["slug"] in GREETING) else ("It's coming soon. Follow the NNWA page to get it first." if "free guide" in p["ig"] and p["d"] > "2026-11-04" else "Our free guide, Protein, decoded, is coming soon. Follow the NNWA page to get it first.")
         fb = p["ig"] + ("\n\n" + fb_cta if fb_cta else "") + ("\n\nSource: " + "; ".join(src) if src else "")
         fc_ig = "Free guide, Protein, decoded: link in bio." + ("\nSources: " + "; ".join(src) if src else "") + ("\n" + DISCLAIMER if src else "")
-        fc_fb = "Free guide, Protein, decoded: coming soon to this page." + ("\nSources: " + "; ".join(src) if src else "")
+        fc_fb = ("" if p["slug"] in GREETING else "Free guide, Protein, decoded: coming soon to this page.\n") + ("Sources: " + "; ".join(src) if src else "")
+        fc_fb = fc_fb.strip()
     return ig, fb, fc_ig, fc_fb
 
 
@@ -554,14 +557,14 @@ def li_caption(p):
     course = p.get("cta") == "course"
     tail = ("Courses are linked in the first comment." if course else "The free guide, Protein, decoded, is linked in the first comment.")
     if not course and not GUIDE_LIVE:
-        tail = ("It's coming soon. Follow NNWA to get it first." if "guide" in p["li"] and p["d"] > "2026-11-04" else "Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.")
-    if p.get("soft"):
+        tail = ("It's coming soon. Follow NNWA to get it first." if "free guide" in p["li"] and p["d"] > "2026-11-04" else "Our free guide, Protein, decoded, is coming soon. Follow NNWA to get it first.")
+    if p.get("soft") or (p["slug"] in GREETING and not course):
         tail = ""
     li = p["li"] + ("\n\n" + tail if tail else "") + "\n\n#Nutrition #NutritionEducation #PublicHealth"
     dest = "course" if course else "guide"
     fc = ("Courses: " if course else "Free guide: ") + link(dest, "linkedin", "social", f"{p['d']}-{p['slug']}") + ("\nSources: " + "; ".join(src) if src else "")
     if not course and not GUIDE_LIVE:
-        fc = "Free guide, Protein, decoded: coming soon." + ("\nSources: " + "; ".join(src) if src else "")
+        fc = (("" if p["slug"] in GREETING else "Free guide, Protein, decoded: coming soon.\n") + ("Sources: " + "; ".join(src) if src else "")).strip()
     return li, fc
 
 
