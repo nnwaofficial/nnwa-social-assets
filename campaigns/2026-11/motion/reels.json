@@ -1,0 +1,51 @@
+{
+ "_note": "Motion reels v2 (31 Oct 2026). Same facts and sources as v1 (see ../sources.md). kinds: title | stat | list | plate | end. Photos are Pexels ids (free licence). <em> marks the one Fraunces italic word.",
+ "2026-11-04-reel-500g": [
+  {"kind": "title", "over": "Plate check", "head": "What does <em>500 g</em> look like?", "sub": "Vegetables and fruit, every day.", "photo": 12765459},
+  {"kind": "stat", "over": "ICMR-NIN", "num": "400", "unit": "g", "head": "of <em>vegetables</em> a day.", "sub": "Plus 100 g of fruit, for a 2,000 kcal day.", "photo": 17223838},
+  {"kind": "title", "over": "Try this", "head": "Two katoris of <em>sabzi</em>.", "sub": "Plus a bowl of salad and a plate of greens.", "photo": 12765459},
+  {"kind": "title", "over": "And", "head": "One whole <em>fruit</em>.", "sub": "That's about half your plate.", "photo": 5965988},
+  {"kind": "plate", "over": "The other half", "pct": 50, "head": "The other <em>half</em>?", "sub": "Cereals, pulses or other protein, and dairy.", "photo": 8818732},
+  {"kind": "end"}
+ ],
+ "2026-11-12-reel-oil": [
+  {"kind": "title", "over": "Kitchen check", "head": "The oil from Diwali. Fry <em>again</em>?", "photo": 6823599},
+  {"kind": "title", "over": "ICMR-NIN", "head": "Reheating oil forms <em>harmful</em> compounds.", "photo": 6823599},
+  {"kind": "title", "over": "Instead", "head": "<em>Filter</em> it. Use it for curries.", "sub": "Within a day or two.", "photo": 8818732},
+  {"kind": "title", "over": "Rule", "head": "Don't fry with it <em>again</em>.", "photo": 6823599},
+  {"kind": "stat", "over": "Daily total", "num": "25–30", "unit": "g", "head": "of oil a <em>day</em>.", "sub": "About five to six teaspoons.", "photo": 8818732},
+  {"kind": "end"}
+ ],
+ "2026-11-18-reel-sources": [
+  {"kind": "title", "over": "How we work", "head": "Where do our <em>numbers</em> come from?", "photo": 4492194},
+  {"kind": "list", "over": "Only", "items": ["ICMR-NIN", "FSSAI", "MoHFW"], "sub": "Indian government sources.", "photo": 7683820},
+  {"kind": "title", "over": "Always", "head": "Every figure, <em>traceable</em>.", "sub": "No anonymous studies, no brand claims.", "photo": 4492194},
+  {"kind": "stat", "over": "Check us", "pre": "not more than", "num": "5", "unit": "g", "head": "of <em>salt</em> a day.", "sub": "Dietary Guidelines for Indians, 2024.", "photo": 13466248},
+  {"kind": "end"}
+ ],
+ "2026-11-22-reel-breakfasts": [
+  {"kind": "title", "over": "Protein, counted", "head": "Three Indian <em>breakfasts</em>.", "sub": "Values from ICMR-NIN's food tables.", "photo": 35763746},
+  {"kind": "stat", "over": "Breakfast 1", "pre": "about", "num": "13", "unit": "g", "head": "2 rotis + <em>dal</em>.", "sub": "60 g atta, 30 g raw dal.", "photo": "photos/f-dal.jpg"},
+  {"kind": "stat", "over": "Breakfast 2", "pre": "about", "num": "14", "unit": "g", "head": "1 egg + <em>milk</em>.", "sub": "One 50 g egg, 200 ml milk.", "photo": "photos/f-egg.jpg"},
+  {"kind": "stat", "over": "Breakfast 3", "pre": "about", "num": "15", "unit": "g", "head": "Paneer bhurji + 2 <em>rotis</em>.", "sub": "50 g paneer.", "photo": "photos/f-paneer.jpg"},
+  {"kind": "stat", "over": "Your number", "pre": "about", "num": "50", "unit": "g", "head": "a day for a 60 kg <em>adult</em>.", "sub": "0.83 g per kg, ICMR-NIN.", "photo": 8818732},
+  {"kind": "end"}
+ ],
+ "2026-11-25-reel-move": [
+  {"kind": "title", "over": "Move more", "head": "30 minutes, five <em>days</em>.", "photo": 7880267},
+  {"kind": "stat", "over": "Adults", "num": "30–60", "unit": "min", "head": "of <em>moderate</em> activity.", "sub": "At least five days a week.", "photo": 7880267},
+  {"kind": "stat", "over": "Children", "pre": "at least", "num": "60", "unit": "min", "head": "a <em>day</em>.", "sub": "Ages 5 to 19.", "photo": 8954918},
+  {"kind": "title", "over": "It counts", "head": "A brisk <em>walk</em> counts.", "sub": "So do stairs, cycling and dancing.", "photo": 7880267},
+  {"kind": "end"}
+ ],
+ "2026-11-29-reel-recap": [
+  {"kind": "title", "over": "November", "head": "Six numbers to <em>save</em>.", "sub": "All from ICMR-NIN.", "photo": 7420512},
+  {"kind": "stat", "idx": "01", "over": "Protein", "num": "0.83", "unit": "g", "head": "of <em>protein</em> per kg.", "sub": "Healthy adults, per day.", "photo": 8818732},
+  {"kind": "stat", "idx": "02", "over": "Salt", "pre": "not more than", "num": "5", "unit": "g", "head": "of <em>salt</em> a day.", "sub": "About one teaspoon.", "photo": 13466248},
+  {"kind": "stat", "idx": "03", "over": "Oil", "num": "25–30", "unit": "g", "head": "of <em>oil</em> a day.", "sub": "In total.", "photo": 6823599},
+  {"kind": "stat", "idx": "04", "over": "Sugar", "pre": "at most", "num": "20–25", "unit": "g", "head": "of <em>sugar</em> a day.", "sub": "Tea, sweets and drinks.", "photo": 13466248},
+  {"kind": "stat", "idx": "05", "over": "Water", "pre": "about", "num": "8", "unit": "glasses", "head": "of <em>water</em> a day.", "sub": "Including other drinks.", "photo": 7904429},
+  {"kind": "stat", "idx": "06", "over": "Activity", "num": "30–60", "unit": "min", "head": "of <em>activity</em>.", "sub": "Five days a week.", "photo": 7880267},
+  {"kind": "end"}
+ ]
+}
