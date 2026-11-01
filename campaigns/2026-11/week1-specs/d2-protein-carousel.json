@@ -1,0 +1,63 @@
+{
+ "name": "d2-protein",
+ "slides": [
+  {
+   "layout": "stat",
+   "theme": "paper",
+   "photo": "https://images.pexels.com/photos/11369845/pexels-photo-11369845.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "photo_pos": "center 70%",
+   "label": "Swipe",
+   "pill": "Protein basics",
+   "number": "0.83",
+   "unit": "g/kg",
+   "stat_label": "of protein per kg of body weight a day, for healthy adults",
+   "chips": [
+    "At 60 kg: about 50 g a day",
+    "Spread it across meals"
+   ],
+   "fine": "Source: ICMR-NIN, Nutrient Requirements for Indians, 2020 (RDA, healthy adults). General information only, not medical advice. Needs differ in pregnancy, older age, kidney disease and heavy training.",
+   "credit": "Photo via Pexels"
+  },
+  {
+   "layout": "step",
+   "theme": "forest",
+   "index": "01",
+   "headline": "Start with your <em>weight</em>.",
+   "body": "Multiply your body weight in kg by <b>0.83</b> to get your daily protein in grams.",
+   "callout_label": "Worked example",
+   "callout": "60 kg × 0.83 ≈ <em>50 g</em> a day"
+  },
+  {
+   "layout": "step",
+   "theme": "paper",
+   "index": "02",
+   "headline": "Spread it across <em>meals</em>.",
+   "body": "Aim for a protein food at breakfast, lunch and dinner rather than one large serving.",
+   "photo": "https://images.pexels.com/photos/35763746/pexels-photo-35763746.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "photo_tag": "Chana: an everyday protein source",
+   "credit": "Photo via Pexels"
+  },
+  {
+   "layout": "step",
+   "theme": "forest",
+   "index": "03",
+   "headline": "Mix your <em>sources</em>.",
+   "body": "Combining cereals with pulses, like dal with rice or roti, improves protein quality.",
+   "chips": [
+    "Dal and pulses",
+    "Curd and paneer",
+    "Eggs",
+    "Soya",
+    "Peanuts and seeds",
+    "Fish and chicken"
+   ]
+  },
+  {
+   "layout": "cta",
+   "theme": "paper",
+   "headline": "Find your number, <em>free</em>.",
+   "body": "Our free Protein Calculator on nnwa.in works it out with Indian foods. Learn to plan it for others in NNWA's Certification in Nutrition.",
+   "pill": "nnwa.in"
+  }
+ ]
+}

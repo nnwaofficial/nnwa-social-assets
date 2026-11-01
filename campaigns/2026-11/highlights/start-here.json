@@ -1,0 +1,41 @@
+[
+ {
+  "theme": "forest",
+  "pg": "1 / 3",
+  "over": "Start here",
+  "head": "Hello, we're <em>NNWA</em>.",
+  "rows": [
+   "Nutrition &amp; Wellness Academy",
+   "Courses in nutrition, wellness and fitness",
+   "100% online, in English and Hindi"
+  ],
+  "foot": "Tap for more",
+  "big": "01"
+ },
+ {
+  "theme": "paper",
+  "pg": "2 / 3",
+  "over": "How we work",
+  "head": "Every number, <em>traceable</em>.",
+  "rows": [
+   "Facts only from Indian government sources",
+   "ICMR-NIN, FSSAI, MoHFW and others",
+   "Every post names its source"
+  ],
+  "foot": "No brand tie-ins",
+  "big": "02"
+ },
+ {
+  "theme": "forest",
+  "pg": "3 / 3",
+  "over": "Free on our website",
+  "head": "Start learning <em>free</em>.",
+  "rows": [
+   "Calculators: protein, calories, water",
+   "Guides to Indian foods and diets",
+   "Every course, side by side"
+  ],
+  "foot": "Tap the link. General information, not medical advice",
+  "big": "03"
+ }
+]

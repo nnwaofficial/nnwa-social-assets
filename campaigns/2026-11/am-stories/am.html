@@ -1,0 +1,84 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Poppins;src:url(../motion/fonts/Poppins-Light.ttf);font-weight:300}
+@font-face{font-family:Poppins;src:url(../motion/fonts/Poppins-Regular.ttf);font-weight:400}
+@font-face{font-family:Poppins;src:url(../motion/fonts/Poppins-Medium.ttf);font-weight:500}
+@font-face{font-family:Poppins;src:url(../motion/fonts/Poppins-SemiBold.ttf);font-weight:600}
+@font-face{font-family:Poppins;src:url(../motion/fonts/Poppins-Bold.ttf);font-weight:700}
+@font-face{font-family:Fraunces;src:url(../motion/fonts/Fraunces-Italic-Variable.ttf);font-style:italic;font-weight:100 900}
+:root{--forest:#123A2F;--green:#1F5C4C;--brass:#C8A04B;--brass-l:#E4C77E;--paper:#FBF8F1;--ink:#1B1D1B;--sage:#E3ECE6;--muted:#5A615D}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden}
+body{font-family:Poppins,sans-serif;position:relative}
+.s{position:absolute;inset:0;overflow:hidden}
+.forest{background:radial-gradient(120% 70% at 85% 0%,#1F5C4C 0%,#123A2F 55%,#0B2620 100%);color:#fff}
+.paper{background:radial-gradient(120% 70% at 85% 0%,#fff 0%,#FBF8F1 50%,#F1ECDF 100%);color:var(--ink)}
+.bigday{position:absolute;right:-30px;top:150px;font-family:Fraunces;font-style:italic;font-weight:300;font-size:620px;line-height:1;letter-spacing:-.04em;opacity:.045}
+.ring{position:absolute;right:-260px;top:120px;width:760px;height:760px;border:2px dashed var(--brass);border-radius:50%;opacity:.35}
+.top{position:absolute;left:96px;right:96px;top:270px;display:flex;justify-content:space-between;align-items:center}
+.top img{height:58px}
+.date{font-weight:600;font-size:24px;letter-spacing:.2em;text-transform:uppercase;opacity:.8}
+.over{position:absolute;left:96px;top:400px;display:flex;align-items:center;gap:22px;font-weight:600;font-size:26px;letter-spacing:.2em;text-transform:uppercase;color:var(--brass)}
+.paper .over{color:#9C7A2E}
+.over:before{content:"";width:56px;height:3px;background:currentColor}
+.icon{position:absolute;right:96px;top:375px;width:96px;height:96px}
+.icon svg{width:100%;height:100%}
+h1{position:absolute;left:96px;right:96px;top:462px;font-weight:600;font-size:88px;line-height:1.04;letter-spacing:-.03em}
+h1 em{font-family:Fraunces;font-style:italic;font-weight:400;letter-spacing:-.01em;color:var(--brass-l)}
+.paper h1 em{color:var(--green)}
+.card{position:absolute;left:72px;right:72px;border-radius:40px;padding:38px 52px 34px}
+.forest .card{background:rgba(255,255,255,.08);border:1.5px solid rgba(255,255,255,.22)}
+.paper .card{background:rgba(255,255,255,.75);border:1.5px solid rgba(18,58,47,.12);box-shadow:0 30px 80px rgba(18,58,47,.10)}
+.lab{font-weight:600;font-size:22px;letter-spacing:.2em;text-transform:uppercase;opacity:.65;margin-bottom:18px}
+.flow{display:flex;align-items:center;gap:18px;flex-wrap:nowrap;padding:14px 0 24px;border-bottom:1.5px solid rgba(127,127,127,.28);margin-bottom:6px}
+.flow .in{font-weight:500;font-size:30px;white-space:nowrap}
+.flow .plus{color:var(--brass);font-weight:300;font-size:34px}
+.flow .arr{color:var(--brass);font-size:40px;line-height:1}
+.flow .out{font-family:Fraunces;font-style:italic;font-size:36px;color:var(--brass-l);line-height:1.1}
+.paper .flow .out{color:var(--green)}
+.row{display:flex;gap:28px;align-items:baseline;padding:19px 0;border-bottom:1.5px solid rgba(127,127,127,.28)}
+.row:last-child{border-bottom:0;padding-bottom:6px}
+.row b{font-family:Fraunces;font-style:italic;font-weight:400;font-size:40px;color:var(--brass);min-width:56px}
+.row span{font-size:32px;line-height:1.25;font-weight:400}
+.tie{position:absolute;left:96px;right:96px;font-size:26px;line-height:1.4}
+.tie .k{font-weight:600;letter-spacing:.16em;text-transform:uppercase;font-size:20px;color:var(--brass);display:block;margin-bottom:6px}
+.paper .tie .k{color:#9C7A2E}
+.tie q{font-weight:500;font-size:30px;quotes:"\201C" "\201D"}
+.tap{position:absolute;left:0;right:0;text-align:center;font-weight:500;font-size:26px;letter-spacing:.04em;opacity:.85}
+.tap i{display:block;font-style:normal;color:var(--brass);font-size:44px;line-height:1;margin-top:8px}
+.foot{position:absolute;left:96px;right:96px;top:1640px;display:flex;justify-content:space-between;align-items:flex-end;font-size:24px;line-height:1.35}
+.foot .c{max-width:640px}
+.foot .c b{font-weight:600}
+.foot .u{font-weight:600;font-size:28px}
+.muted{opacity:.72}
+</style></head>
+<body><div id="s" class="s"></div>
+<script>
+const ICON={
+ calculator:`<svg viewBox="0 0 96 96" fill="none" stroke="#C8A04B" stroke-width="3" stroke-linecap="round"><rect x="20" y="10" width="56" height="76" rx="10"/><rect x="30" y="20" width="36" height="16" rx="3"/><circle cx="34" cy="50" r="2.5" fill="#C8A04B"/><circle cx="48" cy="50" r="2.5" fill="#C8A04B"/><circle cx="62" cy="50" r="2.5" fill="#C8A04B"/><circle cx="34" cy="62" r="2.5" fill="#C8A04B"/><circle cx="48" cy="62" r="2.5" fill="#C8A04B"/><circle cx="62" cy="62" r="2.5" fill="#C8A04B"/><circle cx="34" cy="74" r="2.5" fill="#C8A04B"/><path d="M44 74h22"/></svg>`,
+ guide:`<svg viewBox="0 0 96 96" fill="none" stroke="#C8A04B" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><path d="M48 24c-10-7-22-8-34-6v56c12-2 24-1 34 6 10-7 22-8 34-6V18c-12-2-24-1-34 6z"/><path d="M48 24v56"/><path d="M24 34h14M24 44h14M58 34h14M58 44h14M58 54h10"/></svg>`,
+ ebook:`<svg viewBox="0 0 96 96" fill="none" stroke="#C8A04B" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><path d="M26 10h34l14 14v62H26z"/><path d="M60 10v14h14"/><path d="M50 40v26M40 56l10 10 10-10"/><path d="M36 76h28"/></svg>`,
+ compare:`<svg viewBox="0 0 96 96" fill="none" stroke="#C8A04B" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><rect x="10" y="18" width="32" height="60" rx="6"/><rect x="54" y="18" width="32" height="60" rx="6"/><path d="M18 34h16M18 46h16M18 58h10M62 34h16M62 46h16M62 58h10"/></svg>`
+};
+function kindIcon(k){k=k.toLowerCase();return k.includes('calculator')?ICON.calculator:k.includes('ebook')?ICON.ebook:k.includes('comparison')?ICON.compare:ICON.guide}
+window.build=function(d){
+  const s=document.getElementById('s');s.className='s '+d.theme;
+  const logo=d.theme==='forest'?'nnwa-wordmark-white.png':'nnwa-wordmark.png';
+  let flow='';
+  if(d.flow){const[ins,out]=d.flow;flow=`<div class="flow">${ins.map(x=>`<span class="in">${x}</span>`).join('<span class="plus">+</span>')}<span class="arr">&rarr;</span><span class="out">${out}</span></div>`}
+  const rows=d.rows.map((r,i)=>`<div class="row"><b>0${i+1}</b><span>${r}</span></div>`).join('');
+  s.innerHTML=`<div class="ring"></div><div class="bigday">${d.day}</div>
+   <div class="top"><img src="../motion/assets/${logo}"><div class="date">Day ${d.day} &middot; November</div></div>
+   <div class="over">Today's ${d.kind.replace('Free ','free ')}</div><div class="icon">${kindIcon(d.kind)}</div>
+   <h1 id="h">${d.head}</h1>
+   <div class="card" id="card"><div class="lab">What you get</div>${flow}${rows}</div>
+   <div class="tie" id="tie"><span class="k">Goes with today's post</span><q>${d.post}</q></div>
+   <div class="tap" id="tap">Tap the link to open it free<i>&darr;</i></div>
+   <div class="foot"><div class="c"><span class="muted">Go deeper:</span> <b>${d.course}</b><br><span class="muted">100% online</span></div><div class="u">${d.site}</div></div>`;
+  // vertical flow: headline -> card -> tie -> tap, keeping 1330-1600 free for the link sticker
+  const h=document.getElementById('h'),card=document.getElementById('card'),tie=document.getElementById('tie'),tap=document.getElementById('tap');
+  let y=h.offsetTop+h.offsetHeight+40;card.style.top=y+'px';y+=card.offsetHeight+34;tie.style.top=y+'px';y+=tie.offsetHeight+22;tap.style.top=y+'px';
+  return {bottom:y+tap.offsetHeight,h:h.offsetHeight};
+};
+</script></body></html>

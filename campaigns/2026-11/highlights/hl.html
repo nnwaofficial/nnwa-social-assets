@@ -1,0 +1,45 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:Poppins;src:url(../motion/fonts/Poppins-Regular.ttf);font-weight:400}
+@font-face{font-family:Poppins;src:url(../motion/fonts/Poppins-Medium.ttf);font-weight:500}
+@font-face{font-family:Poppins;src:url(../motion/fonts/Poppins-SemiBold.ttf);font-weight:600}
+@font-face{font-family:Fraunces;src:url(../motion/fonts/Fraunces-Italic-Variable.ttf);font-style:italic;font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}html,body{width:1080px;height:1920px;overflow:hidden;font-family:Poppins}
+.c{position:absolute;inset:0;background:radial-gradient(60% 34% at 50% 50%,#1F5C4C 0%,#123A2F 70%,#0B2620 100%)}
+.c .ring{position:absolute;left:140px;top:560px;width:800px;height:800px;border-radius:50%;border:3px dashed #C8A04B;opacity:.55}
+.c .ic{position:absolute;left:300px;top:720px;width:480px;height:480px}
+.c .ic.seal{background:#FBF8F1;border-radius:50%;padding:60px}
+.c .ic svg,.c .ic img{width:100%;height:100%}
+/* frames */
+.f{position:absolute;inset:0;color:#fff;background:radial-gradient(120% 70% at 85% 0%,#1F5C4C 0%,#123A2F 55%,#0B2620 100%)}
+.f.paper{background:radial-gradient(120% 70% at 85% 0%,#fff 0%,#FBF8F1 50%,#F1ECDF 100%);color:#1B1D1B}
+.f .top{position:absolute;left:96px;right:96px;top:270px;display:flex;justify-content:space-between;align-items:center}
+.f .top img{height:58px}.f .pg{font-weight:600;font-size:24px;letter-spacing:.2em;opacity:.8}
+.f .over{position:absolute;left:96px;top:430px;display:flex;align-items:center;gap:22px;font-weight:600;font-size:26px;letter-spacing:.2em;text-transform:uppercase;color:#C8A04B}
+.f.paper .over{color:#9C7A2E}.f .over:before{content:"";width:56px;height:3px;background:currentColor}
+.f h1{position:absolute;left:96px;right:96px;top:500px;font-weight:600;font-size:92px;line-height:1.05;letter-spacing:-.03em}
+.f h1 em{font-family:Fraunces;font-style:italic;font-weight:400;color:#E4C77E}.f.paper h1 em{color:#1F5C4C}
+.f .rows{position:absolute;left:96px;right:96px}
+.f .row{display:flex;gap:28px;align-items:baseline;padding:26px 0;border-bottom:1.5px solid rgba(127,127,127,.3)}
+.f .row:last-child{border:0}.f .row b{font-family:Fraunces;font-style:italic;font-weight:400;font-size:44px;color:#C8A04B;min-width:60px}
+.f .row span{font-size:36px;line-height:1.3}
+.f .big{position:absolute;right:-40px;top:1040px;font-family:Fraunces;font-style:italic;font-weight:300;font-size:640px;line-height:1;opacity:.06}
+.f .ring2{position:absolute;right:-220px;top:980px;width:700px;height:700px;border:2px dashed #C8A04B;border-radius:50%;opacity:.35}
+.f .foot{position:absolute;left:96px;right:96px;top:1600px;display:flex;justify-content:space-between;font-size:28px;font-weight:600}
+.f .foot .m{font-weight:400;opacity:.75}
+</style></head><body><div id="s"></div><script>
+const B='stroke="#E4C77E" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"';
+const I={
+ tools:`<svg viewBox="0 0 100 100" ${B}><rect x="24" y="10" width="52" height="80" rx="9"/><rect x="33" y="20" width="34" height="16" rx="3"/><path d="M36 52h0M50 52h0M64 52h0M36 66h0M50 66h0M64 66h0M36 80h0M50 80h28" stroke-width="9"/></svg>`,
+ courses:`<svg viewBox="0 0 100 100" ${B}><path d="M50 26c-11-8-24-9-38-7v58c14-2 27-1 38 7 11-8 24-9 38-7V19c-14-2-27-1-38 7z"/><path d="M50 26v58"/></svg>`,
+ protein:`<svg viewBox="0 0 100 100" ${B}><path d="M14 50h72c0 20-16 34-36 34S14 70 14 50z"/><path d="M30 50c2-8 8-12 14-12M52 50c2-10 10-15 18-14"/><path d="M40 92h20"/></svg>`,
+ eatwell:`<svg viewBox="0 0 100 100" ${B}><circle cx="50" cy="50" r="38"/><path d="M50 12v76"/><path d="M50 50h38"/></svg>`,
+ data:`<svg viewBox="0 0 100 100" ${B}><path d="M14 86h72"/><path d="M26 86V58M44 86V36M62 86V48M80 86V20"/></svg>`,
+ festivals:`<svg viewBox="0 0 100 100" ${B}><path d="M14 64c10 16 62 16 72 0z"/><path d="M50 18c-8 10-10 18-6 26 2 4 10 4 12 0 4-8 2-16-6-26z"/><path d="M50 80v8"/></svg>`,
+};
+window.cover=k=>{document.getElementById('s').innerHTML=`<div class="c"><div class="ring"></div><div class="ic${k==='start'?' seal':''}">${k==='start'?'<img src="../motion/assets/nnwa-seal.png">':I[k]}</div></div>`};
+window.frame=d=>{const logo=d.theme==='paper'?'nnwa-wordmark.png':'nnwa-wordmark-white.png';
+ document.getElementById('s').innerHTML=`<div class="f ${d.theme}"><div class="ring2"></div><div class="big">${d.big||""}</div><div class="top"><img src="../motion/assets/${logo}"><div class="pg">${d.pg}</div></div>
+ <div class="over">${d.over}</div><h1 id="h">${d.head}</h1><div class="rows" id="r">${d.rows.map((r,i)=>`<div class="row"><b>0${i+1}</b><span>${r}</span></div>`).join('')}</div>
+ <div class="foot"><span class="m">${d.foot||''}</span><span>nnwa.in</span></div></div>`;
+ const h=document.getElementById('h');document.getElementById('r').style.top=(h.offsetTop+h.offsetHeight+56)+'px';};
+</script></body></html>

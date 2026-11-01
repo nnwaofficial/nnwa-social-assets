@@ -1,0 +1,21 @@
+{
+ "layout": "annot",
+ "theme": "paper",
+ "photo": "https://images.pexels.com/photos/9974510/pexels-photo-9974510.jpeg?auto=compress&cs=tinysrgb&w=1600",
+ "photo_pos": "70% center",
+ "label": "Salt check",
+ "headline": "Not more than <em>5 g</em> of salt a day. That is one teaspoon.",
+ "tags": [
+  [
+   "ICMR-NIN advice",
+   "Not more than 5 g of salt a day, from all foods"
+  ],
+  [
+   "Hidden salt",
+   "Pickles, papads, namkeen and sauces count too"
+  ]
+ ],
+ "fine": "Source: ICMR-NIN, Dietary Guidelines for Indians, 2024. Not medical advice.",
+ "credit": "Photo via Pexels",
+ "cta": "Free tools: nnwa.in"
+}
