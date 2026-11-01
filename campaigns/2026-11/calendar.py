@@ -717,7 +717,7 @@ def md():
             "| Tue 24 Nov | Guru Nanak Jayanti | Greeting post, no sales CTA |",
             "| Thu 26 Nov | National Milk Day | Milk and curd post |", "",
             "## Captions", "",
-            "Week 1 feed captions (1 to 7 Nov) are in the lead-magnet plan (/mnt/project-files/lead-magnet-funnel/7-day-plan-lead-magnet.md). Everything else is below. Facebook uses the Instagram caption with the link in place of 'link in bio'. Every post has a first comment carrying the link and the sources.", ""]
+            "Week 1 feed captions (1 to 7 Nov) are in the lead-magnet plan (/mnt/project-files/lead-magnet-funnel/7-day-plan-lead-magnet.md). Everything else is below. Facebook uses the Instagram caption with the link in place of 'link in bio'. Every post has a first comment with the sources. On Facebook and LinkedIn it carries the links; on Instagram it carries no links at all (Hrito, 1 Nov: they can't be tapped there) and points to the bio link and, where it matches, the morning Story's link sticker.", ""]
     for p in P:
         if p.get("existing") and not p.get("ig") and not (p.get("li") and p["li"] != "see funnel plan" and not p.get("li", "").startswith("see")):
             continue
@@ -772,6 +772,27 @@ def lead_parts(p):
     return name, mpath, clabel, cpath
 
 
+# Hrito, 1 Nov 2026: no links in Instagram first comments (they can't be tapped there).
+# Point to the bio link, and to the morning Story's link sticker when it carries the same resource.
+_AM = None
+
+
+def am_mag(d):
+    global _AM
+    if _AM is None:
+        f = os.path.join(os.path.dirname(os.path.abspath(__file__)), "am-stories", "am-stories.json")
+        _AM = {x["date"]: x["mag"] for x in json.load(open(f))} if os.path.exists(f) else {}
+    return _AM.get(d)
+
+
+def ig_where(p, mag, name, clabel):
+    story = " or the link sticker on today's morning Story" if am_mag(p["d"]) == mag else ""
+    get = f"Get the {name}" if "free" in name.lower() else f"Get the free {name}"
+    deeper = ("Go deeper with one of our courses, all 100% online" if clabel == "All NNWA courses"
+              else f"Go deeper with {clabel}, 100% online")
+    return f"{get}: tap the link in our bio{story}.\n{deeper}. You'll find it on our website too."
+
+
 def captions(p):
     src = sources(p)
     tags = " ".join(p.get("tags", []))
@@ -785,7 +806,7 @@ def captions(p):
             return ig, fb, (fc_src + ("\n" + DISCLAIMER if src else "")).strip(), fc_src
         name, mpath = MAG[g["mag"]]
         q = dict(p, mag=g["mag"], course=g["course"])
-        fc_ig = (f"{g['intro']}\nFree {name}: nnwa.in{mpath}\n{g['course']}: nnwa.in{CRS[g['course']]}\nBoth are linked in our bio." +
+        fc_ig = (f"{g['intro']}\n" + ig_where(p, g["mag"], name, g["course"]) +
                  ("\n" + fc_src if src else "") + "\n" + DISCLAIMER)
         fc_fb = (f"{g['intro']}\nFree {name}: {lead_url(mpath, 'facebook', q)}\n{g['course']} (100% online): {lead_url(CRS[g['course']], 'facebook', q)}" +
                  ("\n" + fc_src if src else ""))
@@ -793,7 +814,7 @@ def captions(p):
     name, mpath, clabel, cpath = lead_parts(p)
     ig = p["ig"] + f"\n\nFree on our website: the {name}. Link in bio." + srcl + "\n\n" + tags
     fb = p["ig"] + f"\n\nFree on our website: the {name}. It's linked in the first comment, with the course page." + srcl
-    fc_ig = (f"Free {name}: nnwa.in{mpath}\n{clabel}: nnwa.in{cpath}\nBoth are linked in our bio." +
+    fc_ig = (ig_where(p, p.get("mag"), name, clabel) +
              ("\nSources: " + "; ".join(src) if src else "") + "\n" + DISCLAIMER)
     fc_fb = (f"Free {name}: {lead_url(mpath, 'facebook', p)}\n{clabel} (100% online): {lead_url(cpath, 'facebook', p)}" +
              ("\nSources: " + "; ".join(src) if src else ""))

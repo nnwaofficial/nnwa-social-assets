@@ -14,9 +14,9 @@ Assets are in `2026/11/` (feed posts, carousels, LinkedIn PDFs, reel covers), `2
 
 ## Rules applied
 - Facts come from government sources only (ICMR-NIN, FSSAI, MoHFW data). Creatives carry no citations; sources go in the caption and the first comment.
-- Each post names one relevant NNWA course in the caption, and its first comment links one free resource on nnwa.in (a calculator, a guide or the gated Indian Diet Starter Guide) plus the course page, with UTM tags (utm_campaign=nov-2026). Instagram comments carry plain nnwa.in paths, since IG links are not clickable. The mapping is the `LEAD` block in calendar.py. No comment-keyword CTAs and no DM automation.
+- Each post names one relevant NNWA course in the caption, and its first comment links one free resource on nnwa.in (a calculator, a guide or the gated Indian Diet Starter Guide) plus the course page, with UTM tags (utm_campaign=nov-2026). Instagram first comments carry no links or nnwa.in paths at all (Hrito, 1 Nov 2026: links in IG comments can't be tapped); they point to the link in bio and, when it carries the same resource, the 9 am Story's link sticker. Facebook and LinkedIn first comments keep their UTM links. The mapping is the `LEAD` block in calendar.py. No comment-keyword CTAs and no DM automation.
 - No fees, batch dates, placement or outcome claims. The MSU line is not used.
-- Greeting posts (Diwali, Chhath, Guru Nanak Jayanti) carry no sales CTA in the caption; their first comment still links a free resource and a course (`GREET_LEAD` in calendar.py). Every feed post has a first comment; Stories cannot carry one.
+- Greeting posts (Diwali, Chhath, Guru Nanak Jayanti) carry no sales CTA in the caption; their first comment still names a free resource and a course (linked on Facebook and LinkedIn, pointed to the bio on Instagram) (`GREET_LEAD` in calendar.py). Every feed post has a first comment; Stories cannot carry one.
 
 ## Status (31 Oct 2026)
 - 154 posts are scheduled in Buffer (IG, FB, LinkedIn, 1 to 30 Nov). Buffer reads images and videos from this branch's raw URLs, so do not delete or rename `claude/project-thread-gc5kzu` or anything under `2026/11/` before 1 Dec 2026. Re-rendered files were sent to Buffer with `?v=2` on the URL so it fetched the new versions.

@@ -104,7 +104,7 @@ Why these times: Instagram evenings and weekend late mornings, Facebook lunchtim
 
 ## Captions
 
-Week 1 feed captions (1 to 7 Nov) are in the lead-magnet plan (/mnt/project-files/lead-magnet-funnel/7-day-plan-lead-magnet.md). Everything else is below. Facebook uses the Instagram caption with the link in place of 'link in bio'. Every post has a first comment carrying the link and the sources.
+Week 1 feed captions (1 to 7 Nov) are in the lead-magnet plan (/mnt/project-files/lead-magnet-funnel/7-day-plan-lead-magnet.md). Everything else is below. Facebook uses the Instagram caption with the link in place of 'link in bio'. Every post has a first comment with the sources. On Facebook and LinkedIn it carries the links; on Instagram it carries no links at all (Hrito, 1 Nov: they can't be tapped there) and points to the bio link and, where it matches, the morning Story's link sticker.
 
 ### Sun 01 Nov: 17 dietary guidelines for Indians
 Format: Static, stat (new).
@@ -130,9 +130,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Indian Diet Starter Guide (free ebook): nnwa.in/pages/free-ebook/
-Introduction to Nutrition: nnwa.in/courses/introduction-to-nutrition/
-Both are linked in our bio.
+Get the Indian Diet Starter Guide (free ebook): tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Introduction to Nutrition, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -187,9 +186,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Indian Foods and Nutrients guide: nnwa.in/guides/indian-foods-and-nutrients/
-Gut Health & Digestive Wellness: nnwa.in/courses/gut-health/
-Both are linked in our bio.
+Get the free Indian Foods and Nutrients guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Gut Health & Digestive Wellness, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -264,9 +262,8 @@ Source: ICMR-NIN, Nutrient Requirements for Indians, 2020
 First comment (Instagram):
 
 ```
-Free Protein Calculator: nnwa.in/tools/protein-calculator/
-Certification in Nutrition: nnwa.in/courses/certification-nutrition/
-Both are linked in our bio.
+Get the free Protein Calculator: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Certification in Nutrition, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020
 General information for healthy adults, not medical advice.
 ```
@@ -339,9 +336,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Indian Diet Starter Guide (free ebook): nnwa.in/pages/free-ebook/
-Healthy Eating & Everyday Wellness: nnwa.in/courses/healthy-eating-essentials/
-Both are linked in our bio.
+Get the Indian Diet Starter Guide (free ebook): tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Healthy Eating & Everyday Wellness, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -416,9 +412,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free High Blood Pressure Diet guide: nnwa.in/guides/high-blood-pressure-diet-in-india/
-Cardiovascular (CVD) Nutrition: nnwa.in/courses/cardiac-nutrition/
-Both are linked in our bio.
+Get the free High Blood Pressure Diet guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Cardiovascular (CVD) Nutrition, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -491,9 +486,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Indian Diet Starter Guide (free ebook): nnwa.in/pages/free-ebook/
-Diploma in Nutrition, Dietetics & Public Health: nnwa.in/courses/diploma-nutrition/
-Both are linked in our bio.
+Get the Indian Diet Starter Guide (free ebook): tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Diploma in Nutrition, Dietetics & Public Health, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -566,9 +560,8 @@ Free on our website: the Indian Foods and Nutrients guide. Link in bio.
 First comment (Instagram):
 
 ```
-Free Indian Foods and Nutrients guide: nnwa.in/guides/indian-foods-and-nutrients/
-Antioxidants & Phytochemicals: nnwa.in/courses/antioxidants-phytochemicals/
-Both are linked in our bio.
+Get the free Indian Foods and Nutrients guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Antioxidants & Phytochemicals, 100% online. You'll find it on our website too.
 General information for healthy adults, not medical advice.
 ```
 
@@ -616,9 +609,8 @@ First comment (Instagram):
 
 ```
 Planning the festive spread?
-Free Indian Food Calorie Counter: nnwa.in/tools/indian-food-calorie-counter/
-Healthy Eating & Everyday Wellness: nnwa.in/courses/healthy-eating-essentials/
-Both are linked in our bio.
+Get the free Indian Food Calorie Counter: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Healthy Eating & Everyday Wellness, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -689,9 +681,8 @@ Free on our website: the side-by-side course comparison. Link in bio.
 First comment (Instagram):
 
 ```
-Free side-by-side course comparison: nnwa.in/courses/compare/
-All NNWA courses: nnwa.in/courses/
-Both are linked in our bio.
+Get the free side-by-side course comparison: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with one of our courses, all 100% online. You'll find it on our website too.
 General information for healthy adults, not medical advice.
 ```
 
@@ -763,9 +754,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Indian Diet Starter Guide (free ebook): nnwa.in/pages/free-ebook/
-Wellness & Lifestyle Coach: nnwa.in/courses/wellness-lifestyle-coach/
-Both are linked in our bio.
+Get the Indian Diet Starter Guide (free ebook): tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Wellness & Lifestyle Coach, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -848,9 +838,8 @@ Free on our website: the How to Become a Nutritionist in India guide. Link in bi
 First comment (Instagram):
 
 ```
-Free How to Become a Nutritionist in India guide: nnwa.in/guides/becoming-a-nutritionist-in-india/
-All NNWA courses: nnwa.in/courses/
-Both are linked in our bio.
+Get the free How to Become a Nutritionist in India guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with one of our courses, all 100% online. You'll find it on our website too.
 General information for healthy adults, not medical advice.
 ```
 
@@ -923,9 +912,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Indian Food Calorie Counter: nnwa.in/tools/indian-food-calorie-counter/
-Culinary Nutrition (Nutrition Chef): nnwa.in/courses/culinary-nutrition/
-Both are linked in our bio.
+Get the free Indian Food Calorie Counter: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Culinary Nutrition (Nutrition Chef), 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -997,9 +985,8 @@ First comment (Instagram):
 
 ```
 For anyone curious about the food traditions of Bihar and eastern India:
-Free Regional Indian Diets guide: nnwa.in/guides/regional-indian-diets/
-Healthy Eating & Everyday Wellness: nnwa.in/courses/healthy-eating-essentials/
-Both are linked in our bio.
+Get the free Regional Indian Diets guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Healthy Eating & Everyday Wellness, 100% online. You'll find it on our website too.
 General information for healthy adults, not medical advice.
 ```
 
@@ -1067,9 +1054,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
 First comment (Instagram):
 
 ```
-Free 150 Indian Recipes ebook: nnwa.in/downloads/nnwa-50-indian-recipes.pdf
-Child & Adolescent Nutrition: nnwa.in/courses/child-adolescent-nutrition/
-Both are linked in our bio.
+Get the free 150 Indian Recipes ebook: tap the link in our bio.
+Go deeper with Child & Adolescent Nutrition, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (CNNS data)
 General information for healthy adults, not medical advice.
 ```
@@ -1128,9 +1114,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 First comment (Instagram):
 
 ```
-Free Indian Diabetes Risk Score calculator: nnwa.in/tools/diabetes-risk-calculator/
-Diabetes Educator: nnwa.in/courses/diabetes-educator/
-Both are linked in our bio.
+Get the free Indian Diabetes Risk Score calculator: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Diabetes Educator, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 General information for healthy adults, not medical advice.
 ```
@@ -1209,9 +1194,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Prediabetes Diet guide: nnwa.in/guides/prediabetes-diet-in-india/
-Diabetes & Metabolic Nutrition: nnwa.in/courses/diabetes-nutrition/
-Both are linked in our bio.
+Get the free Prediabetes Diet guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Diabetes & Metabolic Nutrition, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1266,9 +1250,8 @@ Free on our website: the How to Evaluate Nutrition Institutes guide. Link in bio
 First comment (Instagram):
 
 ```
-Free How to Evaluate Nutrition Institutes guide: nnwa.in/guides/choosing-a-nutrition-course-in-india/
-All NNWA courses: nnwa.in/courses/
-Both are linked in our bio.
+Get the free How to Evaluate Nutrition Institutes guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with one of our courses, all 100% online. You'll find it on our website too.
 General information for healthy adults, not medical advice.
 ```
 
@@ -1342,9 +1325,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Pregnancy Diet guide: nnwa.in/guides/pregnancy-diet-in-india/
-Post-Pregnancy & Lactation Nutrition: nnwa.in/courses/post-pregnancy-nutrition/
-Both are linked in our bio.
+Get the free Pregnancy Diet guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Post-Pregnancy & Lactation Nutrition, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1421,9 +1403,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Nutrition Credentials in India guide: nnwa.in/guides/nutrition-credentials-in-india/
-Certification in Nutrition: nnwa.in/courses/certification-nutrition/
-Both are linked in our bio.
+Get the free Nutrition Credentials in India guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Certification in Nutrition, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1498,9 +1479,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 First comment (Instagram):
 
 ```
-Free High Blood Pressure Diet guide: nnwa.in/guides/high-blood-pressure-diet-in-india/
-Corporate Wellness: nnwa.in/courses/corporate-wellness/
-Both are linked in our bio.
+Get the free High Blood Pressure Diet guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Corporate Wellness, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024 (NFHS-5 data)
 General information for healthy adults, not medical advice.
 ```
@@ -1575,9 +1555,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Regional Indian Diets guide: nnwa.in/guides/regional-indian-diets/
-Sustainable Nutrition & Food Innovation: nnwa.in/courses/sustainable-nutrition/
-Both are linked in our bio.
+Get the free Regional Indian Diets guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Sustainable Nutrition & Food Innovation, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1652,9 +1631,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requi
 First comment (Instagram):
 
 ```
-Free Protein Calculator: nnwa.in/tools/protein-calculator/
-Dietary Supplements & Nutraceuticals: nnwa.in/courses/dietary-supplements/
-Both are linked in our bio.
+Get the free Protein Calculator: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Dietary Supplements & Nutraceuticals, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024; ICMR-NIN, Nutrient Requirements for Indians, 2020
 General information for healthy adults, not medical advice.
 ```
@@ -1711,9 +1689,8 @@ Source: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requi
 First comment (Instagram):
 
 ```
-Free Protein Calculator: nnwa.in/tools/protein-calculator/
-Sports Nutrition: nnwa.in/courses/sports-nutrition/
-Both are linked in our bio.
+Get the free Protein Calculator: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Sports Nutrition, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Indian Food Composition Tables, 2017; ICMR-NIN, Nutrient Requirements for Indians, 2020
 General information for healthy adults, not medical advice.
 ```
@@ -1768,9 +1745,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Water Intake Calculator: nnwa.in/tools/water-intake-calculator/
-Beverage Nutrition: Facts & Calories: nnwa.in/courses/beverage-nutrition/
-Both are linked in our bio.
+Get the free Water Intake Calculator: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Beverage Nutrition: Facts & Calories, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1836,9 +1812,8 @@ First comment (Instagram):
 
 ```
 Cooking for many, in the spirit of the langar:
-Free 150 Indian Recipes ebook: nnwa.in/downloads/nnwa-50-indian-recipes.pdf
-Culinary Nutrition (Nutrition Chef): nnwa.in/courses/culinary-nutrition/
-Both are linked in our bio.
+Get the free 150 Indian Recipes ebook: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Culinary Nutrition (Nutrition Chef), 100% online. You'll find it on our website too.
 General information for healthy adults, not medical advice.
 ```
 
@@ -1902,9 +1877,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Daily Energy (TDEE) Calculator: nnwa.in/tools/tdee-calculator/
-Fitness Nutrition Specialist: nnwa.in/courses/fitness-nutrition-specialist/
-Both are linked in our bio.
+Get the free Daily Energy (TDEE) Calculator: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Fitness Nutrition Specialist, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -1979,9 +1953,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Protein Calculator: nnwa.in/tools/protein-calculator/
-Dairy & Functional Foods Nutrition: nnwa.in/courses/dairy-nutrition/
-Both are linked in our bio.
+Get the free Protein Calculator: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Dairy & Functional Foods Nutrition, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -2057,9 +2030,8 @@ Source: FSSAI, Labelling and Display Regulations, 2020
 First comment (Instagram):
 
 ```
-Free Indian Foods and Nutrients guide: nnwa.in/guides/indian-foods-and-nutrients/
-Food Science & FSSAI: nnwa.in/courses/food-science-fssai/
-Both are linked in our bio.
+Get the free Indian Foods and Nutrients guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Food Science & FSSAI, 100% online. You'll find it on our website too.
 Sources: FSSAI, Labelling and Display Regulations, 2020
 General information for healthy adults, not medical advice.
 ```
@@ -2136,9 +2108,8 @@ Source: ICMR-NIN, Dietary Guidelines for Indians, 2024
 First comment (Instagram):
 
 ```
-Free Calorie Calculator: nnwa.in/tools/calorie-calculator/
-Weight Management & Obesity Care: nnwa.in/courses/weight-management/
-Both are linked in our bio.
+Get the free Calorie Calculator: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Weight Management & Obesity Care, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -2197,9 +2168,8 @@ Source: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Gui
 First comment (Instagram):
 
 ```
-Free Indian Diet Starter Guide (free ebook): nnwa.in/pages/free-ebook/
-Introduction to Nutrition: nnwa.in/courses/introduction-to-nutrition/
-Both are linked in our bio.
+Get the Indian Diet Starter Guide (free ebook): tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with Introduction to Nutrition, 100% online. You'll find it on our website too.
 Sources: ICMR-NIN, Nutrient Requirements for Indians, 2020; ICMR-NIN, Dietary Guidelines for Indians, 2024
 General information for healthy adults, not medical advice.
 ```
@@ -2251,9 +2221,8 @@ Free on our website: the Building a Nutrition Practice in India guide. Link in b
 First comment (Instagram):
 
 ```
-Free Building a Nutrition Practice in India guide: nnwa.in/guides/building-a-nutrition-practice-in-india/
-All NNWA courses: nnwa.in/courses/
-Both are linked in our bio.
+Get the free Building a Nutrition Practice in India guide: tap the link in our bio or the link sticker on today's morning Story.
+Go deeper with one of our courses, all 100% online. You'll find it on our website too.
 General information for healthy adults, not medical advice.
 ```
 
