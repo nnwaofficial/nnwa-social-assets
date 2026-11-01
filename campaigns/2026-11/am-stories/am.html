@@ -14,7 +14,8 @@ body{font-family:Poppins,sans-serif;position:relative}
 .s{position:absolute;inset:0;overflow:hidden}
 .forest{background:radial-gradient(120% 70% at 85% 0%,#1F5C4C 0%,#123A2F 55%,#0B2620 100%);color:#fff}
 .paper{background:radial-gradient(120% 70% at 85% 0%,#fff 0%,#FBF8F1 50%,#F1ECDF 100%);color:var(--ink)}
-.bigday{position:absolute;right:-30px;top:150px;font-family:Fraunces;font-style:italic;font-weight:300;font-size:620px;line-height:1;letter-spacing:-.04em;opacity:.045}
+/* 1 Nov polish: the day watermark and dashed ring sat under the headline and card; removed */
+.bigday{display:none;position:absolute;right:-30px;top:150px;font-family:Fraunces;font-style:italic;font-weight:300;font-size:620px;line-height:1;letter-spacing:-.04em;opacity:.045}
 .ring{position:absolute;right:-260px;top:120px;width:760px;height:760px;border:2px dashed var(--brass);border-radius:50%;opacity:.35}
 .top{position:absolute;left:96px;right:96px;top:270px;display:flex;justify-content:space-between;align-items:center}
 .top img{height:58px}
@@ -47,7 +48,7 @@ h1 em{font-family:Fraunces;font-style:italic;font-weight:400;letter-spacing:-.01
 .tie q{font-weight:500;font-size:30px;quotes:"\201C" "\201D"}
 .tap{position:absolute;left:0;right:0;text-align:center;font-weight:500;font-size:26px;letter-spacing:.04em;opacity:.85}
 .tap i{display:block;font-style:normal;color:var(--brass);font-size:44px;line-height:1;margin-top:8px}
-.foot{position:absolute;left:96px;right:96px;top:1640px;display:flex;justify-content:space-between;align-items:flex-end;font-size:24px;line-height:1.35}
+.foot{position:absolute;left:96px;right:96px;top:1612px;padding-top:28px;border-top:1.5px solid rgba(127,127,127,.25);display:flex;justify-content:space-between;align-items:flex-end;font-size:24px;line-height:1.35}
 .foot .c{max-width:640px}
 .foot .c b{font-weight:600}
 .foot .u{font-weight:600;font-size:28px}
@@ -68,7 +69,7 @@ window.build=function(d){
   let flow='';
   if(d.flow){const[ins,out]=d.flow;flow=`<div class="flow">${ins.map(x=>`<span class="in">${x}</span>`).join('<span class="plus">+</span>')}<span class="arr">&rarr;</span><span class="out">${out}</span></div>`}
   const rows=d.rows.map((r,i)=>`<div class="row"><b>0${i+1}</b><span>${r}</span></div>`).join('');
-  s.innerHTML=`<div class="ring"></div><div class="bigday">${d.day}</div>
+  s.innerHTML=`
    <div class="top"><img src="../motion/assets/${logo}"><div class="date">Day ${d.day} &middot; November</div></div>
    <div class="over">Today's ${d.kind.replace('Free ','free ')}</div><div class="icon">${kindIcon(d.kind)}</div>
    <h1 id="h">${d.head}</h1>

@@ -87,17 +87,19 @@ def body(d):
 <div class="note"><div class="bar"></div><p>{g("note")}</p></div>{brandbar({"credit": g("credit")}, t)}'''
     if L == "stat":
         chips = "".join(f'<span>{c}</span>' for c in g("chips", []))
+        longnum = " long" if len(str(g("number"))) > 4 else ""
+        fine = f'<p class="fine">{g("fine")}</p>' if g("fine") else ""
         return f'''<div class="topbar"><span class="label">{g("label","")}</span></div>{dots(d)}
 <div class="ring"></div>{photo(d, "circle")}
-<div class="eyebrowrow"><span class="overline"><i class="rule"></i>{g("pill","")}</span></div>
-<div class="num">{g("number")}<small>{g("unit","")}</small></div><div class="stat-label">{g("stat_label")}</div>
-<div class="facts">{chips}</div><p class="fine">{g("fine","")}</p>{brandbar({"credit": g("credit")}, t)}'''
+<div class="zone"><div><span class="overline"><i class="rule"></i>{g("pill","")}</span></div>
+<div class="num{longnum}">{g("number")}<small>{g("unit","")}</small></div><div class="stat-label">{g("stat_label")}</div>
+<div class="facts">{chips}</div>{fine}</div>{brandbar({"credit": g("credit")}, t)}'''
     if L == "annot":
         a, b = g("tags")
-        return f'''<div class="head"><span class="label">{g("label","")}</span><div class="h1" style="margin-top:22px">{g("headline")}</div></div>
-<div class="ring"></div>{photo(d, "circle")}
-<div class="tag left"><div class="label">{a[0]}</div><p>{a[1]}</p></div><div class="tag right"><div class="label">{b[0]}</div><p>{b[1]}</p></div>
-<p class="fine">{g("fine","")}</p>{brandbar({"credit": g("credit")}, t)}'''
+        fine = f'<p class="fine">{g("fine")}</p>' if g("fine") else ""
+        return f'''<div class="zone"><div class="head"><span class="label">{g("label","")}</span><div class="h1" style="margin-top:22px">{g("headline")}</div></div>
+<div class="tags"><div class="tag left"><div class="label">{a[0]}</div><p>{a[1]}</p></div><div class="tag right"><div class="label">{b[0]}</div><p>{b[1]}</p></div></div>
+<div class="stage"><div class="orb"><div class="ring"></div>{photo(d, "circle")}</div></div>{fine}</div>{brandbar({"credit": g("credit")}, t)}'''
     if L == "tiles":
         tiles = "".join(f'<div class="tile" style="background-image:url(\'{src(x["photo"])}\');background-position:{x.get("pos","center")}"><div class="glass"><b>{x["title"]}</b><span>{x["sub"]}</span></div></div>' for x in g("tiles"))
         return f'''<div class="head"><span class="label">{g("label","")}</span><div class="h1" style="margin-top:22px">{g("headline")}</div></div>{dots(d)}
@@ -111,8 +113,9 @@ def body(d):
         ph = photo(d, "", f'<span class="overline"><i class="rule"></i>{g("photo_tag","")}</span>') if g("photo") else ""
         chips = '<div class="facts">' + "".join(f'<span>{c}</span>' for c in g("chips", [])) + "</div>" if g("chips") else ""
         call = f'<div class="callout glass"><span class="label">{g("callout_label","")}</span><div class="calc">{g("callout")}</div></div>' if g("callout") else ""
-        return f'''{dots(d)}<div class="index">{g("index")}</div>
-<div class="content"><div class="h2">{g("headline")}</div><div class="body">{g("body","")}</div>{chips}</div>{ph}{call}{brandbar({"credit": g("credit")}, t)}'''
+        gap = '<div class="gap"></div>' if (ph or call) else ""
+        return f'''{dots(d)}<div class="zone"><div class="index">{g("index")}</div>
+<div class="content"><div class="h2">{g("headline")}</div><div class="body">{g("body","")}</div>{chips}</div>{gap}{ph}{call}</div>{brandbar({"credit": g("credit")}, t)}'''
     if L == "cta":
         return f'''{dots(d)}<div class="content"><img class="seal" src="../design-system/assets/nnwa-seal.png" alt=""><div class="h1">{g("headline")}</div><div class="body">{g("body","")}</div><div><span class="overline"><i class="rule"></i>{g("pill","")}</span></div></div>{brandbar({}, t)}'''
     if L == "reel":
